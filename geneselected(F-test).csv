@@ -1,0 +1,1041 @@
+Symbol,Ensembl Gene ID,Entrez,Type,Species,Chr,Position (Mbp),Description,percentage_gc_content,transcript_count,genomeSpan,cds_length,transcript_length,FiveUTR,ThreeUTR,nExons
+ IGLC7,ENSG00000211685,NA,IG_C_gene,Human,22,22.922594,immunoglobulin lambda constant 7 [Source:HGNC Symbol;Acc:HGNC:5861],60.32,1,441,320,441,NA,121,1
+ IGHGP,ENSG00000253755,NA,IG_C_pseudogene,Human,14,105.664633,immunoglobulin heavy constant gamma P (non-functional) [Source:HGNC Symbol;Acc:HGNC:5529],62.85,1,5211,NA,1178,NA,NA,6
+ IGHD3-3,ENSG00000211930,NA,IG_D_gene,Human,14,105.914359,immunoglobulin heavy diversity 3-3 [Source:HGNC Symbol;Acc:HGNC:5498],32.26,1,31,31,31,NA,NA,1
+ IGHJ4,ENSG00000240041,NA,IG_J_gene,Human,14,105.864215,immunoglobulin heavy joining 4 [Source:HGNC Symbol;Acc:HGNC:5538],58.7,1,46,46,46,NA,NA,1
+ IGHJ2P,ENSG00000237547,NA,IG_J_pseudogene,Human,14,105.864793,immunoglobulin heavy joining 2P (pseudogene) [Source:HGNC Symbol;Acc:HGNC:5535],68.33,1,60,NA,60,NA,NA,1
+ IGKV3-15,ENSG00000244437,NA,IG_V_gene,Human,2,89.085177,immunoglobulin kappa variable 3-15 [Source:HGNC Symbol;Acc:HGNC:5816],50.74,1,611,345,442,97,NA,2
+ IGKV1-17,ENSG00000240382,NA,IG_V_gene,Human,2,89.117342,immunoglobulin kappa variable 1-17 [Source:HGNC Symbol;Acc:HGNC:5733],49.5,1,503,351,378,27,NA,2
+ IGKV1D-8,ENSG00000239819,NA,IG_V_gene,Human,2,90.220727,immunoglobulin kappa variable 1D-8 [Source:HGNC Symbol;Acc:HGNC:5759],50.61,1,658,353,534,181,NA,2
+ IGHV3-7,ENSG00000211938,NA,IG_V_gene,Human,14,106.062151,immunoglobulin heavy variable 3-7 [Source:HGNC Symbol;Acc:HGNC:5620],52.72,1,533,351,430,79,NA,2
+ IGHV3-48,ENSG00000211964,NA,IG_V_gene,Human,14,106.53781,immunoglobulin heavy variable 3-48 [Source:HGNC Symbol;Acc:HGNC:5606],50.47,1,535,353,432,79,NA,2
+ IGHV1-58,ENSG00000211968,NA,IG_V_gene,Human,14,106.622357,immunoglobulin heavy variable 1-58 [Source:HGNC Symbol;Acc:HGNC:5555],55.31,1,499,353,414,61,NA,2
+ IGHV4-59,ENSG00000224373,NA,IG_V_gene,Human,14,106.627249,immunoglobulin heavy variable 4-59 [Source:HGNC Symbol;Acc:HGNC:5654],54.25,1,577,350,495,145,NA,2
+ IGHV2-70,ENSG00000274576,NA,IG_V_gene,Human,14,106.770577,immunoglobulin heavy variable 2-70 [Source:HGNC Symbol;Acc:HGNC:5577],51.58,1,444,358,358,NA,NA,2
+ IGHV1OR15-1,ENSG00000270505,NA,IG_V_gene,Human,15,22.160431,immunoglobulin heavy variable 1/OR15-1 (non-functional) [Source:HGNC Symbol;Acc:HGNC:5563],56.62,1,438,353,353,NA,NA,2
+ IGHV3OR16-9,ENSG00000270472,NA,IG_V_gene,Human,16,32.066065,immunoglobulin heavy variable 3/OR16-9 (non-functional) [Source:HGNC Symbol;Acc:HGNC:5644],54.42,1,294,294,294,NA,NA,1
+ IGLV6-57,ENSG00000211640,NA,IG_V_gene,Human,22,22.195799,immunoglobulin lambda variable 6-57 [Source:HGNC Symbol;Acc:HGNC:5927],56.49,1,478,353,353,NA,NA,2
+ IGLV3-16,ENSG00000211665,NA,IG_V_gene,Human,22,22.747383,immunoglobulin lambda variable 3-16 [Source:HGNC Symbol;Acc:HGNC:5901],55.66,1,539,347,385,38,NA,2
+ IGKV1-13,ENSG00000253497,NA,IG_V_pseudogene,Human,2,89.045995,immunoglobulin kappa variable 1-13 [Source:HGNC Symbol;Acc:HGNC:5731],50.21,1,472,NA,347,NA,NA,2
+ IGHV1-14,ENSG00000253709,NA,IG_V_pseudogene,Human,14,106.145891,immunoglobulin heavy variable 1-14 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:5547],52.7,1,241,NA,241,NA,NA,1
+ IGHV3-25,ENSG00000253441,NA,IG_V_pseudogene,Human,14,106.289029,immunoglobulin heavy variable 3-25 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:5589],49.22,1,451,NA,351,NA,NA,2
+ IGHVII-43-1,ENSG00000283195,NA,IG_V_pseudogene,Human,14,106.472791,immunoglobulin heavy variable (II)-43-1 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:5680],52.86,1,210,NA,210,NA,NA,1
+ IGKV1OR22-1,ENSG00000253481,NA,IG_V_pseudogene,Human,22,16.933521,immunoglobulin kappa variable 1/OR22-1 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:5772],49.9,1,483,NA,360,NA,NA,2
+ ,ENSG00000227193,NA,lncRNA,Human,1,121.118126,novel transcript,42.93,1,28701,NA,494,NA,NA,4
+ LINC00624,ENSG00000278811,100289211,lncRNA,Human,1,147.258885,long intergenic non-protein coding RNA 624 [Source:HGNC Symbol;Acc:HGNC:44254],39.44,2,258991,NA,3230,NA,NA,5
+ ,ENSG00000285184,NA,lncRNA,Human,1,150.04566,novel transcript,39.16,4,22063,NA,2127,NA,NA,4
+ GORAB-AS1,ENSG00000231407,NA,lncRNA,Human,1,170.460453,GORAB antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:54051],36.93,5,72195,NA,1528,NA,NA,3
+ LINC01633,ENSG00000260976,NA,lncRNA,Human,1,184.99971,long intergenic non-protein coding RNA 1633 [Source:HGNC Symbol;Acc:HGNC:52420],40.45,1,9080,NA,1423,NA,NA,3
+ ,ENSG00000260021,NA,lncRNA,Human,1,202.810238,"novel transcript, antisense to a novel transcript",50.84,1,592,NA,592,NA,NA,1
+ LINC01705,ENSG00000232679,NA,lncRNA,Human,1,222.010825,long intergenic non-protein coding RNA 1705 [Source:HGNC Symbol;Acc:HGNC:52493],42.01,3,53949,NA,835,NA,NA,3
+ ,ENSG00000286496,NA,lncRNA,Human,1,241.357343,novel transcript,41.19,3,6712,NA,2520,NA,NA,2
+ ,ENSG00000287516,NA,lncRNA,Human,1,241.413716,novel transcript,42,19,54946,NA,1477,NA,NA,4
+ ,ENSG00000286519,NA,lncRNA,Human,2,45.173722,novel transcript,41.42,1,2214,NA,1268,NA,NA,2
+ AFTPH-DT,ENSG00000260101,101927402,lncRNA,Human,2,64.522187,AFTPH divergent transcript [Source:HGNC Symbol;Acc:HGNC:52788],37.68,1,1924,NA,1924,NA,NA,1
+ ,ENSG00000286208,NA,lncRNA,Human,2,131.555007,novel transcript,38.56,1,13593,NA,4030,NA,NA,3
+ ,ENSG00000236449,NA,lncRNA,Human,2,174.547141,"novel transcript, antisense to WIPF1 and CHRNA1",42.96,4,229580,NA,2297,NA,NA,3
+ LINC01614,ENSG00000230838,105373869,lncRNA,Human,2,215.718043,long intergenic non-protein coding RNA 1614 [Source:HGNC Symbol;Acc:HGNC:51847],41.52,1,2902,NA,2168,NA,NA,2
+ ,ENSG00000261572,NA,lncRNA,Human,3,32.236688,"novel transcript, intronic to CMTM8",50.26,1,1912,NA,1912,NA,NA,1
+ ,ENSG00000239482,105374042,lncRNA,Human,3,112.302478,novel transcript,36.95,2,30314,NA,758,NA,NA,5
+ ,ENSG00000243176,NA,lncRNA,Human,3,157.174201,novel transcript,39.24,10,207065,NA,1449,NA,NA,3
+ ,ENSG00000244706,NA,lncRNA,Human,3,167.8665,novel transcript,36.03,4,83793,NA,848,NA,NA,6
+ LINC01014,ENSG00000223941,100874330,lncRNA,Human,3,178.419201,long intergenic non-protein coding RNA 1014 [Source:HGNC Symbol;Acc:HGNC:41353],37.99,3,38109,NA,474,NA,NA,3
+ ,ENSG00000249392,NA,lncRNA,Human,4,59.551142,novel transcript,35.74,1,79183,NA,558,NA,NA,6
+ LINC01094,ENSG00000251442,NA,lncRNA,Human,4,78.63878,long intergenic non-protein coding RNA 1094 [Source:HGNC Symbol;Acc:HGNC:49219],39.7,21,44406,NA,2005,NA,NA,4
+ THAP9-AS1,ENSG00000251022,NA,lncRNA,Human,4,82.893009,THAP9 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:44172],39.31,12,7952,NA,958,NA,NA,4
+ ,ENSG00000260091,NA,lncRNA,Human,4,119.409333,novel transcript,55.72,1,901,NA,901,NA,NA,1
+ RAB33B-AS1,ENSG00000273247,NA,lncRNA,Human,4,139.411927,RAB33B antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:55153],41.5,6,42108,NA,1770,NA,NA,2
+ ,ENSG00000287216,NA,lncRNA,Human,4,153.633692,"novel transcript, antisense to KIAA0922",41.89,1,21998,NA,1108,NA,NA,2
+ LINC02217,ENSG00000248455,101929544,lncRNA,Human,5,17.403889,long intergenic non-protein coding RNA 2217 [Source:HGNC Symbol;Acc:HGNC:53084],40.61,20,39731,NA,977,NA,NA,3
+ LINC02163,ENSG00000251026,NA,lncRNA,Human,5,104.079847,long intergenic non-protein coding RNA 2163 [Source:HGNC Symbol;Acc:HGNC:53024],34.07,5,326275,NA,985,NA,NA,5
+ ,ENSG00000253163,NA,lncRNA,Human,5,179.377531,novel transcript,59.87,1,1231,NA,624,NA,NA,2
+ LINC00581,ENSG00000280989,100874531,lncRNA,Human,6,21.485896,long intergenic non-protein coding RNA 581 [Source:HGNC Symbol;Acc:HGNC:43840],42.37,2,35519,NA,931,NA,NA,4
+ BRPF3-AS1,ENSG00000246982,NA,lncRNA,Human,6,36.146698,BRPF3 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:55591],40.1,3,50508,NA,808,NA,NA,3
+ PANDAR,ENSG00000281450,101154753,lncRNA,Human,6,36.673621,promoter of CDKN1A antisense DNA damage activated RNA [Source:HGNC Symbol;Acc:HGNC:44048],49.87,1,1506,NA,1506,NA,NA,1
+ ,ENSG00000235122,NA,lncRNA,Human,6,49.714325,novel transcript,36.87,23,106179,NA,655,NA,NA,5
+ LINC02528,ENSG00000226004,105378020,lncRNA,Human,6,137.943079,long intergenic non-protein coding RNA 2528 [Source:HGNC Symbol;Acc:HGNC:53554],40.11,2,14579,NA,466,NA,NA,2
+ LINC02544,ENSG00000261039,NA,lncRNA,Human,6,169.175277,long intergenic non-protein coding RNA 2544 [Source:HGNC Symbol;Acc:HGNC:53578],43.57,1,7565,NA,672,NA,NA,3
+ SUGCT-AS1,ENSG00000203446,NA,lncRNA,Human,7,40.538127,SUGCT antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:40745],37.99,1,8802,NA,1771,NA,NA,2
+ FEZF1-AS1,ENSG00000230316,154860,lncRNA,Human,7,122.303658,FEZF1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:41001],49.4,4,6462,NA,1814,NA,NA,4
+ FAM131B-AS1,ENSG00000272619,NA,lncRNA,Human,7,143.363899,FAM131B antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:55208],36.86,1,331,NA,331,NA,NA,1
+ LINC03023,ENSG00000254026,NA,lncRNA,Human,8,20.954012,long intergenic non-protein coding RNA 3023 [Source:HGNC Symbol;Acc:HGNC:56154],42.11,1,14893,NA,550,NA,NA,4
+ ,ENSG00000253746,NA,lncRNA,Human,8,37.405439,novel transcript,42.46,1,1286,NA,578,NA,NA,2
+ LINC01605,ENSG00000253161,NA,lncRNA,Human,8,37.421341,long intergenic non-protein coding RNA 1605 [Source:HGNC Symbol;Acc:HGNC:51654],44.29,5,132843,NA,812,NA,NA,4
+ C8orf44,ENSG00000288596,56260,lncRNA,Human,8,66.667615,chromosome 8 open reading frame 44 [Source:HGNC Symbol;Acc:HGNC:25646],40.76,5,17950,NA,1111,NA,NA,3
+ SLCO5A1-AS1,ENSG00000246528,101929759,lncRNA,Human,8,69.834087,SLCO5A1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:55595],44.41,4,20885,NA,905,NA,NA,2
+ RIPK2-DT,ENSG00000251136,101929709,lncRNA,Human,8,89.545424,RIPK2 divergent transcript [Source:HGNC Symbol;Acc:HGNC:55545],38.01,41,212389,NA,1459,NA,NA,4
+ OTUD6B-AS1,ENSG00000253738,NA,lncRNA,Human,8,91.059318,OTUD6B antisense RNA 1 (head to head) [Source:HGNC Symbol;Acc:HGNC:50466],35.85,4,11266,NA,3722,NA,NA,2
+ CFAP418-AS1,ENSG00000253773,NA,lncRNA,Human,8,95.204456,CFAP418 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:50444],40.05,10,606799,NA,1196,NA,NA,3
+ ,ENSG00000253395,NA,lncRNA,Human,8,101.122145,novel transcript,46.39,1,4014,NA,430,NA,NA,3
+ ,ENSG00000253259,NA,lncRNA,Human,8,130.89207,novel transcript,44.55,1,716,NA,474,NA,NA,2
+ ,ENSG00000227301,NA,lncRNA,Human,9,33.71969,novel transcript,52.41,1,2866,NA,1144,NA,NA,2
+ HNRNPK-AS1,ENSG00000235298,NA,lncRNA,Human,9,83.972233,HNRNPK antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:56061],37.49,1,3545,NA,390,NA,NA,2
+ LINC02834,ENSG00000285686,105376124,lncRNA,Human,9,86.669349,long intergenic non-protein coding RNA 2834 [Source:HGNC Symbol;Acc:HGNC:54368],39.97,1,38959,NA,1446,NA,NA,3
+ ,ENSG00000282952,NA,lncRNA,Human,10,78.538391,novel transcript,47.59,1,13329,NA,572,NA,NA,3
+ ,ENSG00000233258,NA,lncRNA,Human,10,83.911654,novel transcript,49.09,1,1269,NA,309,NA,NA,2
+ ,ENSG00000287326,728158,lncRNA,Human,10,126.42593,"Novel transcript, antisense to C10orf90",42.14,1,35028,NA,2971,NA,NA,7
+ LMNTD2-AS1,ENSG00000254815,692247,lncRNA,Human,11,0.557595,LMNTD2 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:41204],63.07,4,2513,NA,953,NA,NA,2
+ MIR210HG,ENSG00000247095,100506211,lncRNA,Human,11,0.565657,MIR210 host gene [Source:HGNC Symbol;Acc:HGNC:39524],61.51,9,2801,NA,1071,NA,NA,2
+ ,ENSG00000285751,NA,lncRNA,Human,11,39.024631,novel transcript,35.4,1,137008,NA,2383,NA,NA,3
+ RELA-DT,ENSG00000285533,105369347,lncRNA,Human,11,65.662988,RELA divergent transcript [Source:HGNC Symbol;Acc:HGNC:54185],46.94,9,8731,NA,1149,NA,NA,3
+ ,ENSG00000287851,NA,lncRNA,Human,11,67.316539,novel transcript,54.2,1,893,NA,893,NA,NA,1
+ NDUFV1-DT,ENSG00000184224,100505621,lncRNA,Human,11,67.60288,NDUFV1 divergent transcript [Source:HGNC Symbol;Acc:HGNC:26915],51.87,2,3827,NA,1778,NA,NA,2
+ CHKA-DT,ENSG00000255236,NA,lncRNA,Human,11,68.121624,CHKA divergent transcript [Source:HGNC Symbol;Acc:HGNC:55504],53.12,2,8895,NA,1170,NA,NA,2
+ LINC02712,ENSG00000273409,101929497,lncRNA,Human,11,127.271029,long intergenic non-protein coding RNA 2712 [Source:HGNC Symbol;Acc:HGNC:54229],37.02,2,66005,NA,442,NA,NA,3
+ CD27-AS1,ENSG00000215039,678655,lncRNA,Human,12,6.439001,CD27 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:43896],49.54,17,12607,NA,1498,NA,NA,5
+ ,ENSG00000257657,NA,lncRNA,Human,12,45.47552,novel transcript,39.36,2,135101,NA,1641,NA,NA,4
+ TMPO-AS1,ENSG00000257167,100128191,lncRNA,Human,12,98.512973,TMPO antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:44158],49.57,2,3450,NA,2494,NA,NA,2
+ ATXN8OS,ENSG00000230223,NA,lncRNA,Human,13,70.107213,ATXN8 opposite strand lncRNA [Source:HGNC Symbol;Acc:HGNC:10561],34.72,6,64526,NA,1833,NA,NA,5
+ LINC02297,ENSG00000257504,NA,lncRNA,Human,14,18.630318,long intergenic non-protein coding RNA 2297 [Source:HGNC Symbol;Acc:HGNC:53214],36.99,1,3317,NA,1493,NA,NA,3
+ ,ENSG00000273639,NA,lncRNA,Human,14,19.499737,novel transcript,41.04,2,178187,NA,570,NA,NA,6
+ ,ENSG00000273558,NA,lncRNA,Human,14,19.637225,novel transcript,47.97,1,4082,NA,1837,NA,NA,3
+ ,ENSG00000257395,NA,lncRNA,Human,14,19.68142,novel transcript,36.99,1,3320,NA,1493,NA,NA,3
+ ,ENSG00000257826,NA,lncRNA,Human,14,36.061026,novel transcript,38.72,1,6165,NA,886,NA,NA,3
+ ,ENSG00000274253,283683,lncRNA,Human,15,22.757835,"novel transcript, sense overlapping NIPA1",48.93,3,20907,NA,2036,NA,NA,4
+ ,ENSG00000187951,100288637,lncRNA,Human,15,30.658717,novel transcript,41.65,2,114277,NA,3144,NA,NA,4
+ LINC02349,ENSG00000259284,100506530,lncRNA,Human,15,61.729765,long intergenic non-protein coding RNA 2349 [Source:HGNC Symbol;Acc:HGNC:53271],36.49,3,1625,NA,1027,NA,NA,2
+ ,ENSG00000260957,NA,lncRNA,Human,15,62.28419,novel transcript,42.72,1,817,NA,592,NA,NA,2
+ ,ENSG00000248540,283731,lncRNA,Human,15,74.125915,novel transcript,56.32,4,3427,NA,2222,NA,NA,2
+ ,ENSG00000260367,NA,lncRNA,Human,16,28.973962,"novel transcript, antisense to SPNS1",54.25,1,4863,NA,1478,NA,NA,2
+ MMP2-AS1,ENSG00000260135,NA,lncRNA,Human,16,55.426797,MMP2 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:53142],44.19,4,35501,NA,769,NA,NA,3
+ ,ENSG00000259798,NA,lncRNA,Human,16,71.113352,novel transcript HYDIN,41.14,1,649,NA,483,NA,NA,2
+ ,ENSG00000273388,NA,lncRNA,Human,17,10.29182,"novel transcript, antisense to MYH13",46.09,1,26107,NA,523,NA,NA,2
+ ,ENSG00000281856,NA,lncRNA,Human,17,19.219143,novel transcript,54.51,2,3385,NA,854,NA,NA,2
+ ,ENSG00000285535,NA,lncRNA,Human,17,77.590532,novel transcript,48.08,2,90156,NA,2380,NA,NA,4
+ ,ENSG00000265671,NA,lncRNA,Human,18,0.894435,"novel transcript, antisense to ADCYAP1",44.66,1,13246,NA,351,NA,NA,2
+ ,ENSG00000266783,NA,lncRNA,Human,18,2.561172,"novel transcript, sense intronic METTL4",32.6,1,1049,NA,1049,NA,NA,1
+ ,ENSG00000265069,101927188,lncRNA,Human,18,6.954677,"novel transcript, antisense to LAMA1",50.49,1,2743,NA,2295,NA,NA,2
+ ,ENSG00000267239,NA,lncRNA,Human,18,13.203774,"novel transcript, antisense C18orf1",44.64,2,12594,NA,1150,NA,NA,2
+ ,ENSG00000283294,NA,lncRNA,Human,18,14.225224,novel transcript,44.9,1,117282,NA,3505,NA,NA,13
+ ,ENSG00000265737,NA,lncRNA,Human,18,14.816151,"novel transcript, antisense to ANKRD30B",37.44,1,9099,NA,586,NA,NA,2
+ ,ENSG00000263821,NA,lncRNA,Human,18,14.978739,novel transcript,40.24,1,1101,NA,1101,NA,NA,1
+ ,ENSG00000286293,NA,lncRNA,Human,18,15.184016,novel transcript,36.12,1,5745,NA,4140,NA,NA,2
+ ,ENSG00000266968,NA,lncRNA,Human,18,45.646153,novel transcript,38.32,1,1785,NA,1785,NA,NA,1
+ ,ENSG00000287758,NA,lncRNA,Human,18,78.926053,novel transcript,51.97,1,2442,NA,1245,NA,NA,3
+ LINC01775,ENSG00000267201,101928602,lncRNA,Human,19,2.458935,long intergenic non-protein coding RNA 1775 [Source:HGNC Symbol;Acc:HGNC:52565],53.65,1,3251,NA,371,NA,NA,2
+ ,ENSG00000267939,NA,lncRNA,Human,19,8.008729,novel transcript,46.55,1,7297,NA,421,NA,NA,2
+ ,ENSG00000268597,NA,lncRNA,Human,19,22.259693,novel transcript,45.16,1,1643,NA,386,NA,NA,2
+ ,ENSG00000267968,NA,lncRNA,Human,19,50.83053,"novel transcript, antisense to KLK15",49.8,1,20560,NA,392,NA,NA,3
+ ,ENSG00000223660,NA,lncRNA,Human,19,54.199454,novel transcript,50.77,1,518,NA,410,NA,NA,2
+ LINC00261,ENSG00000259974,140828,lncRNA,Human,20,22.547663,long intergenic non-protein coding RNA 261 [Source:HGNC Symbol;Acc:HGNC:16189],45.16,8,30980,NA,1413,NA,NA,4
+ ,ENSG00000225458,NA,lncRNA,Human,20,41.99114,novel transcript,43,1,72830,NA,594,NA,NA,2
+ R3HDML-AS1,ENSG00000226812,NA,lncRNA,Human,20,44.347552,R3HDML antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:55830],45.94,2,7634,NA,570,NA,NA,3
+ ,ENSG00000286006,NA,lncRNA,Human,20,55.775176,novel transcript,37.19,2,6056,NA,1046,NA,NA,4
+ ,ENSG00000254620,NA,lncRNA,Human,20,58.594417,novel transcript,45.67,1,9557,NA,507,NA,NA,2
+ ,ENSG00000226433,NA,lncRNA,Human,21,33.152614,novel transcript,44.96,2,6497,NA,866,NA,NA,3
+ ,ENSG00000230479,NA,lncRNA,Human,21,36.43036,novel transcript,47.32,1,50711,NA,893,NA,NA,2
+ ZNF295-AS1,ENSG00000237232,150142,lncRNA,Human,21,42.009194,ZNF295 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:23130],50.2,11,45937,NA,1253,NA,NA,2
+ ,ENSG00000233408,NA,lncRNA,Human,22,15.557577,novel transcript,37.01,1,3118,NA,1294,NA,NA,3
+ BCRP3,ENSG00000215481,NA,lncRNA,Human,22,24.632915,BCR pseudogene 3 [Source:HGNC Symbol;Acc:HGNC:1016],51.73,2,17098,NA,1239,NA,NA,5
+ ,ENSG00000227484,NA,lncRNA,Human,22,50.314631,novel transcript,62.63,1,1378,NA,531,NA,NA,2
+ ,ENSG00000287171,NA,lncRNA,Human,X,8.487165,novel transcript,38.37,1,17400,NA,4076,NA,NA,5
+ LINC02154,ENSG00000235385,109729169,lncRNA,Human,X,13.266041,long intergenic non-protein coding RNA 2154 [Source:HGNC Symbol;Acc:HGNC:53015],38.47,3,37412,NA,1287,NA,NA,2
+ ,ENSG00000236393,101927476,lncRNA,Human,X,40.262917,novel transcript,48.08,3,36145,NA,1477,NA,NA,2
+ ,ENSG00000204620,NA,lncRNA,Human,X,48.568014,"novel transcript, antisense to RBM3",47.57,1,6847,NA,549,NA,NA,2
+ IRS4-AS1,ENSG00000237863,NA,lncRNA,Human,X,108.736011,IRS4 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:55650],48.18,5,3213,NA,1146,NA,NA,3
+ LINC01201,ENSG00000228659,104266960,lncRNA,Human,X,130.98159,long intergenic non-protein coding RNA 1201 [Source:HGNC Symbol;Acc:HGNC:49632],41.35,2,76557,NA,348,NA,NA,2
+ MIR101-1,ENSG00000199135,406893,miRNA,Human,1,65.058434,microRNA 101-1 [Source:HGNC Symbol;Acc:HGNC:31488],45.33,1,75,NA,75,NA,NA,1
+ MIR4292,ENSG00000265806,100422860,miRNA,Human,9,136.830957,microRNA 4292 [Source:HGNC Symbol;Acc:HGNC:38348],70.15,1,67,NA,67,NA,NA,1
+ MIR4483,ENSG00000283656,100616162,miRNA,Human,10,113.777993,microRNA 4483 [Source:HGNC Symbol;Acc:HGNC:41761],32.26,1,62,NA,62,NA,NA,1
+ MIR210,ENSG00000199038,406992,miRNA,Human,11,0.568089,microRNA 210 [Source:HGNC Symbol;Acc:HGNC:31587],72.73,1,110,NA,110,NA,NA,1
+ MIR3685,ENSG00000265917,100500802,miRNA,Human,12,95.309923,microRNA 3685 [Source:HGNC Symbol;Acc:HGNC:38886],45.16,1,62,NA,62,NA,NA,1
+ MIR3908,ENSG00000266655,100500909,miRNA,Human,12,123.536409,microRNA 3908 [Source:HGNC Symbol;Acc:HGNC:38991],31.75,1,126,NA,126,NA,NA,1
+ MIR6774,ENSG00000274134,102466732,miRNA,Human,16,85.918347,microRNA 6774 [Source:HGNC Symbol;Acc:HGNC:50202],61.43,1,70,NA,70,NA,NA,1
+ ,ENSG00000263453,NA,miRNA,Human,20,57.895394,,66.67,1,51,NA,51,NA,NA,1
+ RN7SL654P,ENSG00000244568,NA,misc_RNA,Human,1,184.335658,"RNA, 7SL, cytoplasmic 654, pseudogene [Source:HGNC Symbol;Acc:HGNC:46670]",50.34,1,292,NA,292,NA,NA,1
+ RNY4P19,ENSG00000199400,NA,misc_RNA,Human,2,230.058229,RNY4 pseudogene 19 [Source:HGNC Symbol;Acc:HGNC:34069],37.5,1,96,NA,96,NA,NA,1
+ RN7SL255P,ENSG00000239808,NA,misc_RNA,Human,5,104.260531,"RNA, 7SL, cytoplasmic 255, pseudogene [Source:HGNC Symbol;Acc:HGNC:46271]",50.68,1,296,NA,296,NA,NA,1
+ Y_RNA,ENSG00000207488,NA,misc_RNA,Human,7,90.251923,Y RNA [Source:RFAM;Acc:RF00019],44.9,1,98,NA,98,NA,NA,1
+ RN7SL563P,ENSG00000239211,NA,misc_RNA,Human,8,101.397636,"RNA, 7SL, cytoplasmic 563, pseudogene [Source:HGNC Symbol;Acc:HGNC:46579]",54.7,1,298,NA,298,NA,NA,1
+ Y_RNA,ENSG00000252621,NA,misc_RNA,Human,10,37.303,Y RNA [Source:RFAM;Acc:RF00019],39.09,1,110,NA,110,NA,NA,1
+ RN7SL714P,ENSG00000241757,NA,misc_RNA,Human,14,98.351367,"RNA, 7SL, cytoplasmic 714, pseudogene [Source:HGNC Symbol;Acc:HGNC:46730]",51.34,1,298,NA,298,NA,NA,1
+ Y_RNA,ENSG00000222881,NA,misc_RNA,Human,17,40.391232,Y RNA [Source:RFAM;Acc:RF00019],38.32,1,107,NA,107,NA,NA,1
+ Y_RNA,ENSG00000202224,NA,misc_RNA,Human,18,2.62109,Y RNA [Source:RFAM;Acc:RF00019],36.61,1,112,NA,112,NA,NA,1
+ NDUFS5P3,ENSG00000233664,NA,processed_pseudogene,Human,1,52.709122,NADH:ubiquinone oxidoreductase subunit S5 pseudogene 3 [Source:HGNC Symbol;Acc:HGNC:44041],44.86,1,321,NA,321,NA,NA,1
+ ELL2P1,ENSG00000227295,NA,processed_pseudogene,Human,1,158.17585,elongation factor for RNA polymerase II 2 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:39343],45.44,1,1906,NA,1906,NA,NA,1
+ ,ENSG00000228191,NA,processed_pseudogene,Human,1,179.271116,ribosomal protein L39-like (RPL39L) pseudogene,43.05,1,151,NA,151,NA,NA,1
+ ,ENSG00000213690,NA,processed_pseudogene,Human,1,242.376923,novel zinc finger protein pseudogene,49.41,1,510,NA,510,NA,NA,1
+ SNRPEP11,ENSG00000230299,NA,processed_pseudogene,Human,2,85.262144,SNRPE pseudogene 11 [Source:HGNC Symbol;Acc:HGNC:54746],40.32,1,124,NA,124,NA,NA,1
+ SOWAHCP5,ENSG00000278631,NA,processed_pseudogene,Human,2,94.861362,SOWAHC pseudogene 5 [Source:HGNC Symbol;Acc:HGNC:54509],62.94,1,1306,NA,1306,NA,NA,1
+ HMGN1P36,ENSG00000235734,NA,processed_pseudogene,Human,2,97.827248,high mobility group nucleosome binding domain 1 pseudogene 36 [Source:HGNC Symbol;Acc:HGNC:39380],49.66,1,298,NA,298,NA,NA,1
+ YWHAZP2,ENSG00000213236,NA,processed_pseudogene,Human,2,126.557435,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:31078],42.45,1,728,NA,728,NA,NA,1
+ NEK2P4,ENSG00000230450,NA,processed_pseudogene,Human,2,131.177618,NEK2 pseudogene 4 [Source:HGNC Symbol;Acc:HGNC:37818],43.49,1,1329,NA,1329,NA,NA,1
+ UBBP1,ENSG00000230037,NA,processed_pseudogene,Human,2,136.329441,ubiquitin B pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:12464],53.7,1,473,NA,473,NA,NA,1
+ WWP1P1,ENSG00000244153,NA,processed_pseudogene,Human,3,98.657802,WW domain containing E3 ubiquitin protein ligase 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:48944],39.98,1,2769,NA,2769,NA,NA,1
+ ,ENSG00000250796,NA,processed_pseudogene,Human,3,128.869624,cell death-inducing DFFA-like effector c (CIDEC) pseudogene,53.6,1,403,NA,329,NA,NA,2
+ ,ENSG00000274154,NA,processed_pseudogene,Human,4,83.369416,ribosomal protein S23 (RPS23) pseudogene,53.7,1,108,NA,108,NA,NA,1
+ ANP32C,ENSG00000248546,NA,processed_pseudogene,Human,4,164.197007,acidic nuclear phosphoprotein 32 family member C [Source:HGNC Symbol;Acc:HGNC:16675],48.37,1,705,NA,705,NA,NA,1
+ RPSAP70,ENSG00000250327,NA,processed_pseudogene,Human,4,186.157896,ribosomal protein SA pseudogene 70 [Source:HGNC Symbol;Acc:HGNC:51923],61.18,1,948,NA,864,NA,NA,2
+ LTO1P1,ENSG00000251008,NA,processed_pseudogene,Human,4,186.170863,LTO1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:39203],51.39,1,395,NA,395,NA,NA,1
+ ISCA1P1,ENSG00000217416,NA,processed_pseudogene,Human,5,62.776877,iron-sulfur cluster assembly 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:33263],43.41,1,387,NA,387,NA,NA,1
+ ,ENSG00000234115,NA,processed_pseudogene,Human,6,7.5166,"isocitrate dehydrogenase 1 (NADP+), soluble (IDH1) pseudogene",44.16,1,1241,NA,1241,NA,NA,1
+ ,ENSG00000219273,NA,processed_pseudogene,Human,6,38.762905,zuotin related factor-1 (ZRF1) pseudogene,39.61,1,1790,NA,1790,NA,NA,1
+ FTH1P15,ENSG00000218980,NA,processed_pseudogene,Human,6,57.00452,ferritin heavy chain 1 pseudogene 15 [Source:HGNC Symbol;Acc:HGNC:3985],49.64,1,280,NA,280,NA,NA,1
+ ,ENSG00000271111,NA,processed_pseudogene,Human,6,67.456346,SH3-domain binding protein 4 (SH3BP4) pseudogene,40.66,1,905,NA,905,NA,NA,1
+ LYPLA1P3,ENSG00000218350,NA,processed_pseudogene,Human,6,71.165076,LYPLA1 pseudogene 3 [Source:HGNC Symbol;Acc:HGNC:44007],44.75,1,695,NA,695,NA,NA,1
+ YWHAZP4,ENSG00000213131,NA,processed_pseudogene,Human,6,127.355756,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta pseudogene 4 [Source:HGNC Symbol;Acc:HGNC:30851],46.71,1,1034,NA,708,NA,NA,2
+ RWDD4P2,ENSG00000175741,NA,processed_pseudogene,Human,7,39.854494,RWD domain containing 4 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:23754],40.5,1,563,NA,563,NA,NA,1
+ ,ENSG00000236386,NA,processed_pseudogene,Human,7,131.893822,"capping protein (actin filament) muscle Z-line, alpha 1 (CAPZA1) pseudogene",43.08,1,253,NA,253,NA,NA,1
+ TRPC6P8,ENSG00000236503,NA,processed_pseudogene,Human,7,136.262558,TRPC6 pseudogene 8 [Source:HGNC Symbol;Acc:HGNC:55949],40.43,1,460,NA,460,NA,NA,1
+ SINHCAFP3,ENSG00000253488,NA,processed_pseudogene,Human,8,23.634876,SINHCAF pseudogene 3 [Source:HGNC Symbol;Acc:HGNC:19896],39.24,1,632,NA,632,NA,NA,1
+ ,ENSG00000253667,NA,processed_pseudogene,Human,8,53.971231,"ESF1, nucleolar pre-rRNA processing protein, homolog (S. cerevisiae) (ESF1) pseudogene",39.03,1,2980,NA,2479,NA,NA,3
+ SNRPEP2,ENSG00000256968,NA,processed_pseudogene,Human,9,6.748703,SNRPE pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:20733],40.86,1,279,NA,279,NA,NA,1
+ SNX18P7,ENSG00000234373,NA,processed_pseudogene,Human,9,33.57638,sorting nexin 18 pseudogene 7 [Source:HGNC Symbol;Acc:HGNC:39615],50.24,1,635,NA,635,NA,NA,1
+ ,ENSG00000228095,NA,processed_pseudogene,Human,9,84.604111,novel pseudogene,38.41,1,315,NA,315,NA,NA,1
+ YWHAZP3,ENSG00000229932,NA,processed_pseudogene,Human,10,23.136924,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta pseudogene 3 [Source:HGNC Symbol;Acc:HGNC:31101],44.17,1,738,NA,738,NA,NA,1
+ VN1R53P,ENSG00000236313,NA,processed_pseudogene,Human,10,37.348616,vomeronasal 1 receptor 53 pseudogene [Source:HGNC Symbol;Acc:HGNC:37373],41.07,1,957,NA,957,NA,NA,1
+ RPL22P17,ENSG00000235266,NA,processed_pseudogene,Human,10,102.887874,ribosomal protein L22 pseudogene 17 [Source:HGNC Symbol;Acc:HGNC:36985],35.56,1,315,NA,315,NA,NA,1
+ YWHAZP5,ENSG00000213260,NA,processed_pseudogene,Human,10,105.686322,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta pseudogene 5 [Source:HGNC Symbol;Acc:HGNC:30564],42.33,1,730,NA,730,NA,NA,1
+ ,ENSG00000255381,NA,processed_pseudogene,Human,11,59.142121,"protein kinase, cAMP-dependent, regulatory, type II, beta (PRKAR2B) pseudogene",43.88,1,490,NA,490,NA,NA,1
+ ,ENSG00000256663,NA,processed_pseudogene,Human,12,20.55159,ubiquitin-like with PHD and ring finger domains 1 (UHRF1) pseudogene,62.26,1,1423,NA,1423,NA,NA,1
+ ,ENSG00000257159,NA,processed_pseudogene,Human,12,57.967058,zinc finger protein pseudogene,34.5,1,1342,NA,633,NA,NA,2
+ ,ENSG00000186076,NA,processed_pseudogene,Human,12,93.640822,phosphoglycerate mutase 1 (brain) (PGAM1) pseudogene,56.08,1,765,NA,765,NA,NA,1
+ SRGNP1,ENSG00000271386,NA,processed_pseudogene,Human,13,78.285838,serglycin pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:49107],41.24,1,451,NA,451,NA,NA,1
+ DPPA3P3,ENSG00000270415,NA,processed_pseudogene,Human,13,81.114866,developmental pluripotency associated 3 pseudogene 3 [Source:HGNC Symbol;Acc:HGNC:49062],36.98,1,430,NA,430,NA,NA,1
+ ,ENSG00000257175,NA,processed_pseudogene,Human,14,18.634955,ubiquitin specific peptidase 10 (USP10) pseudogene,49.29,1,2254,NA,2254,NA,NA,1
+ ,ENSG00000257731,NA,processed_pseudogene,Human,14,18.645044,single stranded DNA binding protein 3 (SSBP3) pseudogene,53.23,1,1178,NA,1178,NA,NA,1
+ ,ENSG00000257558,NA,processed_pseudogene,Human,14,18.667249,chromosome 10open reading frame 57 (C10orf57) pseudogene,45.08,1,122,NA,122,NA,NA,1
+ ,ENSG00000274649,NA,processed_pseudogene,Human,14,19.511244,NIMA-related kinase 2 (NEK2) pseudogene,43.92,1,469,NA,469,NA,NA,1
+ ,ENSG00000257432,NA,processed_pseudogene,Human,14,19.629006,NIMA-related kinase 2 (NEK2) pseudogene,43.07,1,1335,NA,1335,NA,NA,1
+ ,ENSG00000279392,NA,processed_pseudogene,Human,14,55.229217,ubiquitin-conjugating enzyme E2L 3 (UBE2L3) pseudogene,45.38,1,465,NA,465,NA,NA,1
+ RAP1AP,ENSG00000258769,NA,processed_pseudogene,Human,14,74.482985,"RAP1A, member of RAS oncogene family pseudogene [Source:HGNC Symbol;Acc:HGNC:9856]",40.35,1,451,NA,451,NA,NA,1
+ ELK2AP,ENSG00000213140,NA,processed_pseudogene,Human,14,105.672308,"ETS transcription factor ELK2A, pseudogene [Source:HGNC Symbol;Acc:HGNC:3323]",68.22,1,1007,NA,1007,NA,NA,1
+ ,ENSG00000259340,NA,processed_pseudogene,Human,15,96.551381,CDC28 protein kinase regulatory subunit 2 (CKS2) pseudogene,42.34,1,137,NA,137,NA,NA,1
+ CYCSP39,ENSG00000260690,NA,processed_pseudogene,Human,16,25.454339,CYCS pseudogene 39 [Source:HGNC Symbol;Acc:HGNC:24412],44.98,1,309,NA,309,NA,NA,1
+ HMGN2P41,ENSG00000261620,NA,processed_pseudogene,Human,16,35.802869,high mobility group nucleosomal binding domain 2 pseudogene 41 [Source:HGNC Symbol;Acc:HGNC:39412],52.67,1,412,NA,412,NA,NA,1
+ RPL7AP64,ENSG00000213876,NA,processed_pseudogene,Human,17,7.14093,ribosomal protein L7a pseudogene 64 [Source:HGNC Symbol;Acc:HGNC:35821],52.79,1,663,NA,663,NA,NA,1
+ ,ENSG00000266048,NA,processed_pseudogene,Human,17,39.033926,ADP-ribosylation factor-like 17B (ARL17B) pseudogene,43.59,1,117,NA,117,NA,NA,1
+ RHOT1P1,ENSG00000266145,NA,processed_pseudogene,Human,18,14.222008,ras homolog family member T1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:23777],41.98,1,324,NA,324,NA,NA,1
+ TERF1P2,ENSG00000187589,NA,processed_pseudogene,Human,18,14.377546,TERF1 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:38110],42,1,1212,NA,1212,NA,NA,1
+ FEM1AP2,ENSG00000265296,NA,processed_pseudogene,Human,18,14.391913,fem-1 homolog A pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:39830],63.45,1,1997,NA,1997,NA,NA,1
+ PCGF7P,ENSG00000268140,NA,processed_pseudogene,Human,19,22.137931,polycomb group ring finger 7 pseudogene [Source:HGNC Symbol;Acc:HGNC:30341],49.19,1,1051,NA,1051,NA,NA,1
+ PPIAP58,ENSG00000267258,NA,processed_pseudogene,Human,19,29.921182,peptidylprolyl isomerase A pseudogene 58 [Source:HGNC Symbol;Acc:HGNC:53682],47.46,1,472,NA,472,NA,NA,1
+ FEM1AP1,ENSG00000229231,NA,processed_pseudogene,Human,21,13.762338,fem-1 homolog A pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:17219],63.66,1,1995,NA,1995,NA,NA,1
+ ,ENSG00000215268,NA,processed_pseudogene,Human,22,15.562017,ubiquitin specific peptidase 10 (USP10) pseudogene,49.65,1,2260,NA,2260,NA,NA,1
+ ,ENSG00000213727,NA,processed_pseudogene,Human,22,15.572089,single stranded DNA binding protein 3 (SSBP3) pseudogene,53.44,1,1177,NA,1177,NA,NA,1
+ NEK2P2,ENSG00000231565,NA,processed_pseudogene,Human,22,15.611759,NEK2 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:37816],43.5,1,1338,NA,1338,NA,NA,1
+ CDRT15P10,ENSG00000273693,NA,processed_pseudogene,Human,Y,11.085476,CDRT15 pseudogene 10 [Source:HGNC Symbol;Acc:HGNC:38413],60.41,1,586,NA,586,NA,NA,1
+ TOMM22P1,ENSG00000237427,NA,processed_pseudogene,Human,Y,21.13087,TOMM22 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:38736],44.55,1,312,NA,312,NA,NA,1
+ ,ENSG00000233619,NA,processed_pseudogene,Human,Y,25.487284,novel pseudogene,61.21,1,379,NA,379,NA,NA,1
+ IMPDH1P2,ENSG00000214045,NA,processed_pseudogene,Human,X,40.359183,inosine monophosphate dehydrogenase 1 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:33957],57.97,1,1544,NA,1544,NA,NA,1
+ YWHAZP10,ENSG00000217624,NA,processed_pseudogene,Human,X,41.67576,YWHAZ pseudogene 10 [Source:HGNC Symbol;Acc:HGNC:54939],42.86,1,735,NA,735,NA,NA,1
+ HMGN1P35,ENSG00000172186,NA,processed_pseudogene,Human,X,69.174124,high mobility group nucleosome binding domain 1 pseudogene 35 [Source:HGNC Symbol;Acc:HGNC:39379],41.41,1,594,NA,594,NA,NA,1
+ ,ENSG00000237717,NA,processed_pseudogene,Human,X,71.744828,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa (NDUFA4) pseudogene",46.8,1,250,NA,250,NA,NA,1
+ DPRXP7,ENSG00000271464,NA,processed_pseudogene,Human,X,112.319952,divergent-paired related homeobox pseudogene 7 [Source:HGNC Symbol;Acc:HGNC:32173],41.85,1,466,NA,466,NA,NA,1
+ H3P47,ENSG00000179101,NA,processed_pseudogene,Human,X,123.514473,H3 histone pseudogene 47 [Source:HGNC Symbol;Acc:HGNC:54475],53,1,400,NA,400,NA,NA,1
+ HNRNPH1P2,ENSG00000213924,NA,processed_pseudogene,Human,X,143.677153,heterogeneous nuclear ribonucleoprotein H1 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:48810],42.98,1,1210,NA,1210,NA,NA,1
+ HMGN2P48,ENSG00000229979,NA,processed_pseudogene,Human,X,153.05215,high mobility group nucleosomal binding domain 2 pseudogene 48 [Source:HGNC Symbol;Acc:HGNC:55157],47.73,1,264,NA,264,NA,NA,1
+ WRAP73,ENSG00000116213,49856,protein_coding,Human,1,3.630767,"WD repeat containing, antisense to TP73 [Source:HGNC Symbol;Acc:HGNC:12759]",55.25,10,21995,949,1464,69,418,6
+ UTS2,ENSG00000049247,10911,protein_coding,Human,1,7.843083,urotensin 2 [Source:HGNC Symbol;Acc:HGNC:12636],40.81,3,10430,405,871,111,507,5
+ TARDBP,ENSG00000120948,23435,protein_coding,Human,1,11.012344,TAR DNA binding protein [Source:HGNC Symbol;Acc:HGNC:11571],43.2,38,18185,576,985,47,351,5
+ NPPB,ENSG00000120937,4879,protein_coding,Human,1,11.857464,natriuretic peptide B [Source:HGNC Symbol;Acc:HGNC:7940],54.59,1,1482,405,708,112,191,3
+ E2F2,ENSG00000007968,1870,protein_coding,Human,1,23.506438,E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114],51.65,2,24796,1314,2873,440,3442,4
+ MAN1C1,ENSG00000117643,57134,protein_coding,Human,1,25.616791,mannosidase alpha class 1C member 1 [Source:HGNC Symbol;Acc:HGNC:19080],48.63,8,169416,1385,2440,523,820,8
+ AUNIP,ENSG00000127423,79000,protein_coding,Human,1,25.831913,aurora kinase A and ninein interacting protein [Source:HGNC Symbol;Acc:HGNC:28363],42.54,3,27546,1095,1338,100,581,3
+ STMN1,ENSG00000117632,3925,protein_coding,Human,1,25.884181,stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510],48.24,9,22811,430,1328,118,555,4
+ FAM76A,ENSG00000009780,199870,protein_coding,Human,1,27.725961,family with sequence similarity 76 member A [Source:HGNC Symbol;Acc:HGNC:28530],43.38,7,37156,807,1584,65,1009,8
+ CLSPN,ENSG00000092853,63967,protein_coding,Human,1,35.720218,claspin [Source:HGNC Symbol;Acc:HGNC:19715],42.79,6,49761,3927,3756,80,1310,18
+ CDCA8,ENSG00000134690,55143,protein_coding,Human,1,37.692481,cell division cycle associated 8 [Source:HGNC Symbol;Acc:HGNC:14629],45.77,2,17239,843,2337,116,1350,10
+ GUCA2B,ENSG00000044012,2981,protein_coding,Human,1,42.15341,guanylate cyclase activator 2B [Source:HGNC Symbol;Acc:HGNC:4683],59.98,1,2411,339,604,41,224,3
+ CDC20,ENSG00000117399,991,protein_coding,Human,1,43.358981,cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723],52.17,4,4223,1500,1151,120,74,7
+ KIF2C,ENSG00000142945,11004,protein_coding,Human,1,44.739818,kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393],49.08,8,27950,1277,1315,152,588,11
+ RAD54L,ENSG00000085999,8438,protein_coding,Human,1,46.246461,RAD54 like [Source:HGNC Symbol;Acc:HGNC:9826],46.88,21,32020,733,1118,186,143,8
+ ZYG11A,ENSG00000203995,440590,protein_coding,Human,1,52.842511,"zyg-11 family member A, cell cycle regulator [Source:HGNC Symbol;Acc:HGNC:32058]",43.56,3,52488,1596,4023,185,1658,14
+ NDC1,ENSG00000058804,55706,protein_coding,Human,1,53.765478,NDC1 transmembrane nucleoporin [Source:HGNC Symbol;Acc:HGNC:25525],40.2,2,72986,2025,2668,35,2492,12
+ LRRC42,ENSG00000116212,115353,protein_coding,Human,1,53.946085,leucine rich repeat containing 42 [Source:HGNC Symbol;Acc:HGNC:28792],43.07,5,22084,967,1197,91,229,6
+ LRRC53,ENSG00000162621,105378803,protein_coding,Human,1,74.469376,leucine rich repeat containing 53 [Source:HGNC Symbol;Acc:HGNC:25255],37.58,1,43236,3744,4358,56,502,5
+ C1orf52,ENSG00000162642,148423,protein_coding,Human,1,85.249953,chromosome 1 open reading frame 52 [Source:HGNC Symbol;Acc:HGNC:24871],39.66,4,9720,526,1945,29,2676,4
+ ZNHIT6,ENSG00000117174,54680,protein_coding,Human,1,85.649417,zinc finger HIT-type containing 6 [Source:HGNC Symbol;Acc:HGNC:26089],36.47,2,59017,1354,6142,149,4638,10
+ COL24A1,ENSG00000171502,255631,protein_coding,Human,1,85.729233,collagen type XXIV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:20821],36.41,5,427711,2140,3279,268,514,26
+ ODF2L,ENSG00000122417,57489,protein_coding,Human,1,86.346824,outer dense fiber of sperm tails 2 like [Source:HGNC Symbol;Acc:HGNC:29225],34.88,32,49519,927,1908,142,868,11
+ GLMN,ENSG00000174842,11146,protein_coding,Human,1,92.246402,"glomulin, FKBP associated protein [Source:HGNC Symbol;Acc:HGNC:14373]",38,6,52586,1166,1134,46,113,10
+ GCLM,ENSG00000023909,2730,protein_coding,Human,1,93.885199,glutamate-cysteine ligase modifier subunit [Source:HGNC Symbol;Acc:HGNC:4312],36.37,4,24258,792,2275,280,2874,5
+ FRRS1,ENSG00000156869,391059,protein_coding,Human,1,99.70397,ferric chelate reductase 1 [Source:HGNC Symbol;Acc:HGNC:27622],38.2,5,62666,1830,2322,184,2626,9
+ SASS6,ENSG00000156876,163786,protein_coding,Human,1,100.083563,SAS-6 centriolar assembly protein [Source:HGNC Symbol;Acc:HGNC:25403],36.48,2,49393,1974,3910,116,1758,16
+ RTCA,ENSG00000137996,8634,protein_coding,Human,1,100.266216,RNA 3'-terminal phosphate cyclase [Source:HGNC Symbol;Acc:HGNC:17981],39.06,5,26554,797,1202,125,611,7
+ COL11A1,ENSG00000060718,1301,protein_coding,Human,1,102.876467,collagen type XI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2186],33.18,14,232406,3151,3462,296,604,33
+ GNAI3,ENSG00000065135,2773,protein_coding,Human,1,109.548615,G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387],38.65,1,51581,1065,9044,106,3936,9
+ FAM72B,ENSG00000188610,653820,protein_coding,Human,1,121.167646,family with sequence similarity 72 member B [Source:HGNC Symbol;Acc:HGNC:24805],41.53,7,17894,376,1157,472,565,4
+ FCGR1A,ENSG00000150337,2209,protein_coding,Human,1,149.782671,Fc gamma receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613],42.01,4,9005,924,858,62,158,4
+ VPS45,ENSG00000136631,11311,protein_coding,Human,1,150.067279,vacuolar protein sorting 45 homolog [Source:HGNC Symbol;Acc:HGNC:14579],39.17,47,78051,1428,2270,102,467,13
+ APH1A,ENSG00000117362,51107,protein_coding,Human,1,150.265399,"aph-1 homolog A, gamma-secretase subunit [Source:HGNC Symbol;Acc:HGNC:29509]",53.83,9,4182,645,1100,328,858,4
+ LYSMD1,ENSG00000163155,388695,protein_coding,Human,1,151.159748,LysM domain containing 1 [Source:HGNC Symbol;Acc:HGNC:32070],46.07,2,6201,612,1732,405,716,3
+ PIP5K1A,ENSG00000143398,8394,protein_coding,Human,1,151.197949,phosphatidylinositol-4-phosphate 5-kinase type 1 alpha [Source:HGNC Symbol;Acc:HGNC:8994],45.21,17,51588,986,1409,338,1163,7
+ CHTOP,ENSG00000160679,26097,protein_coding,Human,1,153.633982,chromatin target of PRMT1 [Source:HGNC Symbol;Acc:HGNC:24511],44.38,7,12325,552,1986,149,1079,4
+ SNAPIN,ENSG00000143553,23557,protein_coding,Human,1,153.658703,SNAP associated protein [Source:HGNC Symbol;Acc:HGNC:17145],50.6,4,3150,411,943,41,551,3
+ ILF2,ENSG00000143621,3608,protein_coding,Human,1,153.661788,interleukin enhancer binding factor 2 [Source:HGNC Symbol;Acc:HGNC:6037],44.32,5,9241,758,1194,59,476,9
+ DENND4B,ENSG00000198837,9909,protein_coding,Human,1,153.929501,DENN domain containing 4B [Source:HGNC Symbol;Acc:HGNC:29044],56.5,13,17218,2896,1397,173,796,6
+ CRTC2,ENSG00000160741,200186,protein_coding,Human,1,153.947669,CREB regulated transcription coactivator 2 [Source:HGNC Symbol;Acc:HGNC:27301],53.18,10,10947,1204,1379,104,348,7
+ CKS1B,ENSG00000173207,1163,protein_coding,Human,1,154.974653,CDC28 protein kinase regulatory subunit 1B [Source:HGNC Symbol;Acc:HGNC:19083],44.4,7,4599,212,773,126,499,3
+ IQGAP3,ENSG00000183856,128239,protein_coding,Human,1,156.525405,IQ motif containing GTPase activating protein 3 [Source:HGNC Symbol;Acc:HGNC:20669],50.86,4,47200,4832,3164,47,643,20
+ IGSF9,ENSG00000085552,57549,protein_coding,Human,1,159.927039,immunoglobulin superfamily member 9 [Source:HGNC Symbol;Acc:HGNC:18132],55.8,5,18575,3516,3942,103,305,16
+ NDUFS2,ENSG00000158864,4720,protein_coding,Human,1,161.197104,NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708],49.67,90,17620,924,2133,109,192,12
+ SDHC,ENSG00000143252,6391,protein_coding,Human,1,161.314381,succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682],42.31,8,48826,339,711,21,337,5
+ FCGR2A,ENSG00000143226,2212,protein_coding,Human,1,161.50543,Fc gamma receptor IIa [Source:HGNC Symbol;Acc:HGNC:3616],43.82,17,18584,625,1201,35,858,4
+ FCGR3A,ENSG00000203747,2214,protein_coding,Human,1,161.541759,Fc gamma receptor IIIa [Source:HGNC Symbol;Acc:HGNC:3619],45.02,14,9210,705,1889,87,1205,6
+ DUSP12,ENSG00000081721,11266,protein_coding,Human,1,161.749758,dual specificity phosphatase 12 [Source:HGNC Symbol;Acc:HGNC:3067],39.87,5,7481,525,875,39,183,4
+ NUF2,ENSG00000143228,83540,protein_coding,Human,1,163.266576,NUF2 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:14621],36.44,12,89189,875,1010,112,233,8
+ TADA1,ENSG00000152382,117143,protein_coding,Human,1,166.85651,transcriptional adaptor 1 [Source:HGNC Symbol;Acc:HGNC:30631],40.88,2,19755,1008,2318,31,1057,6
+ DCAF6,ENSG00000143164,55827,protein_coding,Human,1,167.935783,DDB1 and CUL4 associated factor 6 [Source:HGNC Symbol;Acc:HGNC:30002],35.91,12,140061,2453,1824,255,437,11
+ C1orf112,ENSG00000000460,55732,protein_coding,Human,1,169.662007,chromosome 1 open reading frame 112 [Source:HGNC Symbol;Acc:HGNC:25565],39.22,9,192074,1032,2431,87,366,17
+ ARPC5,ENSG00000162704,10092,protein_coding,Human,1,183.620846,actin related protein 2/3 complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:708],38.43,5,14938,443,2993,82,2650,3
+ TSEN15,ENSG00000198860,116461,protein_coding,Human,1,184.051651,tRNA splicing endonuclease subunit 15 [Source:HGNC Symbol;Acc:HGNC:16791],38.96,20,72328,397,1532,50,826,5
+ RGS1,ENSG00000090104,5996,protein_coding,Human,1,192.575763,regulator of G protein signaling 1 [Source:HGNC Symbol;Acc:HGNC:9991],33.81,6,4262,570,1165,20,603,3
+ UCHL5,ENSG00000116750,51377,protein_coding,Human,1,193.01225,ubiquitin C-terminal hydrolase L5 [Source:HGNC Symbol;Acc:HGNC:19678],35,13,47831,767,1645,117,1005,8
+ ASPM,ENSG00000066279,259266,protein_coding,Human,1,197.084121,assembly factor for spindle microtubules [Source:HGNC Symbol;Acc:HGNC:19048],34.66,8,62574,8216,6429,240,204,21
+ KIF14,ENSG00000118193,9928,protein_coding,Human,1,200.551497,kinesin family member 14 [Source:HGNC Symbol;Acc:HGNC:19181],37.83,2,69255,4947,7064,228,1890,30
+ TIMM17A,ENSG00000134375,10440,protein_coding,Human,1,201.955503,translocase of inner mitochondrial membrane 17A [Source:HGNC Symbol;Acc:HGNC:17315],42.3,4,15162,516,1414,24,1110,5
+ UBE2T,ENSG00000077152,29089,protein_coding,Human,1,202.331544,ubiquitin conjugating enzyme E2 T [Source:HGNC Symbol;Acc:HGNC:25009],40.7,12,10441,449,1012,64,163,6
+ TMEM183A,ENSG00000163444,92703,protein_coding,Human,1,203.007374,transmembrane protein 183A [Source:HGNC Symbol;Acc:HGNC:20173],41.51,5,17475,1131,1206,92,1808,5
+ YOD1,ENSG00000180667,55432,protein_coding,Human,1,207.043849,YOD1 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:25035],39.45,2,9132,981,6344,140,5171,3
+ NEK2,ENSG00000117650,4751,protein_coding,Human,1,211.658657,NIMA related kinase 2 [Source:HGNC Symbol;Acc:HGNC:7745],39.5,5,16974,1220,1356,124,643,6
+ DTL,ENSG00000143476,51514,protein_coding,Human,1,212.035553,denticleless E3 ubiquitin protein ligase homolog [Source:HGNC Symbol;Acc:HGNC:30288],38.44,6,71848,2130,2400,240,2070,8
+ CENPF,ENSG00000117724,1063,protein_coding,Human,1,214.603195,centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857],40.92,5,61377,9345,2697,84,777,6
+ GPATCH2,ENSG00000092978,55105,protein_coding,Human,1,217.426992,G-patch domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25499],36.36,5,204099,1359,2115,115,3064,5
+ RRP15,ENSG00000067533,51018,protein_coding,Human,1,218.285293,ribosomal RNA processing 15 homolog [Source:HGNC Symbol;Acc:HGNC:24255],37.63,2,52691,849,4128,24,6892,4
+ BPNT1,ENSG00000162813,10380,protein_coding,Human,1,220.057482,"3'(2'), 5'-bisphosphate nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:1096]",40.42,11,32981,663,1324,91,1125,7
+ IARS2,ENSG00000067704,55699,protein_coding,Human,1,220.094132,"isoleucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29685]",39.19,4,53910,3039,1301,85,406,9
+ MARK1,ENSG00000116141,4139,protein_coding,Human,1,220.528136,microtubule affinity regulating kinase 1 [Source:HGNC Symbol;Acc:HGNC:6896],37.11,18,136326,1791,3794,458,1756,12
+ MTARC2,ENSG00000117791,54996,protein_coding,Human,1,220.748225,mitochondrial amidoxime reducing component 2 [Source:HGNC Symbol;Acc:HGNC:26064],44.02,6,36591,646,962,260,228,4
+ ENAH,ENSG00000154380,55740,protein_coding,Human,1,225.486765,ENAH actin regulator [Source:HGNC Symbol;Acc:HGNC:18271],38.55,10,166378,1560,5000,189,6773,9
+ SRP9,ENSG00000143742,6726,protein_coding,Human,1,225.777813,signal recognition particle 9 [Source:HGNC Symbol;Acc:HGNC:11304],40.6,9,12656,215,852,94,590,3
+ LIN9,ENSG00000183814,286826,protein_coding,Human,1,226.231149,lin-9 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:30830],39.7,6,78721,1336,2544,184,1153,13
+ RHOU,ENSG00000116574,58480,protein_coding,Human,1,228.735479,ras homolog family member U [Source:HGNC Symbol;Acc:HGNC:17794],45.48,1,11186,777,3965,264,2924,3
+ CCSAP,ENSG00000154429,126731,protein_coding,Human,1,229.321011,"centriole, cilia and spindle associated protein [Source:HGNC Symbol;Acc:HGNC:29578]",43.58,4,22284,699,4549,117,4055,4
+ C1orf198,ENSG00000119280,84886,protein_coding,Human,1,230.837119,chromosome 1 open reading frame 198 [Source:HGNC Symbol;Acc:HGNC:25900],47.8,7,32471,652,2064,90,2107,4
+ TSNAX,ENSG00000116918,7257,protein_coding,Human,1,231.528541,translin associated factor X [Source:HGNC Symbol;Acc:HGNC:12380],37.77,5,37984,682,2038,206,1619,5
+ IRF2BP2,ENSG00000168264,359948,protein_coding,Human,1,234.604269,interferon regulatory factor 2 binding protein 2 [Source:HGNC Symbol;Acc:HGNC:21729],52.08,3,5910,1740,3538,358,2868,2
+ RGS7,ENSG00000182901,6000,protein_coding,Human,1,240.767636,regulator of G protein signaling 7 [Source:HGNC Symbol;Acc:HGNC:10003],39.16,55,589739,1183,2549,234,443,15
+ FH,ENSG00000091483,2271,protein_coding,Human,1,241.497511,fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700],36.88,8,22289,935,2425,58,562,8
+ EXO1,ENSG00000174371,9156,protein_coding,Human,1,241.847967,exonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3511],39.58,12,47182,1094,1288,120,238,7
+ TFB2M,ENSG00000162851,64216,protein_coding,Human,1,246.540561,"transcription factor B2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:18559]",41.9,1,25701,1191,1784,123,470,8
+ SCCPDH,ENSG00000143653,51097,protein_coding,Human,1,246.724409,saccharopine dehydrogenase (putative) [Source:HGNC Symbol;Acc:HGNC:24275],41.65,1,43729,1290,2141,14,837,12
+ ZNF695,ENSG00000197472,57116,protein_coding,Human,1,246.945547,zinc finger protein 695 [Source:HGNC Symbol;Acc:HGNC:30954],42.51,6,62547,620,1189,144,457,5
+ IAH1,ENSG00000134330,285148,protein_coding,Human,2,9.473658,isoamyl acetate hydrolyzing esterase 1 (putative) [Source:HGNC Symbol;Acc:HGNC:27696],45.86,15,22886,383,1079,121,500,5
+ RRM2,ENSG00000171848,6241,protein_coding,Human,2,10.120698,ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452],50.79,17,91028,1000,1580,144,1483,6
+ RDH14,ENSG00000240857,57665,protein_coding,Human,2,18.554723,retinol dehydrogenase 14 [Source:HGNC Symbol;Acc:HGNC:19979],41.87,2,5957,1011,1148,81,468,2
+ MATN3,ENSG00000132031,4148,protein_coding,Human,2,19.992052,matrilin 3 [Source:HGNC Symbol;Acc:HGNC:6909],42.5,3,20617,1398,1598,36,566,6
+ SF3B6,ENSG00000115128,51639,protein_coding,Human,2,24.067586,splicing factor 3b subunit 6 [Source:HGNC Symbol;Acc:HGNC:30096],43.05,2,8788,378,686,97,176,3
+ DNMT3A,ENSG00000119772,1788,protein_coding,Human,2,25.227855,DNA methyltransferase 3 alpha [Source:HGNC Symbol;Acc:HGNC:2978],53.43,17,114736,1305,2648,130,1446,11
+ CENPA,ENSG00000115163,1058,protein_coding,Human,2,26.764289,centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851],48.97,6,36779,343,1047,122,341,5
+ GCKR,ENSG00000084734,2646,protein_coding,Human,2,27.496839,glucokinase regulator [Source:HGNC Symbol;Acc:HGNC:4196],45.33,6,26846,1044,1021,66,161,9
+ GPN1,ENSG00000198522,11321,protein_coding,Human,2,27.628247,GPN-loop GTPase 1 [Source:HGNC Symbol;Acc:HGNC:17030],41.23,12,23265,914,1421,59,560,11
+ SUPT7L,ENSG00000119760,9913,protein_coding,Human,2,27.650809,"SPT7 like, STAGA complex subunit gamma [Source:HGNC Symbol;Acc:HGNC:30632]",41.28,5,13032,1160,3245,360,1324,5
+ TTC27,ENSG00000018699,55622,protein_coding,Human,2,32.628032,tetratricopeptide repeat domain 27 [Source:HGNC Symbol;Acc:HGNC:25986],39.46,7,193020,674,1226,165,100,9
+ NDUFAF7,ENSG00000003509,55471,protein_coding,Human,2,37.231631,NADH:ubiquinone oxidoreductase complex assembly factor 7 [Source:HGNC Symbol;Acc:HGNC:28816],38.97,13,21773,664,1169,63,477,7
+ MTA3,ENSG00000057935,57504,protein_coding,Human,2,42.494569,metastasis associated 1 family member 3 [Source:HGNC Symbol;Acc:HGNC:23784],43.08,19,262379,1265,1879,110,1521,9
+ XPO1,ENSG00000082898,7514,protein_coding,Human,2,61.476032,exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825],41.09,55,62710,2294,3924,150,807,19
+ AFTPH,ENSG00000119844,54812,protein_coding,Human,2,64.524299,aftiphilin [Source:HGNC Symbol;Acc:HGNC:25951],37.29,12,68707,2421,3233,145,401,8
+ C1D,ENSG00000197223,10438,protein_coding,Human,2,68.04113,C1D nuclear receptor corepressor [Source:HGNC Symbol;Acc:HGNC:29911],38.27,7,69819,455,1250,44,1102,4
+ DNAAF10,ENSG00000243667,116143,protein_coding,Human,2,68.122936,dynein axonemal assembly factor 10 [Source:HGNC Symbol;Acc:HGNC:25176],39.84,6,34614,696,1339,65,726,6
+ TRIM43B,ENSG00000144010,653192,protein_coding,Human,2,95.477008,tripartite motif containing 43B [Source:HGNC Symbol;Acc:HGNC:37146],39.71,1,7747,1341,1650,76,156,7
+ NCAPH,ENSG00000121152,23397,protein_coding,Human,2,96.335766,non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112],45.16,7,41326,1543,2317,65,1198,13
+ CNGA3,ENSG00000144191,1261,protein_coding,Human,2,98.346188,cyclic nucleotide gated channel subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:2150],47.34,4,52414,2058,2309,125,718,6
+ MITD1,ENSG00000158411,129531,protein_coding,Human,2,99.161427,microtubule interacting and trafficking domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25207],39.09,9,19632,504,1078,63,196,5
+ CNOT11,ENSG00000158435,55571,protein_coding,Human,2,101.252886,CCR4-NOT transcription complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:25217],43.2,3,17431,958,1213,79,536,4
+ BUB1,ENSG00000169679,699,protein_coding,Human,2,110.637528,BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148],38.21,14,40536,1609,1695,77,252,11
+ CKAP2L,ENSG00000169607,150468,protein_coding,Human,2,112.736349,cytoskeleton associated protein 2 like [Source:HGNC Symbol;Acc:HGNC:26877],39.56,6,28316,1402,1586,15,1393,6
+ IL36RN,ENSG00000136695,26525,protein_coding,Human,2,113.058638,interleukin 36 receptor antagonist [Source:HGNC Symbol;Acc:HGNC:15561],49.58,4,6745,390,1618,51,1466,4
+ CCDC74A,ENSG00000163040,90557,protein_coding,Human,2,131.527675,coiled-coil domain containing 74A [Source:HGNC Symbol;Acc:HGNC:25197],61.5,8,5992,785,1040,141,266,5
+ TMEM163,ENSG00000152128,81615,protein_coding,Human,2,134.455759,transmembrane protein 163 [Source:HGNC Symbol;Acc:HGNC:25380],43.72,3,263242,870,3077,65,957,4
+ MCM6,ENSG00000076003,4175,protein_coding,Human,2,135.839626,minichromosome maintenance complex component 6 [Source:HGNC Symbol;Acc:HGNC:6949],40.29,3,36818,2466,1681,78,1209,8
+ ARL6IP6,ENSG00000177917,151188,protein_coding,Human,2,152.717647,ADP ribosylation factor like GTPase 6 interacting protein 6 [Source:HGNC Symbol;Acc:HGNC:24048],37.13,23,44750,357,2201,223,817,3
+ FAP,ENSG00000078098,2191,protein_coding,Human,2,162.170684,fibroblast activation protein alpha [Source:HGNC Symbol;Acc:HGNC:3590],36.7,13,74468,924,1196,132,190,9
+ SPC25,ENSG00000152253,57405,protein_coding,Human,2,168.834132,SPC25 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:24031],39.39,4,79240,510,800,73,540,6
+ SSB,ENSG00000138385,6741,protein_coding,Human,2,169.791933,small RNA binding exonuclease protection factor La [Source:HGNC Symbol;Acc:HGNC:11316],39.88,12,20132,755,897,256,232,5
+ PDK1,ENSG00000152256,5163,protein_coding,Human,2,172.555373,pyruvate dehydrogenase kinase 1 [Source:HGNC Symbol;Acc:HGNC:8809],39.52,9,53297,786,2508,83,3420,7
+ NUP35,ENSG00000163002,129401,protein_coding,Human,2,183.117513,nucleoporin 35 [Source:HGNC Symbol;Acc:HGNC:29797],38.01,10,44168,502,1008,60,288,6
+ GLS,ENSG00000115419,2744,protein_coding,Human,2,190.880821,glutaminase [Source:HGNC Symbol;Acc:HGNC:4331],35.11,15,84732,818,1284,216,821,6
+ CCDC150,ENSG00000144395,284992,protein_coding,Human,2,196.639554,coiled-coil domain containing 150 [Source:HGNC Symbol;Acc:HGNC:26834],38.16,19,123937,1417,1445,195,207,8
+ SGO2,ENSG00000163535,151246,protein_coding,Human,2,200.510008,shugoshin 2 [Source:HGNC Symbol;Acc:HGNC:30812],37.74,6,74089,1601,1343,65,420,5
+ NIF3L1,ENSG00000196290,60491,protein_coding,Human,2,200.889327,NGG1 interacting factor 3 like 1 [Source:HGNC Symbol;Acc:HGNC:13390],41.02,9,14612,797,1205,105,264,6
+ CASP8,ENSG00000064012,841,protein_coding,Human,2,201.233443,caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509],42.24,25,128394,1166,1832,94,679,7
+ SUMO1,ENSG00000116030,7341,protein_coding,Human,2,202.206182,small ubiquitin like modifier 1 [Source:HGNC Symbol;Acc:HGNC:12502],41.66,10,32418,255,870,115,443,5
+ NOP58,ENSG00000055044,51602,protein_coding,Human,2,202.265736,NOP58 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:29926],41.15,10,37926,787,792,192,127,6
+ ARPC2,ENSG00000163466,10109,protein_coding,Human,2,218.217141,actin related protein 2/3 complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:705],44.27,18,37216,494,899,95,263,6
+ CNOT9,ENSG00000144580,9125,protein_coding,Human,2,218.56858,CCR4-NOT transcription complex subunit 9 [Source:HGNC Symbol;Acc:HGNC:10445],41.17,9,28501,588,1414,176,762,6
+ STK36,ENSG00000163482,27148,protein_coding,Human,2,218.672069,serine/threonine kinase 36 [Source:HGNC Symbol;Acc:HGNC:17209],46.04,16,30648,1726,1496,89,458,9
+ ,ENSG00000280537,NA,protein_coding,Human,2,219.075329,"novel protein, SLC23A3-NHEJ1 readthrough",43.87,2,95499,312,3484,3,162,17
+ SGPP2,ENSG00000163082,130367,protein_coding,Human,2,222.424543,sphingosine-1-phosphate phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:19953],41.76,1,138079,1200,4983,60,3723,5
+ MFF,ENSG00000168958,56947,protein_coding,Human,2,227.325151,mitochondrial fission factor [Source:HGNC Symbol;Acc:HGNC:24858],36.79,27,32686,450,1126,121,465,5
+ AGFG1,ENSG00000173744,3267,protein_coding,Human,2,227.472152,ArfGAP with FG repeats 1 [Source:HGNC Symbol;Acc:HGNC:5175],37.09,8,89066,1348,2447,174,1423,10
+ SLC16A14,ENSG00000163053,151473,protein_coding,Human,2,230.034982,solute carrier family 16 member 14 [Source:HGNC Symbol;Acc:HGNC:26417],42.85,5,34012,928,1801,156,2398,4
+ PSMD1,ENSG00000173692,5707,protein_coding,Human,2,231.056845,"proteasome 26S subunit, non-ATPase 1 [Source:HGNC Symbol;Acc:HGNC:9554]",37.89,37,116272,2084,2710,170,187,17
+ PTMA,ENSG00000187514,5757,protein_coding,Human,2,231.706895,prothymosin alpha [Source:HGNC Symbol;Acc:HGNC:9623],61.69,12,6657,325,877,193,387,4
+ PDE6D,ENSG00000156973,5147,protein_coding,Human,2,231.732433,phosphodiesterase 6D [Source:HGNC Symbol;Acc:HGNC:8788],42.51,5,53840,350,888,150,366,4
+ MROH2A,ENSG00000185038,339766,protein_coding,Human,2,233.775679,maestro heat like repeat family member 2A [Source:HGNC Symbol;Acc:HGNC:27936],48.73,8,57745,2107,1679,47,162,13
+ HJURP,ENSG00000123485,55355,protein_coding,Human,2,233.833416,Holliday junction recognition protein [Source:HGNC Symbol;Acc:HGNC:25444],48.25,9,21151,1345,1557,54,602,5
+ COPS8,ENSG00000198612,10920,protein_coding,Human,2,237.085882,COP9 signalosome subunit 8 [Source:HGNC Symbol;Acc:HGNC:24335],38.3,7,14593,416,1237,78,801,6
+ TRAF3IP1,ENSG00000204104,26146,protein_coding,Human,2,238.320441,TRAF3 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:17861],44.5,5,80457,1371,2134,165,1359,9
+ NDUFA10,ENSG00000130414,4705,protein_coding,Human,2,239.89245,NADH:ubiquinone oxidoreductase subunit A10 [Source:HGNC Symbol;Acc:HGNC:7684],48.49,46,133294,885,3460,70,1079,9
+ ARL8B,ENSG00000134108,55207,protein_coding,Human,3,5.122249,ADP ribosylation factor like GTPase 8B [Source:HGNC Symbol;Acc:HGNC:25564],40.81,7,58663,348,1194,98,732,5
+ RAD18,ENSG00000070950,56852,protein_coding,Human,3,8.775402,RAD18 E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:18278],40.44,10,188372,553,1195,91,852,6
+ FANCD2,ENSG00000144554,2177,protein_coding,Human,3,10.02637,FA complementation group D2 [Source:HGNC Symbol;Acc:HGNC:3585],42.79,18,75563,2300,2396,58,584,18
+ VHL,ENSG00000134086,7428,protein_coding,Human,3,10.141778,von Hippel-Lindau tumor suppressor [Source:HGNC Symbol;Acc:HGNC:12687],47.17,6,11890,616,3044,66,2276,3
+ TAMM41,ENSG00000144559,132001,protein_coding,Human,3,11.790442,TAM41 mitochondrial translocator assembly and maintenance homolog [Source:HGNC Symbol;Acc:HGNC:25187],42.11,12,56478,631,1268,244,119,5
+ METTL6,ENSG00000206562,131965,protein_coding,Human,3,15.381275,"methyltransferase 6, methylcytidine [Source:HGNC Symbol;Acc:HGNC:28343]",42.52,10,59292,623,1330,134,670,5
+ SGO1,ENSG00000129810,151648,protein_coding,Human,3,20.160593,shugoshin 1 [Source:HGNC Symbol;Acc:HGNC:25088],36.98,13,25614,992,1536,85,398,7
+ NGLY1,ENSG00000151092,55768,protein_coding,Human,3,25.718944,N-glycanase 1 [Source:HGNC Symbol;Acc:HGNC:17646],37.55,21,71096,1255,1862,68,251,9
+ CMC1,ENSG00000187118,152100,protein_coding,Human,3,28.241584,C-X9-C motif containing 1 [Source:HGNC Symbol;Acc:HGNC:28783],35.93,11,83559,232,1385,174,1931,4
+ ZNF860,ENSG00000197385,344787,protein_coding,Human,3,31.98175,zinc finger protein 860 [Source:HGNC Symbol;Acc:HGNC:34513],41.67,2,9974,1899,1888,286,745,2
+ CMTM8,ENSG00000170293,152189,protein_coding,Human,3,32.238679,CKLF like MARVEL transmembrane domain containing 8 [Source:HGNC Symbol;Acc:HGNC:19179],43.06,2,131643,435,1082,294,354,4
+ CMTM7,ENSG00000153551,112616,protein_coding,Human,3,32.391698,CKLF like MARVEL transmembrane domain containing 7 [Source:HGNC Symbol;Acc:HGNC:19178],45.15,6,91370,408,1273,94,539,4
+ XYLB,ENSG00000093217,9942,protein_coding,Human,3,38.34676,xylulokinase [Source:HGNC Symbol;Acc:HGNC:12839],44.83,7,74589,919,2024,76,850,12
+ KIF15,ENSG00000163808,56992,protein_coding,Human,3,44.761721,kinesin family member 15 [Source:HGNC Symbol;Acc:HGNC:17273],41.47,7,111656,1766,2834,89,229,21
+ ZDHHC3,ENSG00000163812,51304,protein_coding,Human,3,44.915257,zinc finger DHHC-type palmitoyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:18470],47.26,11,60929,602,2347,127,2713,5
+ EXOSC7,ENSG00000075914,23016,protein_coding,Human,3,44.975241,exosome component 7 [Source:HGNC Symbol;Acc:HGNC:28112],46.87,11,60826,876,915,34,132,5
+ SLC6A20,ENSG00000163817,54716,protein_coding,Human,3,45.755449,solute carrier family 6 member 20 [Source:HGNC Symbol;Acc:HGNC:30927],47.96,8,41126,1753,2616,108,2697,7
+ NBEAL2,ENSG00000160796,23218,protein_coding,Human,3,46.979666,neurobeachin like 2 [Source:HGNC Symbol;Acc:HGNC:31928],59.9,17,30039,4488,2389,127,267,13
+ TRAIP,ENSG00000183763,10293,protein_coding,Human,3,49.828601,TRAF interacting protein [Source:HGNC Symbol;Acc:HGNC:30764],49.84,11,27974,766,884,92,257,7
+ POC1A,ENSG00000164087,25886,protein_coding,Human,3,52.075226,POC1 centriolar protein A [Source:HGNC Symbol;Acc:HGNC:24488],51.67,3,79465,1138,1898,147,565,11
+ UBA3,ENSG00000144744,9039,protein_coding,Human,3,69.05473,ubiquitin like modifier activating enzyme 3 [Source:HGNC Symbol;Acc:HGNC:12470],37.06,13,25679,730,1010,29,462,8
+ CPOX,ENSG00000080819,1371,protein_coding,Human,3,98.579446,coproporphyrinogen oxidase [Source:HGNC Symbol;Acc:HGNC:2321],40.35,4,14203,946,1273,126,644,4
+ COL8A1,ENSG00000144810,1295,protein_coding,Human,3,99.638475,collagen type VIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2215],38.48,9,160752,1531,2298,84,2256,4
+ TRMT10C,ENSG00000174173,54931,protein_coding,Human,3,101.561868,"tRNA methyltransferase 10C, mitochondrial RNase P subunit [Source:HGNC Symbol;Acc:HGNC:26022]",41.21,2,4579,1074,1415,57,453,2
+ PCNP,ENSG00000081154,57092,protein_coding,Human,3,101.57418,PEST proteolytic signal containing nuclear protein [Source:HGNC Symbol;Acc:HGNC:30023],39.69,8,20286,225,1188,33,1011,4
+ IFT57,ENSG00000114446,55081,protein_coding,Human,3,108.160812,intraflagellar transport 57 [Source:HGNC Symbol;Acc:HGNC:17367],35.23,6,61624,670,1008,89,880,5
+ CIP2A,ENSG00000163507,57650,protein_coding,Human,3,108.549864,cellular inhibitor of PP2A [Source:HGNC Symbol;Acc:HGNC:29302],34.15,7,39781,1124,2005,79,666,12
+ DZIP3,ENSG00000198919,9666,protein_coding,Human,3,108.589705,DAZ interacting zinc finger protein 3 [Source:HGNC Symbol;Acc:HGNC:30938],35.7,6,105136,1787,3012,92,475,21
+ NAA50,ENSG00000121579,80218,protein_coding,Human,3,113.716458,"N-alpha-acetyltransferase 50, NatE catalytic subunit [Source:HGNC Symbol;Acc:HGNC:29533]",37.41,10,29843,295,1428,232,1212,4
+ TIMMDC1,ENSG00000113845,51300,protein_coding,Human,3,119.498547,translocase of inner mitochondrial membrane domain containing 1 [Source:HGNC Symbol;Acc:HGNC:1321],38.47,9,26544,387,914,169,299,4
+ POLQ,ENSG00000051341,10721,protein_coding,Human,3,121.431431,DNA polymerase theta [Source:HGNC Symbol;Acc:HGNC:9186],39.03,4,114558,3988,2678,111,486,11
+ MIX23,ENSG00000160124,131076,protein_coding,Human,3,122.359591,mitochondrial matrix import factor 23 [Source:HGNC Symbol;Acc:HGNC:31136],39.16,7,23641,354,594,28,159,4
+ KPNA1,ENSG00000114030,3836,protein_coding,Human,3,122.421902,karyopherin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6394],38.26,10,93044,768,2057,58,1775,10
+ CCDC14,ENSG00000175455,64770,protein_coding,Human,3,123.897305,coiled-coil domain containing 14 [Source:HGNC Symbol;Acc:HGNC:25766],36.3,22,64104,1401,2098,485,705,7
+ UMPS,ENSG00000114491,7372,protein_coding,Human,3,124.730433,uridine monophosphate synthetase [Source:HGNC Symbol;Acc:HGNC:12563],42.69,11,18841,482,1928,24,1107,5
+ MCM2,ENSG00000073111,4171,protein_coding,Human,3,127.59841,minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944],50.56,9,24027,1106,1688,126,341,8
+ RUVBL1,ENSG00000175792,8607,protein_coding,Human,3,128.064778,RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474],45.86,8,89137,837,1493,232,308,5
+ GATA2,ENSG00000179348,2624,protein_coding,Human,3,128.479427,GATA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4171],60.46,13,13775,726,1532,163,1372,4
+ RAB7A,ENSG00000075785,7879,protein_coding,Human,3,128.693669,"RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]",45.18,18,132274,503,1746,95,936,5
+ ACAD9,ENSG00000177646,28976,protein_coding,Human,3,128.879596,acyl-CoA dehydrogenase family member 9 [Source:HGNC Symbol;Acc:HGNC:21497],48.09,30,44408,886,2439,92,262,14
+ HMCES,ENSG00000183624,56941,protein_coding,Human,3,129.278828,"5-hydroxymethylcytosine binding, ES cell specific [Source:HGNC Symbol;Acc:HGNC:24446]",44.53,8,27359,832,1332,70,720,6
+ H1-10,ENSG00000184897,8971,protein_coding,Human,3,129.314771,H1.10 linker histone [Source:HGNC Symbol;Acc:HGNC:4722],68.6,1,1516,642,1516,384,490,1
+ MBD4,ENSG00000129071,8930,protein_coding,Human,3,129.430947,"methyl-CpG binding domain 4, DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:6919]",39.91,10,9233,1293,1364,184,389,5
+ TMCC1,ENSG00000172765,23023,protein_coding,Human,3,129.647792,transmembrane and coiled-coil domain family 1 [Source:HGNC Symbol;Acc:HGNC:29116],39.4,17,245920,1039,2306,146,3671,4
+ NEK11,ENSG00000114670,79858,protein_coding,Human,3,131.02685,NIMA related kinase 11 [Source:HGNC Symbol;Acc:HGNC:18593],38.71,17,323616,1311,1597,113,342,10
+ MRPL3,ENSG00000114686,11222,protein_coding,Human,3,131.462212,mitochondrial ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10379],35.94,10,40772,724,905,136,322,6
+ UBA5,ENSG00000081307,79876,protein_coding,Human,3,132.654446,ubiquitin like modifier activating enzyme 5 [Source:HGNC Symbol;Acc:HGNC:23230],36.81,15,25349,796,1830,234,1427,7
+ CDV3,ENSG00000091527,55573,protein_coding,Human,3,133.573686,CDV3 homolog [Source:HGNC Symbol;Acc:HGNC:26928],42.48,10,16576,424,1531,156,1090,5
+ TOPBP1,ENSG00000163781,11073,protein_coding,Human,3,133.598175,DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008],37.94,10,64206,3092,1732,200,691,8
+ CEP70,ENSG00000114107,80321,protein_coding,Human,3,138.494344,centrosomal protein 70 [Source:HGNC Symbol;Acc:HGNC:29972],39.55,13,100195,1024,1272,89,252,10
+ HPS3,ENSG00000163755,84343,protein_coding,Human,3,149.129638,HPS3 biogenesis of lysosomal organelles complex 2 subunit 1 [Source:HGNC Symbol;Acc:HGNC:15597],38.65,7,44095,2112,2122,86,646,8
+ SELENOT,ENSG00000198843,51714,protein_coding,Human,3,150.602875,selenoprotein T [Source:HGNC Symbol;Acc:HGNC:18136],37.86,6,27562,394,1274,102,356,6
+ ARHGEF26,ENSG00000114790,26084,protein_coding,Human,3,154.121003,Rho guanine nucleotide exchange factor 26 [Source:HGNC Symbol;Acc:HGNC:24490],38.97,5,136825,2237,3929,94,1553,11
+ DHX36,ENSG00000174953,170506,protein_coding,Human,3,154.272546,DEAH-box helicase 36 [Source:HGNC Symbol;Acc:HGNC:14410],35.49,13,51942,2044,1767,75,1404,10
+ PLCH1,ENSG00000114805,23007,protein_coding,Human,3,155.37558,phospholipase C eta 1 [Source:HGNC Symbol;Acc:HGNC:29185],39.53,6,369492,4232,4864,183,991,20
+ GMPS,ENSG00000163655,8833,protein_coding,Human,3,155.87065,guanine monophosphate synthase [Source:HGNC Symbol;Acc:HGNC:4378],38.82,3,73371,1934,3742,221,3173,12
+ SMC4,ENSG00000113810,10051,protein_coding,Human,3,160.399274,structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013],36.23,27,35681,1537,1509,188,545,8
+ PDCD10,ENSG00000114209,11235,protein_coding,Human,3,167.683298,programmed cell death 10 [Source:HGNC Symbol;Acc:HGNC:8761],35.73,18,51642,500,860,96,231,7
+ ECT2,ENSG00000114346,1894,protein_coding,Human,3,172.750682,epithelial cell transforming 2 [Source:HGNC Symbol;Acc:HGNC:3155],34.96,16,70793,1317,1784,106,955,11
+ NLGN1,ENSG00000169760,22871,protein_coding,Human,3,173.396284,neuroligin 1 [Source:HGNC Symbol;Acc:HGNC:14291],35.45,11,898089,1441,3227,291,6743,4
+ ZNF639,ENSG00000121864,51193,protein_coding,Human,3,179.323031,zinc finger protein 639 [Source:HGNC Symbol;Acc:HGNC:30950],41.23,10,15553,1018,2000,89,2837,5
+ MFN1,ENSG00000171109,55669,protein_coding,Human,3,179.347709,mitofusin 1 [Source:HGNC Symbol;Acc:HGNC:18262],38.55,9,47228,1314,1776,62,1007,9
+ ACTL6A,ENSG00000136518,86,protein_coding,Human,3,179.562886,actin like 6A [Source:HGNC Symbol;Acc:HGNC:24124],39.25,14,25522,851,874,112,317,6
+ MRPL47,ENSG00000136522,57129,protein_coding,Human,3,179.588285,mitochondrial ribosomal protein L47 [Source:HGNC Symbol;Acc:HGNC:16652],38.56,3,16365,623,1051,33,348,7
+ NDUFB5,ENSG00000136521,4711,protein_coding,Human,3,179.60469,NADH:ubiquinone oxidoreductase subunit B5 [Source:HGNC Symbol;Acc:HGNC:7700],39.72,16,22958,372,1143,17,1010,4
+ TTC14,ENSG00000163728,151613,protein_coding,Human,3,180.602163,tetratricopeptide repeat domain 14 [Source:HGNC Symbol;Acc:HGNC:24697],35.08,11,15666,1056,2190,69,1190,7
+ FXR1,ENSG00000114416,8087,protein_coding,Human,3,180.868141,FMR1 autosomal homolog 1 [Source:HGNC Symbol;Acc:HGNC:4023],38.94,24,114613,1005,1758,87,1457,9
+ DNAJC19,ENSG00000205981,131118,protein_coding,Human,3,180.983697,DnaJ heat shock protein family (Hsp40) member C19 [Source:HGNC Symbol;Acc:HGNC:30528],39.14,12,6078,219,1396,102,539,5
+ MCCC1,ENSG00000078070,56922,protein_coding,Human,3,183.015218,methylcrotonyl-CoA carboxylase subunit 1 [Source:HGNC Symbol;Acc:HGNC:6936],41.62,14,100858,873,1437,126,130,11
+ LAMP3,ENSG00000078081,27074,protein_coding,Human,3,183.122215,lysosomal associated membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:14582],44.17,5,41625,850,1356,105,1011,4
+ YEATS2,ENSG00000163872,55689,protein_coding,Human,3,183.697797,YEATS domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25489],42.59,6,114828,2464,2470,108,1204,8
+ ABCC5,ENSG00000114770,10057,protein_coding,Human,3,183.919934,ATP binding cassette subfamily C member 5 [Source:HGNC Symbol;Acc:HGNC:56],44.68,13,98006,1231,2489,61,990,11
+ EIF2B5,ENSG00000145191,8893,protein_coding,Human,3,184.135038,eukaryotic translation initiation factor 2B subunit epsilon [Source:HGNC Symbol;Acc:HGNC:3261],48.66,31,11090,932,2334,16,176,12
+ ABCF3,ENSG00000161204,55324,protein_coding,Human,3,184.186095,ATP binding cassette subfamily F member 3 [Source:HGNC Symbol;Acc:HGNC:72],51.76,18,7918,1518,1143,52,234,8
+ PSMD2,ENSG00000175166,5708,protein_coding,Human,3,184.299198,"proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9559]",48.39,20,9853,1312,980,57,142,7
+ MAGEF1,ENSG00000177383,64110,protein_coding,Human,3,184.710364,MAGE family member F1 [Source:HGNC Symbol;Acc:HGNC:29639],53.85,1,1701,924,1701,243,534,1
+ VPS8,ENSG00000156931,23355,protein_coding,Human,3,184.812143,VPS8 subunit of CORVET complex [Source:HGNC Symbol;Acc:HGNC:29122],38.45,28,240472,1350,1329,94,493,12
+ TRA2B,ENSG00000136527,6434,protein_coding,Human,3,185.914558,transformer 2 beta homolog [Source:HGNC Symbol;Acc:HGNC:10781],38.67,15,23546,451,1744,176,1065,6
+ RFC4,ENSG00000163918,5984,protein_coding,Human,3,186.78988,replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972],40.5,13,17179,584,846,90,97,6
+ LRRC15,ENSG00000172061,131578,protein_coding,Human,3,194.355249,leucine rich repeat containing 15 [Source:HGNC Symbol;Acc:HGNC:20818],52.69,2,14495,1755,4564,50,2710,2
+ LSG1,ENSG00000041802,55341,protein_coding,Human,3,194.640791,large 60S subunit nuclear export GTPase 1 [Source:HGNC Symbol;Acc:HGNC:25652],41.68,8,31673,1123,988,29,675,5
+ TFRC,ENSG00000072274,7037,protein_coding,Human,3,196.012511,transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763],42.38,38,69643,1607,3942,75,1784,14
+ WDR53,ENSG00000185798,348793,protein_coding,Human,3,196.554177,WD repeat domain 53 [Source:HGNC Symbol;Acc:HGNC:28786],43.07,5,14498,643,952,114,25,3
+ FBXO45,ENSG00000174013,200933,protein_coding,Human,3,196.568611,F-box protein 45 [Source:HGNC Symbol;Acc:HGNC:29148],41.25,2,20449,592,4808,262,3855,3
+ ZNF732,ENSG00000186777,654254,protein_coding,Human,4,0.270675,zinc finger protein 732 [Source:HGNC Symbol;Acc:HGNC:37138],38.11,2,34800,1756,2262,164,424,4
+ SLBP,ENSG00000163950,7884,protein_coding,Human,4,1.692731,stem-loop binding protein [Source:HGNC Symbol;Acc:HGNC:10904],46.71,6,19614,714,1274,113,581,7
+ TACC3,ENSG00000013810,10460,protein_coding,Human,4,1.712858,transforming acidic coiled-coil containing protein 3 [Source:HGNC Symbol;Acc:HGNC:11524],56.92,17,32314,1367,1722,78,165,8
+ NSD2,ENSG00000109685,7468,protein_coding,Human,4,1.871393,nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766],47.15,31,110815,1962,3826,90,2299,10
+ SH3BP2,ENSG00000087266,6452,protein_coding,Human,4,2.793071,SH3 domain binding protein 2 [Source:HGNC Symbol;Acc:HGNC:10825],59.2,28,48028,802,1896,85,2860,6
+ C4orf50,ENSG00000181215,389197,protein_coding,Human,4,5.897373,chromosome 4 open reading frame 50 [Source:HGNC Symbol;Acc:HGNC:33766],49.24,2,303183,3536,12738,235,3816,21
+ JAKMIP1,ENSG00000152969,152789,protein_coding,Human,4,6.026199,janus kinase and microtubule interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:26460],49.33,20,174393,1798,2611,192,172,12
+ MRFAP1L1,ENSG00000178988,114932,protein_coding,Human,4,6.707701,Morf4 family associated protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:28796],44.76,2,2165,384,1852,236,479,2
+ RAB28,ENSG00000157869,9364,protein_coding,Human,4,13.361354,"RAB28, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9768]",36.22,8,123012,416,1226,198,338,6
+ BST1,ENSG00000109743,683,protein_coding,Human,4,15.703065,bone marrow stromal cell antigen 1 [Source:HGNC Symbol;Acc:HGNC:1118],43.46,5,35249,656,1309,64,574,8
+ NCAPG,ENSG00000109805,64151,protein_coding,Human,4,17.810979,non-SMC condensin I complex subunit G [Source:HGNC Symbol;Acc:HGNC:24304],35.36,5,33887,1518,1949,78,791,11
+ GRSF1,ENSG00000132463,2926,protein_coding,Human,4,70.815783,G-rich RNA sequence binding factor 1 [Source:HGNC Symbol;Acc:HGNC:4610],43.46,7,24115,1072,2509,97,755,8
+ DCK,ENSG00000156136,1633,protein_coding,Human,4,70.992538,deoxycytidine kinase [Source:HGNC Symbol;Acc:HGNC:2704],38.98,6,38377,506,1802,197,1031,6
+ GC,ENSG00000145321,2638,protein_coding,Human,4,71.741696,GC vitamin D binding protein [Source:HGNC Symbol;Acc:HGNC:4187],36.46,8,62346,1164,1200,59,103,9
+ NUP54,ENSG00000138750,53371,protein_coding,Human,4,76.107562,nucleoporin 54 [Source:HGNC Symbol;Acc:HGNC:17359],36.78,29,40924,768,2085,61,567,9
+ HNRNPD,ENSG00000138668,3184,protein_coding,Human,4,82.352498,heterogeneous nuclear ribonucleoprotein D [Source:HGNC Symbol;Acc:HGNC:5036],38.75,12,22006,641,1437,221,297,6
+ HNRNPDL,ENSG00000152795,9987,protein_coding,Human,4,82.422565,heterogeneous nuclear ribonucleoprotein D like [Source:HGNC Symbol;Acc:HGNC:5037],42.42,10,7898,958,2383,307,582,8
+ H2AZ1,ENSG00000164032,3015,protein_coding,Human,4,99.948086,H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741],49.21,7,2270,386,1125,108,374,4
+ CENPE,ENSG00000138778,1062,protein_coding,Human,4,103.105349,centromere protein E [Source:HGNC Symbol;Acc:HGNC:1856],34.68,6,93097,4180,3243,60,492,18
+ CASP6,ENSG00000138794,839,protein_coding,Human,4,109.688622,caspase 6 [Source:HGNC Symbol;Acc:HGNC:1507],44.61,8,14962,542,870,85,506,4
+ LRIT3,ENSG00000183423,345193,protein_coding,Human,4,109.848107,"leucine rich repeat, Ig-like and transmembrane domains 3 [Source:HGNC Symbol;Acc:HGNC:24783]",37.89,2,24209,1766,3721,238,1526,4
+ LARP7,ENSG00000174720,51574,protein_coding,Human,4,112.637077,"La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]",37.73,39,20620,1212,1946,185,202,10
+ C4orf3,ENSG00000164096,401152,protein_coding,Human,4,119.296419,chromosome 4 open reading frame 3 [Source:HGNC Symbol;Acc:HGNC:19225],42.89,2,8027,400,2816,110,2360,2
+ MAD2L1,ENSG00000164109,4085,protein_coding,Human,4,120.055623,mitotic arrest deficient 2 like 1 [Source:HGNC Symbol;Acc:HGNC:6763],37.68,5,11236,339,1684,112,1735,3
+ EXOSC9,ENSG00000123737,5393,protein_coding,Human,4,121.801318,exosome component 9 [Source:HGNC Symbol;Acc:HGNC:9137],37.71,12,15704,878,1243,117,226,8
+ CCNA2,ENSG00000145386,890,protein_coding,Human,4,121.816444,cyclin A2 [Source:HGNC Symbol;Acc:HGNC:1578],39.34,1,7440,1299,2748,255,1194,8
+ PLK4,ENSG00000142731,10733,protein_coding,Human,4,127.880893,polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397],36.28,11,18332,2421,1857,200,321,10
+ SCOC,ENSG00000153130,60592,protein_coding,Human,4,140.257286,short coiled-coil protein [Source:HGNC Symbol;Acc:HGNC:20335],40.94,9,128443,280,1896,107,1393,4
+ LRBA,ENSG00000198589,987,protein_coding,Human,4,150.264435,LPS responsive beige-like anchor protein [Source:HGNC Symbol;Acc:HGNC:1742],36.23,23,751293,4061,4412,236,849,22
+ TMEM131L,ENSG00000121210,23240,protein_coding,Human,4,153.466346,transmembrane 131 like [Source:HGNC Symbol;Acc:HGNC:29146],41.78,8,170366,3511,2231,47,124,15
+ HMGB2,ENSG00000164104,3148,protein_coding,Human,4,173.331376,high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000],45.5,5,3057,573,1224,68,487,4
+ NEIL3,ENSG00000109674,55247,protein_coding,Human,4,177.309874,nei like DNA glycosylase 3 [Source:HGNC Symbol;Acc:HGNC:24573],37.32,2,53063,1005,1946,66,447,7
+ RWDD4,ENSG00000182552,201965,protein_coding,Human,4,183.639635,RWD domain containing 4 [Source:HGNC Symbol;Acc:HGNC:23750],40.25,7,19569,317,1546,199,928,6
+ CASP3,ENSG00000164305,836,protein_coding,Human,4,184.627696,caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504],41.13,11,22367,607,2457,81,1101,7
+ CENPU,ENSG00000151725,79682,protein_coding,Human,4,184.694085,centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348],39.99,6,40046,917,1117,60,731,7
+ IRX1,ENSG00000170549,79192,protein_coding,Human,5,3.595832,iroquois homeobox 1 [Source:HGNC Symbol;Acc:HGNC:14358],59.15,1,5572,1443,2080,274,363,4
+ C1QTNF3,ENSG00000082196,114899,protein_coding,Human,5,34.017858,C1q and TNF related 3 [Source:HGNC Symbol;Acc:HGNC:14326],39.58,6,25356,850,1630,88,1928,4
+ DEPDC1B,ENSG00000035499,55789,protein_coding,Human,5,60.596912,DEP domain containing 1B [Source:HGNC Symbol;Acc:HGNC:24902],38.63,6,103279,794,1306,63,316,7
+ CENPK,ENSG00000123219,64105,protein_coding,Human,5,65.517766,centromere protein K [Source:HGNC Symbol;Acc:HGNC:29479],37.27,17,45403,524,916,93,426,7
+ CCNB1,ENSG00000134057,891,protein_coding,Human,5,69.167135,cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579],43.43,7,11111,862,1044,96,277,6
+ CENPH,ENSG00000153044,64946,protein_coding,Human,5,69.189574,centromere protein H [Source:HGNC Symbol;Acc:HGNC:17268],42.62,6,20784,664,877,56,415,6
+ FAM151B,ENSG00000152380,167555,protein_coding,Human,5,80.487969,family with sequence similarity 151 member B [Source:HGNC Symbol;Acc:HGNC:33716],38.99,5,54595,518,1168,90,403,6
+ VCAN,ENSG00000038427,1462,protein_coding,Human,5,83.471618,versican [Source:HGNC Symbol;Acc:HGNC:2464],37.18,12,110686,4841,4488,133,1145,9
+ CETN3,ENSG00000153140,1070,protein_coding,Human,5,90.392257,centrin 3 [Source:HGNC Symbol;Acc:HGNC:1868],33.62,6,17510,432,1052,93,512,5
+ POLR3G,ENSG00000113356,10622,protein_coding,Human,5,90.471748,RNA polymerase III subunit G [Source:HGNC Symbol;Acc:HGNC:30075],37.84,7,42810,451,1695,97,1452,6
+ LMNB1,ENSG00000113368,4001,protein_coding,Human,5,126.776623,lamin B1 [Source:HGNC Symbol;Acc:HGNC:6637],42.33,8,60398,1103,1543,425,357,7
+ SEPTIN8,ENSG00000164402,23176,protein_coding,Human,5,132.750819,septin 8 [Source:HGNC Symbol;Acc:HGNC:16511],48.12,16,56423,1041,2019,146,1546,7
+ SOWAHA,ENSG00000198944,134548,protein_coding,Human,5,132.813302,sosondowah ankyrin repeat domain family member A [Source:HGNC Symbol;Acc:HGNC:27033],57.68,1,3485,1650,3485,320,1515,1
+ KIF20A,ENSG00000112984,10112,protein_coding,Human,5,138.178719,kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787],45.25,7,9005,1339,1362,58,226,9
+ CDC25C,ENSG00000158402,995,protein_coding,Human,5,138.285269,cell division cycle 25C [Source:HGNC Symbol;Acc:HGNC:1727],44.08,9,53087,1014,1369,188,195,10
+ PAIP2,ENSG00000120727,51247,protein_coding,Human,5,139.341587,poly(A) binding protein interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:17970],43.58,8,28134,327,932,180,564,4
+ UBE2D2,ENSG00000131508,7322,protein_coding,Human,5,139.526431,ubiquitin conjugating enzyme E2 D2 [Source:HGNC Symbol;Acc:HGNC:12475],44.35,10,102004,373,1378,196,900,6
+ PCDHA11,ENSG00000249158,56138,protein_coding,Human,5,140.868183,protocadherin alpha 11 [Source:HGNC Symbol;Acc:HGNC:8665],39.64,3,144165,1960,3175,534,859,3
+ PCDHGA2,ENSG00000081853,56113,protein_coding,Human,5,141.33876,"protocadherin gamma subfamily A, 2 [Source:HGNC Symbol;Acc:HGNC:8700]",45.18,2,174216,2636,4678,212,1830,2
+ FBXO38,ENSG00000145868,81545,protein_coding,Human,5,148.383935,F-box protein 38 [Source:HGNC Symbol;Acc:HGNC:28844],37.05,20,58902,3143,1374,68,686,7
+ PTTG1,ENSG00000164611,9232,protein_coding,Human,5,160.421855,"PTTG1 regulator of sister chromatid separation, securin [Source:HGNC Symbol;Acc:HGNC:9690]",39.32,7,6885,548,760,180,46,5
+ HMMR,ENSG00000072571,3161,protein_coding,Human,5,163.460203,hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012],36.97,8,31739,1497,1686,117,511,11
+ SPDL1,ENSG00000040275,54908,protein_coding,Human,5,169.583636,spindle apparatus coiled-coil protein 1 [Source:HGNC Symbol;Acc:HGNC:26010],37.27,16,21143,471,887,87,207,5
+ MXD3,ENSG00000213347,83463,protein_coding,Human,5,177.301461,MAX dimerization protein 3 [Source:HGNC Symbol;Acc:HGNC:14008],58.63,9,11297,598,1271,66,613,6
+ DOK3,ENSG00000146094,79930,protein_coding,Human,5,177.501904,docking protein 3 [Source:HGNC Symbol;Acc:HGNC:24583],58.12,13,9371,736,1395,111,921,4
+ ADAMTS2,ENSG00000087116,9509,protein_coding,Human,5,179.110853,ADAM metallopeptidase with thrombospondin type 1 motif 2 [Source:HGNC Symbol;Acc:HGNC:218],53.88,6,234609,2906,3225,110,1316,13
+ HNRNPH1,ENSG00000169045,3187,protein_coding,Human,5,179.614178,heterogeneous nuclear ribonucleoprotein H1 [Source:HGNC Symbol;Acc:HGNC:5041],45.97,50,20607,556,1072,183,453,6
+ MAPK9,ENSG00000050748,5601,protein_coding,Human,5,180.233143,mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886],43.58,13,58957,830,2307,106,1575,8
+ CDYL,ENSG00000153046,9425,protein_coding,Human,6,4.706159,chromodomain Y like [Source:HGNC Symbol;Acc:HGNC:1811],42.04,9,249393,1080,1875,234,995,6
+ MRS2,ENSG00000124532,57380,protein_coding,Human,6,24.402908,magnesium transporter MRS2 [Source:HGNC Symbol;Acc:HGNC:13785],39.3,6,23287,1126,2629,120,1979,10
+ GTF2H4,ENSG00000213780,2968,protein_coding,Human,6,30.908207,general transcription factor IIH subunit 4 [Source:HGNC Symbol;Acc:HGNC:4658],51.2,6,5900,1389,1142,90,123,8
+ TCF19,ENSG00000137310,6941,protein_coding,Human,6,31.158547,transcription factor 19 [Source:HGNC Symbol;Acc:HGNC:11629],51.1,4,8613,910,1992,302,1049,4
+ KIFC1,ENSG00000237649,3833,protein_coding,Human,6,33.391823,kinesin family member C1 [Source:HGNC Symbol;Acc:HGNC:6389],47.44,4,18074,1032,1106,144,186,6
+ TAF11,ENSG00000064995,6882,protein_coding,Human,6,34.877462,TATA-box binding protein associated factor 11 [Source:HGNC Symbol;Acc:HGNC:11544],41.7,12,11731,447,2015,81,647,4
+ RNF8,ENSG00000112130,9025,protein_coding,Human,6,37.353979,ring finger protein 8 [Source:HGNC Symbol;Acc:HGNC:10071],43.66,8,40756,680,1777,124,864,5
+ GLO1,ENSG00000124767,2739,protein_coding,Human,6,38.675925,glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323],39.8,2,27221,555,1978,91,1370,4
+ KCNK16,ENSG00000095981,83795,protein_coding,Human,6,39.314698,potassium two pore domain channel subfamily K member 16 [Source:HGNC Symbol;Acc:HGNC:14464],54.72,5,8271,833,1059,99,177,5
+ LRFN2,ENSG00000156564,57497,protein_coding,Human,6,40.391591,leucine rich repeat and fibronectin type III domain containing 2 [Source:HGNC Symbol;Acc:HGNC:21226],48.5,2,195774,2208,2897,208,352,4
+ MCM3,ENSG00000112118,4172,protein_coding,Human,6,52.264014,minichromosome maintenance complex component 3 [Source:HGNC Symbol;Acc:HGNC:6945],43.17,6,20868,2144,2318,109,353,13
+ BAG2,ENSG00000112208,9532,protein_coding,Human,6,57.172326,BAG cochaperone 2 [Source:HGNC Symbol;Acc:HGNC:938],38.77,1,17508,636,6651,372,5643,3
+ TTK,ENSG00000112742,7272,protein_coding,Human,6,80.003887,TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401],34.98,11,38641,1199,1319,132,272,9
+ MMS22L,ENSG00000146263,253714,protein_coding,Human,6,97.142161,"MMS22 like, DNA repair protein [Source:HGNC Symbol;Acc:HGNC:21475]",35.58,13,141057,2154,3416,104,2000,11
+ CD24,ENSG00000272398,100133941,protein_coding,Human,6,106.969831,CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645],50.84,8,5797,267,1091,145,783,2
+ WASF1,ENSG00000112290,8936,protein_coding,Human,6,110.099819,WASP family member 1 [Source:HGNC Symbol;Acc:HGNC:12732],36.65,10,80186,1032,1844,140,703,8
+ CDK19,ENSG00000155111,23097,protein_coding,Human,6,110.609978,cyclin dependent kinase 19 [Source:HGNC Symbol;Acc:HGNC:19338],39.87,8,205981,1031,2835,147,3447,8
+ COL10A1,ENSG00000123500,1300,protein_coding,Human,6,116.118909,collagen type X alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2185],35.46,5,39839,1386,2225,124,1120,3
+ CENPW,ENSG00000203760,387103,protein_coding,Human,6,126.340115,centromere protein W [Source:HGNC Symbol;Acc:HGNC:21488],35.6,3,8761,261,593,120,213,3
+ MTFR2,ENSG00000146410,113115,protein_coding,Human,6,136.231024,mitochondrial fission regulator 2 [Source:HGNC Symbol;Acc:HGNC:21115],39.81,7,19312,707,1035,86,195,5
+ PERP,ENSG00000112378,64065,protein_coding,Human,6,138.088505,p53 apoptosis effector related to PMP22 [Source:HGNC Symbol;Acc:HGNC:17637],39.25,1,18915,582,4198,79,3537,3
+ LTV1,ENSG00000135521,84946,protein_coding,Human,6,143.843338,LTV1 ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:21173],39.75,1,20475,1428,1853,140,285,11
+ NUP43,ENSG00000120253,348995,protein_coding,Human,6,149.724315,nucleoporin 43 [Source:HGNC Symbol;Acc:HGNC:21182],43.95,6,25351,690,1319,46,796,6
+ FBXO5,ENSG00000112029,26271,protein_coding,Human,6,152.970519,F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584],38.53,3,13061,1275,2295,136,631,4
+ DYNLT1,ENSG00000146425,6993,protein_coding,Human,6,158.636474,dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697],45.31,3,8270,342,1465,35,353,3
+ MPC1,ENSG00000060762,51660,protein_coding,Human,6,166.364919,mitochondrial pyruvate carrier 1 [Source:HGNC Symbol;Acc:HGNC:21606],38.93,7,18095,266,884,123,510,5
+ THBS2,ENSG00000186340,7058,protein_coding,Human,6,169.21578,thrombospondin 2 [Source:HGNC Symbol;Acc:HGNC:11786],49.53,15,38271,2763,3980,74,1654,16
+ TBP,ENSG00000112592,6908,protein_coding,Human,6,170.554302,TATA-box binding protein [Source:HGNC Symbol;Acc:HGNC:11588],39.46,7,18569,733,1415,113,534,6
+ HNRNPA2B1,ENSG00000122566,3181,protein_coding,Human,7,26.171151,heterogeneous nuclear ribonucleoprotein A2/B1 [Source:HGNC Symbol;Acc:HGNC:5033],41.39,49,30379,986,3506,659,667,12
+ CBX3,ENSG00000122565,11335,protein_coding,Human,7,26.201162,chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553],41.37,8,12446,384,1283,189,958,4
+ GARS1,ENSG00000106105,2617,protein_coding,Human,7,30.580533,glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162],38.92,33,53501,1310,2808,59,158,15
+ NT5C3A,ENSG00000122643,51251,protein_coding,Human,7,33.01413,"5'-nucleotidase, cytosolic IIIA [Source:HGNC Symbol;Acc:HGNC:17820]",37.98,10,48667,610,950,50,371,6
+ ANLN,ENSG00000011426,54443,protein_coding,Human,7,36.389821,anillin actin binding protein [Source:HGNC Symbol;Acc:HGNC:14082],37.87,13,63971,1006,1373,148,569,8
+ SFRP4,ENSG00000106483,6424,protein_coding,Human,7,37.905932,secreted frizzled related protein 4 [Source:HGNC Symbol;Acc:HGNC:10778],39.07,3,119764,726,1448,250,1547,5
+ STARD3NL,ENSG00000010270,83930,protein_coding,Human,7,38.178245,STARD3 N-terminal like [Source:HGNC Symbol;Acc:HGNC:19169],38.39,7,52426,625,1509,93,286,8
+ INHBA,ENSG00000122641,3624,protein_coding,Human,7,41.667168,inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066],40.65,5,38667,1281,2494,172,1571,3
+ AEBP1,ENSG00000106624,165,protein_coding,Human,7,44.104345,AE binding protein 1 [Source:HGNC Symbol;Acc:HGNC:303],62.7,9,10218,976,1420,156,236,7
+ ZNF138,ENSG00000197008,7697,protein_coding,Human,7,64.794388,zinc finger protein 138 [Source:HGNC Symbol;Acc:HGNC:12922],39.99,7,39294,596,2040,139,1074,4
+ RFC2,ENSG00000049541,5982,protein_coding,Human,7,74.231499,replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970],48.96,13,22960,427,969,29,237,8
+ SRI,ENSG00000075142,6717,protein_coding,Human,7,88.205115,sorcin [Source:HGNC Symbol;Acc:HGNC:11292],39.54,10,21879,476,976,44,527,6
+ TMEM130,ENSG00000166448,222865,protein_coding,Human,7,98.846488,transmembrane protein 130 [Source:HGNC Symbol;Acc:HGNC:25429],52.26,8,24284,941,1838,236,1472,5
+ TFEC,ENSG00000105967,22797,protein_coding,Human,7,115.935148,transcription factor EC [Source:HGNC Symbol;Acc:HGNC:11754],35,9,224749,878,2831,88,3648,6
+ LSM8,ENSG00000128534,51691,protein_coding,Human,7,118.184144,"LSM8 homolog, U6 small nuclear RNA associated [Source:HGNC Symbol;Acc:HGNC:20471]",35.29,4,19892,239,4656,432,5314,3
+ FEZF1,ENSG00000128610,389549,protein_coding,Human,7,122.301303,FEZ family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:22788],49.07,3,9389,938,1497,222,361,4
+ HILPDA,ENSG00000135245,29923,protein_coding,Human,7,128.455849,hypoxia inducible lipid droplet associated [Source:HGNC Symbol;Acc:HGNC:28859],51.52,4,2570,192,1106,86,711,2
+ CHCHD3,ENSG00000106554,54927,protein_coding,Human,7,132.78487,coiled-coil-helix-coiled-coil-helix domain containing 3 [Source:HGNC Symbol;Acc:HGNC:21906],39.02,6,297221,604,1100,127,546,7
+ STMP1,ENSG00000243317,647087,protein_coding,Human,7,135.662496,short transmembrane mitochondrial protein 1 [Source:HGNC Symbol;Acc:HGNC:41909],43.1,4,30923,141,1416,75,1215,3
+ KDM7A,ENSG00000006459,80853,protein_coding,Human,7,140.084746,lysine demethylase 7A [Source:HGNC Symbol;Acc:HGNC:22224],39.15,3,92238,2020,5929,46,4015,12
+ BRAF,ENSG00000157764,673,protein_coding,Human,7,140.719327,"B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]",38,21,205603,1456,3036,81,1799,12
+ SSBP1,ENSG00000106028,6742,protein_coding,Human,7,141.738334,single stranded DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11317],40.78,15,49589,393,935,114,119,6
+ CLEC5A,ENSG00000258227,23601,protein_coding,Human,7,141.927357,C-type lectin domain containing 5A [Source:HGNC Symbol;Acc:HGNC:2054],40.03,7,19651,390,1243,87,863,4
+ TPK1,ENSG00000196511,27010,protein_coding,Human,7,144.451941,thiamin pyrophosphokinase 1 [Source:HGNC Symbol;Acc:HGNC:17358],37.29,13,384455,446,1529,53,925,7
+ EZH2,ENSG00000106462,2146,protein_coding,Human,7,148.807257,enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527],39.19,20,77065,1534,2708,92,189,15
+ XRCC2,ENSG00000196584,7516,protein_coding,Human,7,152.644776,X-ray repair cross complementing 2 [Source:HGNC Symbol;Acc:HGNC:12829],42.61,4,31418,759,3536,81,2942,2
+ DNAJB6,ENSG00000105993,10049,protein_coding,Human,7,157.335381,DnaJ heat shock protein family (Hsp40) member B6 [Source:HGNC Symbol;Acc:HGNC:14888],48.15,18,82059,572,1527,99,1173,6
+ NCAPG2,ENSG00000146918,54892,protein_coding,Human,7,158.631169,non-SMC condensin II complex subunit G2 [Source:HGNC Symbol;Acc:HGNC:21904],41.8,11,73636,2840,2406,60,580,17
+ XKR5,ENSG00000275591,389610,protein_coding,Human,8,6.808517,XK related 5 [Source:HGNC Symbol;Acc:HGNC:20782],49.58,2,27008,1161,4829,18,1725,8
+ MSR1,ENSG00000038945,4481,protein_coding,Human,8,16.107878,macrophage scavenger receptor 1 [Source:HGNC Symbol;Acc:HGNC:7376],35.52,14,459613,790,1263,57,1091,6
+ ESCO2,ENSG00000171320,157570,protein_coding,Human,8,27.771949,establishment of sister chromatid cohesion N-acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:27230],37.71,8,40692,815,1659,56,1026,6
+ HTRA4,ENSG00000169495,203100,protein_coding,Human,8,38.974228,HtrA serine peptidase 4 [Source:HGNC Symbol;Acc:HGNC:26909],45.86,1,14436,1431,2032,36,565,9
+ GINS4,ENSG00000147536,84296,protein_coding,Human,8,41.529218,GINS complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:28226],46.73,9,15813,508,1492,266,1457,5
+ AP3M2,ENSG00000070718,10947,protein_coding,Human,8,42.152946,adaptor related protein complex 3 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:570],41.4,17,18728,656,1304,275,826,5
+ IKBKB,ENSG00000104365,3551,protein_coding,Human,8,42.271302,inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960],48.26,33,61159,727,2021,108,253,11
+ VDAC3,ENSG00000078668,7419,protein_coding,Human,8,42.391624,voltage dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674],40.44,12,14314,486,747,42,209,7
+ CHRNA6,ENSG00000147434,8973,protein_coding,Human,8,42.75262,cholinergic receptor nicotinic alpha 6 subunit [Source:HGNC Symbol;Acc:HGNC:15963],44.71,5,43773,1086,1192,203,406,5
+ FNTA,ENSG00000168522,2339,protein_coding,Human,8,43.034194,"farnesyltransferase, CAAX box, alpha [Source:HGNC Symbol;Acc:HGNC:3782]",42.58,14,51595,513,1576,79,301,6
+ MCM4,ENSG00000104738,4173,protein_coding,Human,8,47.960185,minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947],45.8,28,17976,1420,1945,64,382,8
+ UBE2V2,ENSG00000169139,7336,protein_coding,Human,8,48.008415,ubiquitin conjugating enzyme E2 V2 [Source:HGNC Symbol;Acc:HGNC:12495],42.29,8,56294,339,1505,85,979,4
+ ATP6V1H,ENSG00000047249,51606,protein_coding,Human,8,53.715543,ATPase H+ transporting V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303],39.2,19,128016,751,965,152,234,6
+ TCEA1,ENSG00000187735,6917,protein_coding,Human,8,53.966552,transcription elongation factor A1 [Source:HGNC Symbol;Acc:HGNC:11612],39.4,14,55905,487,1200,211,683,6
+ LYPLA1,ENSG00000120992,10434,protein_coding,Human,8,54.046367,lysophospholipase 1 [Source:HGNC Symbol;Acc:HGNC:6737],41.54,15,55651,472,1052,88,1158,6
+ MRPL15,ENSG00000137547,29088,protein_coding,Human,8,54.135241,mitochondrial ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:14054],43.29,3,13274,733,1061,25,467,5
+ TMEM68,ENSG00000167904,137695,protein_coding,Human,8,55.696424,transmembrane protein 68 [Source:HGNC Symbol;Acc:HGNC:26510],38.91,18,76984,496,1190,71,706,4
+ TGS1,ENSG00000137574,96764,protein_coding,Human,8,55.773446,trimethylguanosine synthase 1 [Source:HGNC Symbol;Acc:HGNC:17843],39.78,3,53000,1362,2729,161,1013,9
+ ARMC1,ENSG00000104442,55156,protein_coding,Human,8,65.602458,armadillo repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:17684],42.61,6,31760,529,1496,148,1331,5
+ MTFR1,ENSG00000066855,9650,protein_coding,Human,8,65.644734,mitochondrial fission regulator 1 [Source:HGNC Symbol;Acc:HGNC:29510],40.22,15,126528,657,1039,70,825,5
+ PDE7A,ENSG00000205268,5150,protein_coding,Human,8,65.714334,phosphodiesterase 7A [Source:HGNC Symbol;Acc:HGNC:8791],37.81,8,127989,1088,2004,286,2526,8
+ COPS5,ENSG00000121022,10987,protein_coding,Human,8,67.043079,COP9 signalosome subunit 5 [Source:HGNC Symbol;Acc:HGNC:2240],39.82,13,40705,445,1492,121,132,6
+ CSPP1,ENSG00000104218,79848,protein_coding,Human,8,67.062417,centrosome and spindle pole associated protein 1 [Source:HGNC Symbol;Acc:HGNC:26193],38.01,80,134362,2092,3028,61,461,18
+ SULF1,ENSG00000137573,23213,protein_coding,Human,8,69.466624,sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391],40.34,23,194292,1284,1758,132,1839,8
+ SLCO5A1,ENSG00000137571,81796,protein_coding,Human,8,69.667046,solute carrier organic anion transporter family member 5A1 [Source:HGNC Symbol;Acc:HGNC:19046],40.03,8,167933,1983,2903,330,1819,6
+ LACTB2,ENSG00000147592,51110,protein_coding,Human,8,70.635318,lactamase beta 2 [Source:HGNC Symbol;Acc:HGNC:18512],38.39,4,33868,867,842,60,325,5
+ KCNB2,ENSG00000182674,9312,protein_coding,Human,8,72.537225,potassium voltage-gated channel subfamily B member 2 [Source:HGNC Symbol;Acc:HGNC:6232],38.9,1,401125,2736,3748,377,258,3
+ STAU2,ENSG00000040341,27067,protein_coding,Human,8,73.420369,staufen double-stranded RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:11371],38.25,29,327340,1042,1490,92,979,8
+ UBE2W,ENSG00000104343,55284,protein_coding,Human,8,73.780097,ubiquitin conjugating enzyme E2 W [Source:HGNC Symbol;Acc:HGNC:25616],39.29,9,98814,406,3991,29,3217,6
+ ELOC,ENSG00000154582,6921,protein_coding,Human,8,73.939169,elongin C [Source:HGNC Symbol;Acc:HGNC:11617],41.21,15,33139,326,1732,75,1060,4
+ TMEM70,ENSG00000175606,54968,protein_coding,Human,8,73.972437,transmembrane protein 70 [Source:HGNC Symbol;Acc:HGNC:26050],43.8,7,10347,481,841,83,508,3
+ ZC2HC1A,ENSG00000104427,51101,protein_coding,Human,8,78.666089,zinc finger C2HC-type containing 1A [Source:HGNC Symbol;Acc:HGNC:24277],34.77,4,53677,785,1360,60,1140,6
+ ZFAND1,ENSG00000104231,79752,protein_coding,Human,8,81.701334,zinc finger AN1-type containing 1 [Source:HGNC Symbol;Acc:HGNC:25858],37.45,25,31570,368,928,73,410,6
+ E2F5,ENSG00000133740,1875,protein_coding,Human,8,85.177154,E2F transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:3119],39.54,8,40005,692,1682,171,648,6
+ WWP1,ENSG00000123124,11059,protein_coding,Human,8,86.342547,WW domain containing E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:17004],37.52,11,135874,1600,1406,88,846,9
+ CPNE3,ENSG00000085719,8895,protein_coding,Human,8,86.514435,copine 3 [Source:HGNC Symbol;Acc:HGNC:2316],37.62,13,47064,581,1162,59,3088,6
+ CNGB3,ENSG00000170289,54714,protein_coding,Human,8,86.553977,cyclic nucleotide gated channel subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:2153],38.24,6,189699,1485,2315,28,750,10
+ OSGIN2,ENSG00000164823,734,protein_coding,Human,8,89.901849,oxidative stress induced growth inhibitor family member 2 [Source:HGNC Symbol;Acc:HGNC:1355],38.21,4,26040,1328,3308,128,1789,6
+ NBN,ENSG00000104320,4683,protein_coding,Human,8,89.924515,nibrin [Source:HGNC Symbol;Acc:HGNC:7652],37,38,78714,1313,5007,107,1779,13
+ DECR1,ENSG00000104325,1666,protein_coding,Human,8,90.001405,"2,4-dienoyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:2753]",38.07,19,52229,413,831,74,304,6
+ OTUD6B,ENSG00000155100,51633,protein_coding,Human,8,91.070196,OTU deubiquitinase 6B [Source:HGNC Symbol;Acc:HGNC:24281],34.94,6,16900,746,2689,91,1829,7
+ TRIQK,ENSG00000205133,286144,protein_coding,Human,8,92.883532,triple QxxK/R motif containing [Source:HGNC Symbol;Acc:HGNC:27828],34.5,23,134142,219,1369,101,1255,4
+ TMEM67,ENSG00000164953,91147,protein_coding,Human,8,93.754844,transmembrane protein 67 [Source:HGNC Symbol;Acc:HGNC:28396],37.38,47,64391,1337,2937,41,372,20
+ RAD54B,ENSG00000197275,25788,protein_coding,Human,8,94.37196,RAD54 homolog B [Source:HGNC Symbol;Acc:HGNC:17228],36.72,8,103156,798,1180,47,505,6
+ FSBP,ENSG00000265817,100861412,protein_coding,Human,8,94.378377,fibrinogen silencer binding protein [Source:HGNC Symbol;Acc:HGNC:43653],35.62,2,58576,645,3932,80,2298,7
+ ESRP1,ENSG00000104413,54845,protein_coding,Human,8,94.641074,epithelial splicing regulatory protein 1 [Source:HGNC Symbol;Acc:HGNC:25966],40.32,12,66393,1612,2272,154,924,10
+ INTS8,ENSG00000164941,55656,protein_coding,Human,8,94.813311,integrator complex subunit 8 [Source:HGNC Symbol;Acc:HGNC:26048],40.21,20,68436,1117,1397,101,325,11
+ CCNE2,ENSG00000175305,9134,protein_coding,Human,8,94.87977,cyclin E2 [Source:HGNC Symbol;Acc:HGNC:1590],41.61,8,16909,738,1309,51,623,8
+ MTERF3,ENSG00000156469,51001,protein_coding,Human,8,96.239398,mitochondrial transcription termination factor 3 [Source:HGNC Symbol;Acc:HGNC:24258],38.81,5,22213,791,1066,95,95,6
+ POP1,ENSG00000104356,10940,protein_coding,Human,8,98.117293,"POP1 homolog, ribonuclease P/MRP subunit [Source:HGNC Symbol;Acc:HGNC:30129]",41.8,4,42543,2233,2268,27,852,10
+ FBXO43,ENSG00000156509,286151,protein_coding,Human,8,100.133351,F-box protein 43 [Source:HGNC Symbol;Acc:HGNC:28521],38.89,3,12467,1119,2998,674,456,4
+ POLR2K,ENSG00000147669,5440,protein_coding,Human,8,100.150623,"RNA polymerase II, I and III subunit K [Source:HGNC Symbol;Acc:HGNC:9198]",37.24,3,3381,190,837,45,465,3
+ YWHAZ,ENSG00000164924,7534,protein_coding,Human,8,100.916523,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855],40.87,23,36866,536,1561,97,1293,5
+ ZNF706,ENSG00000120963,51123,protein_coding,Human,8,101.177878,zinc finger protein 706 [Source:HGNC Symbol;Acc:HGNC:24992],40.04,15,28316,179,949,211,260,4
+ GRHL2,ENSG00000083307,79977,protein_coding,Human,8,101.492439,grainyhead like transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:2799],40.92,6,177288,1243,1583,166,1606,7
+ RRM2B,ENSG00000048392,50484,protein_coding,Human,8,102.204502,ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296],37.81,10,34460,590,1069,76,1065,5
+ AZIN1,ENSG00000155096,51582,protein_coding,Human,8,102.826111,antizyme inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:16432],40.79,17,67754,1006,2857,178,1950,10
+ ATP6V1C1,ENSG00000155097,528,protein_coding,Human,8,103.021063,ATPase H+ transporting V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856],38.39,6,51989,1036,2550,80,2342,10
+ CTHRC1,ENSG00000164932,115908,protein_coding,Human,8,103.371538,collagen triple helix repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:18831],39.87,4,11452,552,892,112,203,3
+ OXR1,ENSG00000164830,55074,protein_coding,Human,8,106.270144,oxidation resistance 1 [Source:HGNC Symbol;Acc:HGNC:15822],36.67,19,482551,1317,1931,156,941,7
+ EMC2,ENSG00000104412,9694,protein_coding,Human,8,108.443601,ER membrane protein complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28963],34.69,7,45596,545,1290,66,2598,7
+ NUDCD1,ENSG00000120526,84955,protein_coding,Human,8,109.240919,NudC domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24306],36.54,11,93203,930,3309,94,915,9
+ ENY2,ENSG00000120533,56943,protein_coding,Human,8,109.334324,ENY2 transcription and export complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:24449],37.11,16,11631,219,1229,77,740,4
+ RAD21,ENSG00000164754,5885,protein_coding,Human,8,116.845934,RAD21 cohesin complex component [Source:HGNC Symbol;Acc:HGNC:9811],35.95,21,28843,1865,4222,84,1483,10
+ TAF2,ENSG00000064313,6873,protein_coding,Human,8,119.730774,TATA-box binding protein associated factor 2 [Source:HGNC Symbol;Acc:HGNC:11536],37.5,43,102090,1246,4163,257,419,21
+ DSCC1,ENSG00000136982,79075,protein_coding,Human,8,119.833976,DNA replication and sister chromatid cohesion 1 [Source:HGNC Symbol;Acc:HGNC:24453],41.9,2,21919,1182,1450,99,917,6
+ MRPL13,ENSG00000172172,28998,protein_coding,Human,8,120.380761,mitochondrial ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:14278],35.86,7,64642,325,1052,153,393,4
+ MTBP,ENSG00000172167,27085,protein_coding,Human,8,120.4454,MDM2 binding protein [Source:HGNC Symbol;Acc:HGNC:7417],35.31,8,96734,1302,1436,50,174,7
+ TBC1D31,ENSG00000156787,93594,protein_coding,Human,8,123.041968,TBC1 domain family member 31 [Source:HGNC Symbol;Acc:HGNC:30888],39.82,15,110186,1347,1944,104,366,11
+ ZHX1,ENSG00000165156,11244,protein_coding,Human,8,123.248451,zinc fingers and homeoboxes 1 [Source:HGNC Symbol;Acc:HGNC:12871],38.83,8,27091,1996,2184,184,716,3
+ ATAD2,ENSG00000156802,29028,protein_coding,Human,8,123.31985,ATPase family AAA domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30123],40.58,8,96501,1672,3108,82,567,17
+ NTAQ1,ENSG00000156795,55093,protein_coding,Human,8,123.416726,N-terminal glutamine amidase 1 [Source:HGNC Symbol;Acc:HGNC:25490],44.83,10,53303,381,1208,78,639,6
+ FAM91A1,ENSG00000176853,157769,protein_coding,Human,8,123.768439,family with sequence similarity 91 member A1 [Source:HGNC Symbol;Acc:HGNC:26306],36.92,8,47014,1214,2058,189,680,11
+ TMEM65,ENSG00000164983,157378,protein_coding,Human,8,124.306189,transmembrane protein 65 [Source:HGNC Symbol;Acc:HGNC:25203],35.87,1,66513,723,9038,544,7771,7
+ TRMT12,ENSG00000183665,55039,protein_coding,Human,8,124.45082,tRNA methyltransferase 12 homolog [Source:HGNC Symbol;Acc:HGNC:26091],43.63,3,11331,900,1197,60,466,2
+ SQLE,ENSG00000104549,6713,protein_coding,Human,8,124.998497,squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279],37.59,6,23787,1052,1264,360,245,6
+ NSMCE2,ENSG00000156831,286053,protein_coding,Human,8,125.091679,"NSE2 (MMS21) homolog, SMC5-SMC6 complex SUMO ligase [Source:HGNC Symbol;Acc:HGNC:26513]",39.89,13,275442,466,808,73,236,5
+ CYRIB,ENSG00000153310,51571,protein_coding,Human,8,129.839593,CYFIP related Rac1 interactor B [Source:HGNC Symbol;Acc:HGNC:25216],42.06,31,177912,603,1488,75,1290,9
+ PHF20L1,ENSG00000129292,51105,protein_coding,Human,8,132.775358,PHD finger protein 20 like 1 [Source:HGNC Symbol;Acc:HGNC:24280],34.77,20,73450,1414,2842,111,1160,10
+ PTK2,ENSG00000169398,5747,protein_coding,Human,8,140.6579,protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611],40.07,58,344317,1008,1424,166,569,10
+ PSCA,ENSG00000167653,8000,protein_coding,Human,8,142.670308,prostate stem cell antigen [Source:HGNC Symbol;Acc:HGNC:9500],56.09,4,12418,255,780,63,448,2
+ IQANK1,ENSG00000203499,642574,protein_coding,Human,8,143.734139,IQ motif and ankyrin repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:49576],49.91,5,56507,980,1250,42,1207,6
+ SCRIB,ENSG00000180900,23513,protein_coding,Human,8,143.79092,scribble planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:30377],62.82,10,24854,3215,2708,131,240,18
+ OPLAH,ENSG00000178814,26873,protein_coding,Human,8,144.051266,"5-oxoprolinase, ATP-hydrolysing [Source:HGNC Symbol;Acc:HGNC:8149]",65.95,4,12700,2314,1487,39,60,9
+ TONSL,ENSG00000160949,4796,protein_coding,Human,8,144.428775,"tonsoku like, DNA repair protein [Source:HGNC Symbol;Acc:HGNC:7801]",62.9,2,15666,4137,5569,26,368,22
+ ZNF251,ENSG00000198169,90987,protein_coding,Human,8,144.720907,zinc finger protein 251 [Source:HGNC Symbol;Acc:HGNC:13045],47.51,4,35511,1229,1557,101,456,4
+ C8orf33,ENSG00000182307,65265,protein_coding,Human,8,145.052465,chromosome 8 open reading frame 33 [Source:HGNC Symbol;Acc:HGNC:26104],46.22,9,14221,708,1656,25,822,5
+ HAUS6,ENSG00000147874,54801,protein_coding,Human,9,19.053141,HAUS augmin like complex subunit 6 [Source:HGNC Symbol;Acc:HGNC:25948],39.6,3,49764,1943,3586,104,2267,12
+ ANKRD18B,ENSG00000230453,441459,protein_coding,Human,9,33.524251,ankyrin repeat domain 18B [Source:HGNC Symbol;Acc:HGNC:23644],42.04,8,84598,1541,2074,168,841,9
+ MELK,ENSG00000165304,9833,protein_coding,Human,9,36.572862,maternal embryonic leucine zipper kinase [Source:HGNC Symbol;Acc:HGNC:16870],41.98,14,104822,1320,1722,93,273,13
+ OSTF1,ENSG00000134996,26578,protein_coding,Human,9,75.088514,osteoclast stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:8510],40.26,1,58752,645,1348,179,524,10
+ CKS2,ENSG00000123975,1164,protein_coding,Human,9,89.311195,CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000],38.43,1,5509,240,616,98,278,3
+ SYK,ENSG00000165025,6850,protein_coding,Human,9,90.801787,spleen associated tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11491],44.17,5,96763,1874,4055,65,2949,11
+ ASPN,ENSG00000106819,54829,protein_coding,Human,9,92.456205,asporin [Source:HGNC Symbol;Acc:HGNC:14872],38.34,4,26302,677,1475,83,812,6
+ MFSD14B,ENSG00000148110,84641,protein_coding,Human,9,94.374569,major facilitator superfamily domain containing 14B [Source:HGNC Symbol;Acc:HGNC:23376],40.65,2,86474,1521,2596,251,1630,6
+ ZNF367,ENSG00000165244,195828,protein_coding,Human,9,96.385941,zinc finger protein 367 [Source:HGNC Symbol;Acc:HGNC:18320],42.89,1,32430,1053,3687,338,2296,5
+ MSANTD3,ENSG00000066697,91283,protein_coding,Human,9,100.427143,Myb/SANT DNA binding domain containing 3 [Source:HGNC Symbol;Acc:HGNC:23370],43.76,7,24592,652,1379,101,584,3
+ SMC2,ENSG00000136824,10592,protein_coding,Human,9,104.09426,structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011],35.98,5,47160,2344,3660,122,1202,18
+ NIPSNAP3A,ENSG00000136783,25934,protein_coding,Human,9,104.747683,nipsnap homolog 3A [Source:HGNC Symbol;Acc:HGNC:23619],36.49,2,12438,744,1392,110,782,4
+ CDC26,ENSG00000176386,246184,protein_coding,Human,9,113.255835,cell division cycle 26 [Source:HGNC Symbol;Acc:HGNC:17839],43.06,2,19738,258,787,114,271,4
+ POLE3,ENSG00000148229,54107,protein_coding,Human,9,113.407235,"DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]",49.35,4,3441,444,1788,88,1576,4
+ ASTN2,ENSG00000148219,23245,protein_coding,Human,9,116.423112,astrotactin 2 [Source:HGNC Symbol;Acc:HGNC:17021],41.84,8,991959,2296,3404,160,1100,14
+ GLE1,ENSG00000119392,2733,protein_coding,Human,9,128.504655,GLE1 RNA export mediator [Source:HGNC Symbol;Acc:HGNC:4315],45.42,15,39220,1504,3141,93,930,12
+ C9orf78,ENSG00000136819,51759,protein_coding,Human,9,129.82729,chromosome 9 open reading frame 78 [Source:HGNC Symbol;Acc:HGNC:24932],48.01,7,8574,870,1243,54,871,5
+ DDX31,ENSG00000125485,64794,protein_coding,Human,9,132.592997,DEAD-box helicase 31 [Source:HGNC Symbol;Acc:HGNC:16715],44.73,5,77405,1443,2259,328,863,10
+ WDR5,ENSG00000196363,11091,protein_coding,Human,9,134.135365,WD repeat domain 5 [Source:HGNC Symbol;Acc:HGNC:12757],55.32,3,24604,488,1480,151,1975,8
+ MAMDC4,ENSG00000177943,158056,protein_coding,Human,9,136.850943,MAM domain containing 4 [Source:HGNC Symbol;Acc:HGNC:24083],66.28,5,9857,2592,2934,60,288,18
+ NDOR1,ENSG00000188566,27158,protein_coding,Human,9,137.205685,NADPH dependent diflavin oxidoreductase 1 [Source:HGNC Symbol;Acc:HGNC:29838],60.52,6,13677,1738,2196,65,1061,11
+ ZMYND19,ENSG00000165724,116225,protein_coding,Human,9,137.582081,zinc finger MYND-type containing 19 [Source:HGNC Symbol;Acc:HGNC:21146],58.02,2,8432,684,1327,249,462,4
+ MCM10,ENSG00000065328,55388,protein_coding,Human,10,13.161558,minichromosome maintenance 10 replication initiation factor [Source:HGNC Symbol;Acc:HGNC:18043],43.59,7,49553,2007,2107,80,1390,10
+ FAM107B,ENSG00000065809,83641,protein_coding,Human,10,14.518557,family with sequence similarity 107 member B [Source:HGNC Symbol;Acc:HGNC:23726],43.19,29,256341,380,1141,114,1024,4
+ HSPA14,ENSG00000187522,51182,protein_coding,Human,10,14.838306,heat shock protein family A (Hsp70) member 14 [Source:HGNC Symbol;Acc:HGNC:29526],39.43,3,33436,958,1065,97,164,8
+ GAD2,ENSG00000136750,2572,protein_coding,Human,10,26.216665,glutamate decarboxylase 2 [Source:HGNC Symbol;Acc:HGNC:4093],42.67,5,87894,1374,2295,88,1378,12
+ MASTL,ENSG00000120539,84930,protein_coding,Human,10,27.154824,microtubule associated serine/threonine kinase like [Source:HGNC Symbol;Acc:HGNC:19042],41.56,4,33130,2310,3086,245,592,10
+ ANKRD30A,ENSG00000148513,91074,protein_coding,Human,10,37.125598,ankyrin repeat domain 30A [Source:HGNC Symbol;Acc:HGNC:17234],34.6,5,106970,3497,3167,190,140,25
+ CSGALNACT2,ENSG00000169826,55454,protein_coding,Human,10,43.138445,chondroitin sulfate N-acetylgalactosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:24292],38.92,1,46858,1629,3765,188,1760,8
+ TIMM23B,ENSG00000204152,100652748,protein_coding,Human,10,49.942049,translocase of inner mitochondrial membrane 23 homolog B [Source:HGNC Symbol;Acc:HGNC:23581],40.64,4,32802,430,1856,134,945,7
+ ZWINT,ENSG00000122952,11130,protein_coding,Human,10,56.357227,ZW10 interacting kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13195],48.04,9,4047,596,1315,26,540,7
+ UBE2D1,ENSG00000072401,7321,protein_coding,Human,10,58.334979,ubiquitin conjugating enzyme E2 D1 [Source:HGNC Symbol;Acc:HGNC:12474],36.06,4,35773,387,1868,174,1984,4
+ CDK1,ENSG00000170312,983,protein_coding,Human,10,60.778331,cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722],35.07,8,16522,761,1312,64,869,6
+ DNA2,ENSG00000138346,1763,protein_coding,Human,10,68.414064,DNA replication helicase/nuclease 2 [Source:HGNC Symbol;Acc:HGNC:2939],42.26,8,58058,1860,2113,48,377,12
+ KIFBP,ENSG00000198954,26128,protein_coding,Human,10,68.988803,kinesin family binding protein [Source:HGNC Symbol;Acc:HGNC:23419],43.16,20,54742,1040,2369,36,677,7
+ DNAJC9,ENSG00000213551,23234,protein_coding,Human,10,73.183362,DnaJ heat shock protein family (Hsp40) member C9 [Source:HGNC Symbol;Acc:HGNC:19123],39.91,3,63894,783,1140,66,1446,4
+ PLAU,ENSG00000122861,5328,protein_coding,Human,10,73.909177,"plasminogen activator, urokinase [Source:HGNC Symbol;Acc:HGNC:9052]",53.5,5,8320,953,1276,125,930,7
+ ADK,ENSG00000156110,132,protein_coding,Human,10,74.151202,adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257],37.43,14,558762,790,1505,127,495,9
+ KIF20B,ENSG00000138182,9585,protein_coding,Human,10,89.70159,kinesin family member 20B [Source:HGNC Symbol;Acc:HGNC:7212],35.16,4,73350,3809,4577,34,888,23
+ KIF11,ENSG00000138160,3832,protein_coding,Human,10,92.574105,kinesin family member 11 [Source:HGNC Symbol;Acc:HGNC:6388],40.82,5,81291,2545,4946,192,1097,22
+ CEP55,ENSG00000138180,55165,protein_coding,Human,10,93.496612,centrosomal protein 55 [Source:HGNC Symbol;Acc:HGNC:1161],40.69,3,32481,1010,1372,162,530,5
+ RBP4,ENSG00000138207,5950,protein_coding,Human,10,93.591687,retinol binding protein 4 [Source:HGNC Symbol;Acc:HGNC:9922],49.28,3,10058,604,1066,76,318,6
+ LGI1,ENSG00000108231,9211,protein_coding,Human,10,93.75784,leucine rich glioma inactivated 1 [Source:HGNC Symbol;Acc:HGNC:6572],41.13,31,48433,616,1894,190,396,6
+ HELLS,ENSG00000119969,3070,protein_coding,Human,10,94.545329,"helicase, lymphoid specific [Source:HGNC Symbol;Acc:HGNC:4861]",38.83,21,68577,1545,2461,175,721,14
+ BLOC1S2,ENSG00000196072,282991,protein_coding,Human,10,100.27328,biogenesis of lysosomal organelles complex 1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:20984],47.31,6,13401,334,1755,105,1609,4
+ PCGF6,ENSG00000156374,84108,protein_coding,Human,10,103.302796,polycomb group ring finger 6 [Source:HGNC Symbol;Acc:HGNC:21156],43.9,5,48349,820,1736,55,809,8
+ SHTN1,ENSG00000187164,57698,protein_coding,Human,10,116.881477,shootin 1 [Source:HGNC Symbol;Acc:HGNC:29319],39.09,7,245110,1631,3929,239,2671,14
+ ,ENSG00000286135,112577516,protein_coding,Human,10,122.67285,novel protein similar to AQN-1 protein AQN-1 (Sus scrofa),47.6,1,6645,414,892,32,446,4
+ BUB3,ENSG00000154473,9184,protein_coding,Human,10,123.154402,BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151],39.16,5,16066,810,2283,74,2362,6
+ ADAM12,ENSG00000148848,8038,protein_coding,Human,10,126.012381,ADAM metallopeptidase domain 12 [Source:HGNC Symbol;Acc:HGNC:190],43.11,7,376097,2556,3020,317,3524,11
+ MKI67,ENSG00000148773,4288,protein_coding,Human,10,128.096659,marker of proliferation Ki-67 [Source:HGNC Symbol;Acc:HGNC:7107],43.55,5,29765,9231,5242,152,2531,8
+ TRPM5,ENSG00000070985,29850,protein_coding,Human,11,2.404515,transient receptor potential cation channel subfamily M member 5 [Source:HGNC Symbol;Acc:HGNC:14323],59.1,4,40000,3500,4172,102,226,25
+ NAP1L4,ENSG00000205531,4676,protein_coding,Human,11,2.944431,nucleosome assembly protein 1 like 4 [Source:HGNC Symbol;Acc:HGNC:7640],44.27,22,47947,596,929,57,588,8
+ RRM1,ENSG00000167325,6240,protein_coding,Human,11,4.094707,ribonucleotide reductase catalytic subunit M1 [Source:HGNC Symbol;Acc:HGNC:10451],40.37,14,44226,839,1330,163,208,9
+ MRGPRX2,ENSG00000183695,117194,protein_coding,Human,11,19.054455,MAS related GPR family member X2 [Source:HGNC Symbol;Acc:HGNC:17983],44.55,1,6263,993,2072,62,955,2
+ E2F8,ENSG00000129173,79733,protein_coding,Human,11,19.224063,E2F transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24727],41.92,5,17558,2058,2364,170,594,9
+ CCDC34,ENSG00000109881,91057,protein_coding,Human,11,27.330827,coiled-coil domain containing 34 [Source:HGNC Symbol;Acc:HGNC:25079],37.32,3,32408,906,1426,30,844,5
+ LGR4,ENSG00000205213,55366,protein_coding,Human,11,27.365961,leucine rich repeat containing G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:13299],39.09,6,106830,2039,2097,324,1272,7
+ KIF18A,ENSG00000121621,81930,protein_coding,Human,11,28.020619,kinesin family member 18A [Source:HGNC Symbol;Acc:HGNC:29441],33.97,4,87538,2697,1642,70,581,8
+ CSTF3,ENSG00000176102,1479,protein_coding,Human,11,33.077188,cleavage stimulation factor subunit 3 [Source:HGNC Symbol;Acc:HGNC:2485],37.22,8,85184,781,1204,165,383,8
+ PDHX,ENSG00000110435,8050,protein_coding,Human,11,34.915829,pyruvate dehydrogenase complex component X [Source:HGNC Symbol;Acc:HGNC:21350],36.68,8,104763,871,1117,66,505,6
+ FAM111B,ENSG00000189057,374393,protein_coding,Human,11,59.107185,FAM111 trypsin like peptidase B [Source:HGNC Symbol;Acc:HGNC:24200],38.92,6,20228,1826,2292,58,865,3
+ PATL1,ENSG00000166889,219988,protein_coding,Human,11,59.636716,"PAT1 homolog 1, processing body mRNA decay factor [Source:HGNC Symbol;Acc:HGNC:26721]",39.89,2,32322,2313,2284,142,1674,10
+ FEN1,ENSG00000168496,2237,protein_coding,Human,11,61.792911,flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650],48.87,3,4328,700,1187,105,520,2
+ STIP1,ENSG00000168439,10963,protein_coding,Human,11,64.185272,stress induced phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11387],50.06,12,19272,1084,1060,163,288,7
+ PLCB3,ENSG00000149782,5331,protein_coding,Human,11,64.25153,phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056],60.31,4,17621,3638,3270,99,355,24
+ CDCA5,ENSG00000146670,113130,protein_coding,Human,11,65.0663,cell division cycle associated 5 [Source:HGNC Symbol;Acc:HGNC:14626],52.67,10,17865,584,947,66,428,5
+ MRPL49,ENSG00000149792,740,protein_coding,Human,11,65.122183,mitochondrial ribosomal protein L49 [Source:HGNC Symbol;Acc:HGNC:1176],50.97,9,5189,380,1275,25,480,3
+ CFL1,ENSG00000172757,1072,protein_coding,Human,11,65.823022,cofilin 1 [Source:HGNC Symbol;Acc:HGNC:1874],50.18,15,39005,434,955,153,353,3
+ RBM4,ENSG00000173933,5936,protein_coding,Human,11,66.638667,RNA binding motif protein 4 [Source:HGNC Symbol;Acc:HGNC:9901],44.81,13,29708,671,1283,119,508,3
+ C11orf80,ENSG00000173715,79703,protein_coding,Human,11,66.744451,chromosome 11 open reading frame 80 [Source:HGNC Symbol;Acc:HGNC:26197],42.75,19,99066,1006,1116,98,112,9
+ ANKRD13D,ENSG00000172932,338692,protein_coding,Human,11,67.2893,ankyrin repeat domain 13D [Source:HGNC Symbol;Acc:HGNC:27880],52.18,17,13186,614,1343,136,173,6
+ RAD9A,ENSG00000172613,5883,protein_coding,Human,11,67.317871,RAD9 checkpoint clamp component A [Source:HGNC Symbol;Acc:HGNC:9827],52.03,11,80540,491,1020,119,347,6
+ PPP1CA,ENSG00000172531,5499,protein_coding,Human,11,67.398181,protein phosphatase 1 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9281],61.16,14,23003,955,1427,103,295,6
+ GPR152,ENSG00000175514,390212,protein_coding,Human,11,67.451301,G protein-coupled receptor 152 [Source:HGNC Symbol;Acc:HGNC:23622],65.78,1,1429,1413,1429,5,11,1
+ PITPNM1,ENSG00000110697,9600,protein_coding,Human,11,67.491768,phosphatidylinositol transfer protein membrane associated 1 [Source:HGNC Symbol;Acc:HGNC:9003],62.46,16,14496,1839,1400,104,265,8
+ KMT5B,ENSG00000110066,51111,protein_coding,Human,11,68.154863,lysine methyltransferase 5B [Source:HGNC Symbol;Acc:HGNC:24283],42.5,22,58990,1116,2683,123,824,9
+ PPP6R3,ENSG00000110075,55291,protein_coding,Human,11,68.460731,protein phosphatase 6 regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:1173],41.89,26,154604,1444,2036,80,1220,11
+ TESMIN,ENSG00000132749,9633,protein_coding,Human,11,68.70744,testis expressed metallothionein like protein [Source:HGNC Symbol;Acc:HGNC:7446],45.07,9,44081,954,1242,51,996,4
+ IGHMBP2,ENSG00000132740,3508,protein_coding,Human,11,68.903863,immunoglobulin mu DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5542],50.64,51,36740,715,1087,58,280,5
+ LTO1,ENSG00000149716,220064,protein_coding,Human,11,69.653076,LTO1 maturation factor of ABCE1 [Source:HGNC Symbol;Acc:HGNC:17589],53.52,18,22341,298,1166,92,570,4
+ UCP2,ENSG00000175567,7351,protein_coding,Human,11,73.974672,uncoupling protein 2 [Source:HGNC Symbol;Acc:HGNC:12518],52.37,11,8172,605,835,134,344,4
+ POLD3,ENSG00000077514,10714,protein_coding,Human,11,74.493851,"DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]",41.72,10,175267,718,1242,102,713,6
+ CLNS1A,ENSG00000074201,1207,protein_coding,Human,11,77.514936,chloride nucleotide-sensitive channel 1A [Source:HGNC Symbol;Acc:HGNC:2080],41.76,12,122859,422,884,64,282,4
+ DDIAS,ENSG00000165490,220042,protein_coding,Human,11,82.899975,DNA damage induced apoptosis suppressor [Source:HGNC Symbol;Acc:HGNC:26351],39.78,12,58303,896,1439,84,786,5
+ TMEM126B,ENSG00000171204,55863,protein_coding,Human,11,85.628573,transmembrane protein 126B [Source:HGNC Symbol;Acc:HGNC:30883],37.32,11,7967,283,892,20,269,5
+ CREBZF,ENSG00000137504,58487,protein_coding,Human,11,85.657742,CREB/ATF bZIP transcription factor [Source:HGNC Symbol;Acc:HGNC:24905],40.03,10,25167,922,2413,224,1492,4
+ EED,ENSG00000074266,8726,protein_coding,Human,11,86.244753,embryonic ectoderm development [Source:HGNC Symbol;Acc:HGNC:3188],37.04,13,34061,1064,1590,401,322,8
+ HIKESHI,ENSG00000149196,51501,protein_coding,Human,11,86.302211,heat shock protein nuclear import factor hikeshi [Source:HGNC Symbol;Acc:HGNC:26938],37.86,7,43733,486,1144,215,496,4
+ NOX4,ENSG00000086991,50507,protein_coding,Human,11,89.324353,NADPH oxidase 4 [Source:HGNC Symbol;Acc:HGNC:7891],35.47,15,173835,1239,1943,113,779,13
+ MRE11,ENSG00000020922,4361,protein_coding,Human,11,94.41557,"MRE11 homolog, double strand break repair nuclease [Source:HGNC Symbol;Acc:HGNC:7230]",37.3,10,78316,1401,1851,110,1141,11
+ CNTN5,ENSG00000149972,53942,protein_coding,Human,11,99.020949,contactin 5 [Source:HGNC Symbol;Acc:HGNC:2175],35.04,11,1337937,3136,2801,89,1485,14
+ BIRC2,ENSG00000110330,329,protein_coding,Human,11,102.347211,baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590],38.86,13,31460,1073,1662,267,309,6
+ CHEK1,ENSG00000149554,1111,protein_coding,Human,11,125.625163,checkpoint kinase 1 [Source:HGNC Symbol;Acc:HGNC:1925],37.73,15,51093,992,1674,103,698,10
+ FOXM1,ENSG00000111206,2305,protein_coding,Human,12,2.85768,forkhead box M1 [Source:HGNC Symbol;Acc:HGNC:3818],48.09,10,19495,1676,2013,108,788,6
+ RAD51AP1,ENSG00000111247,10635,protein_coding,Human,12,4.538798,RAD51 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:16956],36.4,14,21250,439,1105,57,292,7
+ ACRBP,ENSG00000111644,84519,protein_coding,Human,12,6.638075,acrosin binding protein [Source:HGNC Symbol;Acc:HGNC:17195],51.64,9,9359,990,970,50,154,5
+ CDCA3,ENSG00000111665,83461,protein_coding,Human,12,6.844793,cell division cycle associated 3 [Source:HGNC Symbol;Acc:HGNC:14624],51.6,12,6500,711,1334,101,600,4
+ OLR1,ENSG00000173391,4973,protein_coding,Human,12,10.158301,oxidized low density lipoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:8133],38.78,11,13838,448,874,100,625,4
+ TMEM52B,ENSG00000165685,120939,protein_coding,Human,12,10.170542,transmembrane protein 52B [Source:HGNC Symbol;Acc:HGNC:26438],41.83,6,21263,532,1563,441,1657,4
+ PTPRO,ENSG00000151490,5800,protein_coding,Human,12,15.322257,protein tyrosine phosphatase receptor type O [Source:HGNC Symbol;Acc:HGNC:9678],37.59,26,279919,1731,3458,237,955,14
+ PPHLN1,ENSG00000134283,51535,protein_coding,Human,12,42.238447,periphilin 1 [Source:HGNC Symbol;Acc:HGNC:19369],39.77,26,221269,912,1463,56,523,8
+ RPAP3,ENSG00000005175,79657,protein_coding,Human,12,47.661249,RNA polymerase II associated protein 3 [Source:HGNC Symbol;Acc:HGNC:26151],36.55,7,44782,1805,1541,54,894,8
+ TUBA1B,ENSG00000123416,10376,protein_coding,Human,12,49.127782,tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809],53.12,8,3616,477,1262,118,292,4
+ TUBA1C,ENSG00000167553,84790,protein_coding,Human,12,49.188736,tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768],45.2,9,85865,681,1151,56,384,3
+ TROAP,ENSG00000135451,10024,protein_coding,Human,12,49.323236,trophinin associated protein [Source:HGNC Symbol;Acc:HGNC:12327],53.1,16,8496,713,1092,62,161,7
+ RACGAP1,ENSG00000161800,29127,protein_coding,Human,12,49.976923,Rac GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9804],43.65,28,56214,692,973,65,547,8
+ ANKRD33,ENSG00000167612,341405,protein_coding,Human,12,51.888009,ankyrin repeat domain 33 [Source:HGNC Symbol;Acc:HGNC:13788],58.03,8,3719,863,1572,129,324,4
+ ESPL1,ENSG00000135476,9700,protein_coding,Human,12,53.268299,"extra spindle pole bodies like 1, separase [Source:HGNC Symbol;Acc:HGNC:16856]",51.69,8,25340,2366,2746,39,190,12
+ PFDN5,ENSG00000123349,5204,protein_coding,Human,12,53.295291,prefoldin subunit 5 [Source:HGNC Symbol;Acc:HGNC:8869],47.28,27,4162,291,977,74,107,4
+ CDK2,ENSG00000123374,1017,protein_coding,Human,12,55.966781,cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771],47.7,12,6009,615,1316,185,499,5
+ TIMELESS,ENSG00000111602,8914,protein_coding,Human,12,56.416363,timeless circadian regulator [Source:HGNC Symbol;Acc:HGNC:11813],46.65,5,33064,3626,2682,83,975,15
+ PTGES3,ENSG00000110958,10728,protein_coding,Human,12,56.663341,prostaglandin E synthase 3 [Source:HGNC Symbol;Acc:HGNC:16049],44.13,7,25068,425,1625,270,674,8
+ USP15,ENSG00000135655,9958,protein_coding,Human,12,62.260338,ubiquitin specific peptidase 15 [Source:HGNC Symbol;Acc:HGNC:12613],34.93,19,157094,939,2280,81,3756,6
+ DYRK2,ENSG00000127334,8445,protein_coding,Human,12,67.648338,dual specificity tyrosine phosphorylation regulated kinase 2 [Source:HGNC Symbol;Acc:HGNC:3093],43.53,6,17069,929,2200,170,3444,2
+ NUP107,ENSG00000111581,57122,protein_coding,Human,12,68.686951,nucleoporin 107 [Source:HGNC Symbol;Acc:HGNC:29914],39.25,13,58859,1390,1580,86,771,12
+ BTG1,ENSG00000133639,694,protein_coding,Human,12,92.140278,BTG anti-proliferation factor 1 [Source:HGNC Symbol;Acc:HGNC:1130],42.38,3,5569,516,2169,311,3802,2
+ TMPO,ENSG00000120802,7112,protein_coding,Human,12,98.515579,thymopoietin [Source:HGNC Symbol;Acc:HGNC:11875],39.69,13,34773,1199,1450,204,1182,5
+ ACTR6,ENSG00000075089,64431,protein_coding,Human,12,100.199122,actin related protein 6 [Source:HGNC Symbol;Acc:HGNC:24025],41,13,42744,676,1141,157,298,8
+ GAS2L3,ENSG00000139354,283431,protein_coding,Human,12,100.573683,growth arrest specific 2 like 3 [Source:HGNC Symbol;Acc:HGNC:27475],36.61,9,54606,1559,2086,109,1203,6
+ PARPBP,ENSG00000185480,55010,protein_coding,Human,12,102.120183,PARP1 binding protein [Source:HGNC Symbol;Acc:HGNC:26074],36.45,12,77338,933,1689,52,652,6
+ TDG,ENSG00000139372,6996,protein_coding,Human,12,103.965822,thymine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:11700],40.64,10,23053,796,1288,151,540,6
+ NFYB,ENSG00000120837,4801,protein_coding,Human,12,104.117086,nuclear transcription factor Y subunit beta [Source:HGNC Symbol;Acc:HGNC:7805],39.11,5,21156,625,2028,174,1884,6
+ UNG,ENSG00000076248,7374,protein_coding,Human,12,109.097597,uracil DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:12572],46.58,14,29129,712,2028,159,830,6
+ RFC5,ENSG00000111445,5985,protein_coding,Human,12,118.013588,replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973],45.74,9,19543,502,1050,138,956,7
+ RSRC2,ENSG00000111011,65117,protein_coding,Human,12,122.503454,arginine and serine rich coiled-coil 2 [Source:HGNC Symbol;Acc:HGNC:30559],39.84,20,23547,448,1247,103,536,6
+ KNTC1,ENSG00000184445,9735,protein_coding,Human,12,122.527246,kinetochore associated 1 [Source:HGNC Symbol;Acc:HGNC:17255],41.24,15,99151,1960,1495,348,147,12
+ STX2,ENSG00000111450,2054,protein_coding,Human,12,130.7896,syntaxin 2 [Source:HGNC Symbol;Acc:HGNC:3403],45.87,4,49667,689,1965,159,1192,8
+ SKA3,ENSG00000165480,221150,protein_coding,Human,13,21.153595,spindle and kinetochore associated complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:20262],39.77,7,22958,555,1562,73,770,6
+ DIAPH3,ENSG00000139734,81624,protein_coding,Human,13,59.665583,diaphanous related formin 3 [Source:HGNC Symbol;Acc:HGNC:15480],35.91,10,498346,3130,2715,108,286,18
+ ITGBL1,ENSG00000198542,9358,protein_coding,Human,13,101.452593,integrin subunit beta like 1 [Source:HGNC Symbol;Acc:HGNC:6164],36.42,6,268264,1143,2270,150,898,8
+ IRS2,ENSG00000185950,8660,protein_coding,Human,13,109.752695,insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126],46.75,1,33889,4017,8156,530,3609,2
+ PARP2,ENSG00000129484,10038,protein_coding,Human,14,20.343615,poly(ADP-ribose) polymerase 2 [Source:HGNC Symbol;Acc:HGNC:272],42.3,11,14290,1185,985,13,164,7
+ MBIP,ENSG00000151332,51562,protein_coding,Human,14,36.298564,MAP3K12 binding inhibitory protein 1 [Source:HGNC Symbol;Acc:HGNC:20427],35.22,10,22074,809,976,72,417,6
+ PRPF39,ENSG00000185246,55015,protein_coding,Human,14,45.084107,pre-mRNA processing factor 39 [Source:HGNC Symbol;Acc:HGNC:20314],36.34,12,32176,590,2054,50,385,9
+ FKBP3,ENSG00000100442,2287,protein_coding,Human,14,45.115599,FKBP prolyl isomerase 3 [Source:HGNC Symbol;Acc:HGNC:3719],40.63,4,19721,516,1082,86,427,6
+ LRR1,ENSG00000165501,122769,protein_coding,Human,14,49.598761,leucine rich repeat protein 1 [Source:HGNC Symbol;Acc:HGNC:19742],44.95,5,15912,571,1268,164,294,4
+ POLE2,ENSG00000100479,5427,protein_coding,Human,14,49.643555,"DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]",41.33,13,44868,882,835,57,100,8
+ PSMC6,ENSG00000100519,5706,protein_coding,Human,14,52.707178,"proteasome 26S subunit, ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9553]",37.88,18,21413,471,973,16,272,6
+ CDKN3,ENSG00000100526,1033,protein_coding,Human,14,54.396849,cyclin dependent kinase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:1791],40.35,10,23370,542,744,67,192,7
+ WDHD1,ENSG00000198554,11169,protein_coding,Human,14,54.938949,WD repeat and HMG-box DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:23170],39.43,5,88157,1777,2711,134,1013,14
+ DLGAP5,ENSG00000126787,9787,protein_coding,Human,14,55.148112,DLG associated protein 5 [Source:HGNC Symbol;Acc:HGNC:16864],39.09,5,43497,1526,1621,60,204,10
+ MNAT1,ENSG00000020426,4331,protein_coding,Human,14,60.734742,MNAT1 component of CDK activating kinase [Source:HGNC Symbol;Acc:HGNC:7181],36.62,9,235224,692,913,94,531,5
+ SYT16,ENSG00000139973,83851,protein_coding,Human,14,61.811974,synaptotagmin 16 [Source:HGNC Symbol;Acc:HGNC:23142],39.31,6,300577,1423,5566,151,8104,5
+ RAD51B,ENSG00000182185,5890,protein_coding,Human,14,67.819779,RAD51 paralog B [Source:HGNC Symbol;Acc:HGNC:9822],40.99,24,910440,721,871,35,389,6
+ RBM25,ENSG00000119707,58517,protein_coding,Human,14,73.058532,RNA binding motif protein 25 [Source:HGNC Symbol;Acc:HGNC:23244],40.67,12,65368,1085,2627,77,1197,11
+ RPS6KA5,ENSG00000100784,9252,protein_coding,Human,14,90.847861,ribosomal protein S6 kinase A5 [Source:HGNC Symbol;Acc:HGNC:10434],38.79,8,212781,1144,5068,165,3686,12
+ CHGA,ENSG00000100604,1113,protein_coding,Human,14,92.92315,chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929],56.29,6,12136,804,1132,199,321,5
+ VRK1,ENSG00000100749,7443,protein_coding,Human,14,96.797304,VRK serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:12718],40.26,63,157543,890,1860,69,332,11
+ MOK,ENSG00000080823,5891,protein_coding,Human,14,102.2245,MOK protein kinase [Source:HGNC Symbol;Acc:HGNC:9833],46.51,40,80691,386,1122,166,256,6
+ RCOR1,ENSG00000089902,23186,protein_coding,Human,14,102.592649,REST corepressor 1 [Source:HGNC Symbol;Acc:HGNC:17441],43.49,4,137913,783,1714,238,2103,5
+ CDCA4,ENSG00000170779,55038,protein_coding,Human,14,105.009573,cell division cycle associated 4 [Source:HGNC Symbol;Acc:HGNC:14625],51.91,2,11511,726,1992,40,1001,2
+ NIPA1,ENSG00000170113,123606,protein_coding,Human,15,22.773063,NIPA magnesium transporter 1 [Source:HGNC Symbol;Acc:HGNC:17043],46.41,7,56727,594,2882,287,2518,5
+ MAGEL2,ENSG00000254585,54551,protein_coding,Human,15,23.643549,MAGE family member L2 [Source:HGNC Symbol;Acc:HGNC:6814],61.17,1,4319,3750,4319,125,444,1
+ ARHGAP11B,ENSG00000285077,89839,protein_coding,Human,15,30.624494,Rho GTPase activating protein 11B [Source:HGNC Symbol;Acc:HGNC:15782],38.13,8,25036,804,1558,618,180,7
+ ARHGAP11A,ENSG00000198826,9824,protein_coding,Human,15,32.615144,Rho GTPase activating protein 11A [Source:HGNC Symbol;Acc:HGNC:15783],37.89,8,24798,1938,2348,447,574,9
+ GREM1,ENSG00000166923,26585,protein_coding,Human,15,32.718004,"gremlin 1, DAN family BMP antagonist [Source:HGNC Symbol;Acc:HGNC:2001]",41.45,4,27103,418,5487,86,4898,2
+ FSIP1,ENSG00000150667,161835,protein_coding,Human,15,39.588357,fibrous sheath interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:21674],38.59,5,194485,599,928,110,282,5
+ BUB1B,ENSG00000156970,701,protein_coding,Human,15,40.161023,BUB1 mitotic checkpoint serine/threonine kinase B [Source:HGNC Symbol;Acc:HGNC:1149],38.74,11,60101,1710,1137,153,196,8
+ KNL1,ENSG00000137812,57082,protein_coding,Human,15,40.59402,kinetochore scaffold 1 [Source:HGNC Symbol;Acc:HGNC:24054],41.23,12,70323,2706,3085,106,1280,10
+ OIP5,ENSG00000104147,11339,protein_coding,Human,15,41.309273,Opa interacting protein 5 [Source:HGNC Symbol;Acc:HGNC:20300],45.43,2,23319,588,843,30,481,4
+ PLA2G4D,ENSG00000159337,283748,protein_coding,Human,15,42.067009,phospholipase A2 group IVD [Source:HGNC Symbol;Acc:HGNC:30038],51.46,3,27554,2457,2723,103,1706,10
+ WDR76,ENSG00000092470,79968,protein_coding,Human,15,43.82698,WD repeat domain 76 [Source:HGNC Symbol;Acc:HGNC:25773],41.85,4,41433,1419,2126,77,1323,9
+ SPATA5L1,ENSG00000171763,79029,protein_coding,Human,15,45.402336,spermatogenesis associated 5 like 1 [Source:HGNC Symbol;Acc:HGNC:28762],41.46,7,19080,1240,1351,74,165,5
+ LACTB,ENSG00000103642,114294,protein_coding,Human,15,63.121833,lactamase beta [Source:HGNC Symbol;Acc:HGNC:16468],39.93,4,20229,1048,1450,46,1036,4
+ PCLAF,ENSG00000166803,9768,protein_coding,Human,15,64.364304,PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961],43.33,8,23384,284,936,70,741,3
+ PIF1,ENSG00000140451,80119,protein_coding,Human,15,64.815632,PIF1 5'-to-3' DNA helicase [Source:HGNC Symbol;Acc:HGNC:26220],55.24,9,10037,1992,1383,48,464,6
+ ZWILCH,ENSG00000174442,55055,protein_coding,Human,15,66.504959,zwilch kinetochore protein [Source:HGNC Symbol;Acc:HGNC:25468],40.27,14,45172,1026,1340,107,340,9
+ ITGA11,ENSG00000137809,22801,protein_coding,Human,15,68.296532,integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136],49.23,7,135632,3568,3351,96,6526,12
+ KIF23,ENSG00000137807,9493,protein_coding,Human,15,69.414246,kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392],39.36,16,34182,2095,2305,150,423,15
+ ISLR2,ENSG00000167178,57611,protein_coding,Human,15,74.100311,immunoglobulin superfamily containing leucine rich repeat 2 [Source:HGNC Symbol;Acc:HGNC:29286],50.88,11,38230,1359,2009,100,1188,3
+ FBXO22,ENSG00000167196,26263,protein_coding,Human,15,75.903876,F-box protein 22 [Source:HGNC Symbol;Acc:HGNC:13593],39.44,9,38636,546,2097,89,1856,5
+ GOLGA6L10,ENSG00000278662,643707,protein_coding,Human,15,82.339993,golgin A6 family like 10 [Source:HGNC Symbol;Acc:HGNC:37228],47.95,3,9483,1444,3049,81,2780,7
+ RAMAC,ENSG00000169612,83640,protein_coding,Human,15,82.98621,RNA guanine-7 methyltransferase activating subunit [Source:HGNC Symbol;Acc:HGNC:31022],41.09,1,4848,357,1565,73,990,4
+ FANCI,ENSG00000140525,55215,protein_coding,Human,15,89.243945,FA complementation group I [Source:HGNC Symbol;Acc:HGNC:25568],40.11,27,73317,2462,2489,54,399,17
+ TICRR,ENSG00000140534,90381,protein_coding,Human,15,89.575469,TOPBP1 interacting checkpoint and replication regulator [Source:HGNC Symbol;Acc:HGNC:28704],42.68,3,55588,4036,5270,118,908,16
+ BLM,ENSG00000197299,641,protein_coding,Human,15,90.717346,BLM RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:1058],40.73,13,98821,3648,2863,36,340,13
+ ,ENSG00000284946,NA,protein_coding,Human,15,90.96619,novel protein,45.82,2,56377,1800,5145,180,286,32
+ SNRPA1,ENSG00000131876,6627,protein_coding,Human,15,101.28151,small nuclear ribonucleoprotein polypeptide A' [Source:HGNC Symbol;Acc:HGNC:11152],42.28,15,13773,482,850,59,185,5
+ PRSS27,ENSG00000172382,83886,protein_coding,Human,16,2.712419,serine protease 27 [Source:HGNC Symbol;Acc:HGNC:15475],61.18,5,8133,373,1888,282,294,4
+ PKMYT1,ENSG00000127564,9088,protein_coding,Human,16,2.968024,"protein kinase, membrane associated tyrosine/threonine 1 [Source:HGNC Symbol;Acc:HGNC:29650]",62.15,20,12456,999,1177,170,166,5
+ NPIPA7,ENSG00000214967,101059938,protein_coding,Human,16,16.37914,nuclear pore complex interacting protein family member A7 [Source:HGNC Symbol;Acc:HGNC:41982],46.18,2,14833,640,912,105,122,6
+ CCP110,ENSG00000103540,9738,protein_coding,Human,16,19.523811,centriolar coiled-coil protein 110 [Source:HGNC Symbol;Acc:HGNC:24342],37.85,12,29598,1805,2797,694,1744,7
+ KNOP1,ENSG00000103550,400506,protein_coding,Human,16,19.701937,lysine rich nucleolar protein 1 [Source:HGNC Symbol;Acc:HGNC:34404],51.83,5,16299,656,2148,200,2764,4
+ PLK1,ENSG00000166851,5347,protein_coding,Human,16,23.677656,polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077],50.69,9,12712,706,1206,94,206,5
+ SEPHS2,ENSG00000179918,22928,protein_coding,Human,16,30.443631,selenophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:19686],51.2,1,2244,1347,2244,147,750,1
+ FUS,ENSG00000089280,2521,protein_coding,Human,16,31.180138,FUS RNA binding protein [Source:HGNC Symbol;Acc:HGNC:4010],47.07,13,11468,1384,1371,73,146,8
+ ITGAX,ENSG00000140678,3687,protein_coding,Human,16,31.355134,integrin subunit alpha X [Source:HGNC Symbol;Acc:HGNC:6152],52.2,7,27866,2516,2392,64,811,14
+ SHCBP1,ENSG00000171241,79801,protein_coding,Human,16,46.578591,SHC binding and spindle associated 1 [Source:HGNC Symbol;Acc:HGNC:29547],39.22,7,42789,1242,1325,20,3138,5
+ ORC6,ENSG00000091651,23594,protein_coding,Human,16,46.689643,origin recognition complex subunit 6 [Source:HGNC Symbol;Acc:HGNC:17151],44.16,9,8752,496,1200,102,470,5
+ C16orf87,ENSG00000155330,388272,protein_coding,Human,16,46.796603,chromosome 16 open reading frame 87 [Source:HGNC Symbol;Acc:HGNC:33754],36.81,4,34578,411,3709,22,4297,4
+ FANCA,ENSG00000187741,2175,protein_coding,Human,16,89.726683,FA complementation group A [Source:HGNC Symbol;Acc:HGNC:3582],50.96,45,90295,1212,2015,56,245,16
+ HASPIN,ENSG00000177602,83903,protein_coding,Human,17,3.723903,histone H3 associated protein kinase [Source:HGNC Symbol;Acc:HGNC:19682],53.91,1,2797,2397,2797,33,367,1
+ KIAA0753,ENSG00000198920,9851,protein_coding,Human,17,6.578147,KIAA0753 [Source:HGNC Symbol;Acc:HGNC:29110],41.53,10,62565,951,1658,108,432,9
+ RNASEK,ENSG00000219200,440400,protein_coding,Human,17,7.012417,ribonuclease K [Source:HGNC Symbol;Acc:HGNC:33911],57.04,10,2116,256,760,87,208,3
+ ASGR1,ENSG00000141505,432,protein_coding,Human,17,7.173431,asialoglycoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:742],55.95,9,6134,523,1160,248,207,6
+ KCNAB3,ENSG00000170049,9196,protein_coding,Human,17,7.921859,potassium voltage-gated channel subfamily A regulatory beta subunit 3 [Source:HGNC Symbol;Acc:HGNC:6230],53.85,6,7998,550,1452,394,522,7
+ AURKB,ENSG00000178999,9212,protein_coding,Human,17,8.204733,aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390],52.69,14,5868,713,815,57,106,6
+ FLCN,ENSG00000154803,201163,protein_coding,Human,17,17.212212,folliculin [Source:HGNC Symbol;Acc:HGNC:27310],53.29,10,24977,835,1639,112,826,4
+ TOP3A,ENSG00000177302,7156,protein_coding,Human,17,18.271428,DNA topoisomerase III alpha [Source:HGNC Symbol;Acc:HGNC:11992],48.23,20,43580,1023,1672,208,529,8
+ PRPSAP2,ENSG00000141127,5636,protein_coding,Human,17,18.840085,phosphoribosyl pyrophosphate synthetase associated protein 2 [Source:HGNC Symbol;Acc:HGNC:9467],44.41,29,91203,514,976,80,245,7
+ SLC5A10,ENSG00000154025,125206,protein_coding,Human,17,18.950345,solute carrier family 5 member 10 [Source:HGNC Symbol;Acc:HGNC:23155],56.84,6,72251,1745,2746,85,1014,12
+ FAM83G,ENSG00000188522,644815,protein_coding,Human,17,18.968789,family with sequence similarity 83 member G [Source:HGNC Symbol;Acc:HGNC:32554],58.04,4,35976,1790,3244,88,1430,4
+ SPAG5,ENSG00000076382,10615,protein_coding,Human,17,28.577565,sperm associated antigen 5 [Source:HGNC Symbol;Acc:HGNC:13452],46.2,16,21461,804,947,60,169,6
+ ATAD5,ENSG00000176208,79915,protein_coding,Human,17,30.831966,ATPase family AAA domain containing 5 [Source:HGNC Symbol;Acc:HGNC:25752],41.02,3,63904,4604,4537,380,956,17
+ UTP6,ENSG00000108651,55813,protein_coding,Human,17,31.860904,UTP6 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:18279],44.1,9,40805,689,1294,81,989,8
+ CCL1,ENSG00000108702,6346,protein_coding,Human,17,34.360328,C-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10609],49.62,1,2906,291,594,72,231,3
+ RDM1,ENSG00000278023,201299,protein_coding,Human,17,35.918066,RAD52 motif containing 1 [Source:HGNC Symbol;Acc:HGNC:19950],43.27,14,12708,535,791,207,168,5
+ ZNHIT3,ENSG00000273611,9326,protein_coding,Human,17,36.486629,zinc finger HIT-type containing 3 [Source:HGNC Symbol;Acc:HGNC:12309],45.77,12,12682,212,1126,57,327,4
+ TOP2A,ENSG00000131747,7153,protein_coding,Human,17,40.388525,DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989],39.79,5,29372,1707,1626,87,581,10
+ PSMC3IP,ENSG00000131470,29893,protein_coding,Human,17,42.57231,PSMC3 interacting protein [Source:HGNC Symbol;Acc:HGNC:17928],48.64,9,5522,411,1065,93,320,7
+ HROB,ENSG00000125319,78995,protein_coding,Human,17,44.141906,homologous recombination factor with OB-fold [Source:HGNC Symbol;Acc:HGNC:28460],50.23,5,20571,1817,1969,190,558,7
+ KIF18B,ENSG00000186185,146909,protein_coding,Human,17,44.924709,kinesin family member 18B [Source:HGNC Symbol;Acc:HGNC:27102],49.3,4,23065,2530,2864,46,1033,12
+ CBX1,ENSG00000108468,10951,protein_coding,Human,17,48.070052,chromobox 1 [Source:HGNC Symbol;Acc:HGNC:1551],45.92,6,31427,482,1181,100,945,5
+ HOXB2,ENSG00000173917,3212,protein_coding,Human,17,48.540894,homeobox B2 [Source:HGNC Symbol;Acc:HGNC:5113],56.24,3,4216,1071,1079,198,413,2
+ HOXB4,ENSG00000182742,3214,protein_coding,Human,17,48.575507,homeobox B4 [Source:HGNC Symbol;Acc:HGNC:5115],56.5,1,2844,756,2002,31,1215,2
+ UBE2Z,ENSG00000159202,65264,protein_coding,Human,17,48.908407,ubiquitin conjugating enzyme E2 Z [Source:HGNC Symbol;Acc:HGNC:25847],47.4,8,20650,442,1403,180,552,4
+ COL1A1,ENSG00000108821,1277,protein_coding,Human,17,50.184101,collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197],58.48,13,17532,2428,1089,102,1401,8
+ EME1,ENSG00000154920,146956,protein_coding,Human,17,50.37322,essential meiotic structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:24965],47.88,10,8264,1174,1323,31,435,6
+ SRSF1,ENSG00000136450,6426,protein_coding,Human,17,58.000919,serine and arginine rich splicing factor 1 [Source:HGNC Symbol;Acc:HGNC:10780],40.14,9,6428,510,1713,119,1203,4
+ PRR11,ENSG00000068489,55771,protein_coding,Human,17,59.155732,proline rich 11 [Source:HGNC Symbol;Acc:HGNC:25619],44.35,9,50978,699,1594,40,1248,7
+ RNFT1,ENSG00000189050,51136,protein_coding,Human,17,59.95224,"ring finger protein, transmembrane 1 [Source:HGNC Symbol;Acc:HGNC:30206]",38.09,9,12522,690,1205,79,323,6
+ BRIP1,ENSG00000136492,83990,protein_coding,Human,17,61.679139,BRCA1 interacting helicase 1 [Source:HGNC Symbol;Acc:HGNC:20473],35.96,26,184421,2061,4053,95,1269,13
+ KPNA2,ENSG00000182481,3838,protein_coding,Human,17,68.035636,karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395],43.75,21,11729,1412,2177,205,273,9
+ CD300LF,ENSG00000186074,146722,protein_coding,Human,17,74.694311,CD300 molecule like family member f [Source:HGNC Symbol;Acc:HGNC:29883],48.69,10,18668,724,1298,78,401,6
+ NUP85,ENSG00000125450,79902,protein_coding,Human,17,75.205659,nucleoporin 85 [Source:HGNC Symbol;Acc:HGNC:8734],48.14,25,30100,706,926,120,95,8
+ SLC25A19,ENSG00000125454,60386,protein_coding,Human,17,75.272981,solute carrier family 25 member 19 [Source:HGNC Symbol;Acc:HGNC:14409],50.68,15,16530,587,1056,157,424,5
+ LLGL2,ENSG00000073350,3993,protein_coding,Human,17,75.52508,LLGL scribble cell polarity complex component 2 [Source:HGNC Symbol;Acc:HGNC:6629],56.06,22,50130,1012,1411,88,175,10
+ SMIM6,ENSG00000259120,100130933,protein_coding,Human,17,75.646243,small integral membrane protein 6 [Source:HGNC Symbol;Acc:HGNC:40032],55.57,2,1733,189,1003,180,410,2
+ H3-3B,ENSG00000132475,3021,protein_coding,Human,17,75.776434,H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765],47.38,13,9460,389,1063,66,494,3
+ TRIM65,ENSG00000141569,201292,protein_coding,Human,17,75.880335,tripartite motif containing 65 [Source:HGNC Symbol;Acc:HGNC:27316],54.86,7,16617,767,1230,14,581,4
+ SRSF2,ENSG00000161547,6427,protein_coding,Human,17,76.734115,serine and arginine rich splicing factor 2 [Source:HGNC Symbol;Acc:HGNC:10783],48.99,11,3219,584,1244,168,636,3
+ BIRC5,ENSG00000089685,332,protein_coding,Human,17,78.214186,baculoviral IAP repeat containing 5 [Source:HGNC Symbol;Acc:HGNC:593],49.27,11,11451,326,1158,68,783,4
+ SLC16A3,ENSG00000141526,9123,protein_coding,Human,17,82.217934,solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924],59.86,19,43196,1242,2038,254,1025,4
+ TYMS,ENSG00000176890,7298,protein_coding,Human,18,0.657653,thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441],45.66,6,15926,825,996,90,534,5
+ METTL4,ENSG00000101574,64863,protein_coding,Human,18,2.537525,"methyltransferase 4, N6-adenosine [Source:HGNC Symbol;Acc:HGNC:24726]",36.78,7,33985,620,2289,268,1174,5
+ NDC80,ENSG00000080986,10403,protein_coding,Human,18,2.571557,NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909],36.33,5,45079,740,897,66,324,6
+ MYL12B,ENSG00000118680,103910,protein_coding,Human,18,3.261479,myosin light chain 12B [Source:HGNC Symbol;Acc:HGNC:29827],40.74,5,16983,519,1111,90,412,4
+ FAM210A,ENSG00000177150,125228,protein_coding,Human,18,13.663347,family with sequence similarity 210 member A [Source:HGNC Symbol;Acc:HGNC:28346],40.65,8,63317,667,2258,143,2462,4
+ ANKRD30B,ENSG00000180777,374860,protein_coding,Human,18,14.728272,ankyrin repeat domain 30B [Source:HGNC Symbol;Acc:HGNC:24165],35.4,6,126396,3710,3392,173,187,27
+ SKA1,ENSG00000154839,220134,protein_coding,Human,18,50.37504,spindle and kinetochore associated complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:28109],39.35,5,19129,551,1268,95,742,6
+ UHRF1,ENSG00000276043,29128,protein_coding,Human,19,4.90308,ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556],52.99,8,59075,2300,3309,157,800,16
+ HAUS8,ENSG00000131351,93323,protein_coding,Human,19,17.049729,HAUS augmin like complex subunit 8 [Source:HGNC Symbol;Acc:HGNC:30532],49.64,8,25897,782,1432,232,114,8
+ COMP,ENSG00000105664,1311,protein_coding,Human,19,18.782773,cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227],62.85,4,8533,2188,2009,154,142,14
+ ZNF738,ENSG00000172687,148203,protein_coding,Human,19,21.35893,zinc finger protein 738 [Source:HGNC Symbol;Acc:HGNC:32469],39.49,6,29653,438,2102,144,1436,5
+ NUDT19,ENSG00000213965,390916,protein_coding,Human,19,32.691821,nudix hydrolase 19 [Source:HGNC Symbol;Acc:HGNC:32036],46.29,1,21972,1128,3103,140,1835,3
+ CEP89,ENSG00000121289,84902,protein_coding,Human,19,32.875925,centrosomal protein 89 [Source:HGNC Symbol;Acc:HGNC:25907],45.48,9,96067,1021,1900,93,1053,9
+ SAE1,ENSG00000142230,10055,protein_coding,Human,19,47.113274,SUMO1 activating enzyme subunit 1 [Source:HGNC Symbol;Acc:HGNC:30660],47.18,14,97363,594,1690,81,651,8
+ C5AR1,ENSG00000197405,728,protein_coding,Human,19,47.290023,complement C5a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1338],49.69,3,32044,552,1171,109,1236,3
+ LIG1,ENSG00000105486,3978,protein_coding,Human,19,48.115445,DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598],51.48,36,55159,2131,2358,87,192,18
+ SYNGR4,ENSG00000105467,23546,protein_coding,Human,19,48.364367,synaptogyrin 4 [Source:HGNC Symbol;Acc:HGNC:11502],54.85,4,12011,411,700,87,152,4
+ FPR3,ENSG00000187474,2359,protein_coding,Human,19,51.795157,formyl peptide receptor 3 [Source:HGNC Symbol;Acc:HGNC:3828],42.76,2,31034,1062,2424,87,1189,2
+ ZNF528,ENSG00000167555,84436,protein_coding,Human,19,52.397849,zinc finger protein 528 [Source:HGNC Symbol;Acc:HGNC:29384],43.66,12,20564,381,1728,85,785,5
+ LILRA6,ENSG00000244482,79168,protein_coding,Human,19,54.236592,leukocyte immunoglobulin like receptor A6 [Source:HGNC Symbol;Acc:HGNC:15495],55.42,4,6200,1141,1614,28,339,7
+ LILRB4,ENSG00000186818,11006,protein_coding,Human,19,54.643889,leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608],47.12,11,26471,1045,1567,47,712,9
+ ZNF530,ENSG00000183647,348327,protein_coding,Human,19,57.599885,zinc finger protein 530 [Source:HGNC Symbol;Acc:HGNC:29297],46.12,5,12838,1347,3476,170,1525,3
+ ZNF544,ENSG00000198131,27300,protein_coding,Human,19,58.228594,zinc finger protein 544 [Source:HGNC Symbol;Acc:HGNC:16759],47.34,23,48902,984,1823,87,1106,5
+ GFRA4,ENSG00000125861,64096,protein_coding,Human,20,3.659248,GDNF family receptor alpha 4 [Source:HGNC Symbol;Acc:HGNC:13821],62.48,3,4152,753,1194,NA,661,5
+ PCNA,ENSG00000132646,5111,protein_coding,Human,20,5.114953,proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729],42.54,2,11674,786,1318,141,330,6
+ DZANK1,ENSG00000089091,55184,protein_coding,Human,20,18.383367,double zinc ribbon and ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:HGNC:15858],41.71,21,83915,1359,2655,216,635,16
+ FOXA2,ENSG00000125798,3170,protein_coding,Human,20,22.580998,forkhead box A2 [Source:HGNC Symbol;Acc:HGNC:5022],61.96,2,4458,1383,2470,192,848,2
+ GINS1,ENSG00000101003,9837,protein_coding,Human,20,25.391008,GINS complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:28980],42.37,25,61693,381,2285,127,1333,6
+ DEFB124,ENSG00000180383,245937,protein_coding,Human,20,31.465471,defensin beta 124 [Source:HGNC Symbol;Acc:HGNC:18104],55.69,2,11287,216,674,263,35,2
+ TPX2,ENSG00000088325,22974,protein_coding,Human,20,31.739271,TPX2 microtubule nucleation factor [Source:HGNC Symbol;Acc:HGNC:1249],41.52,2,62535,2298,3539,173,722,18
+ DNMT3B,ENSG00000088305,1789,protein_coding,Human,20,32.762385,DNA methyltransferase 3 beta [Source:HGNC Symbol;Acc:HGNC:2979],49.4,21,46975,1910,2489,111,736,14
+ CDK5RAP1,ENSG00000101391,51654,protein_coding,Human,20,33.358839,CDK5 regulatory subunit associated protein 1 [Source:HGNC Symbol;Acc:HGNC:15880],44.4,16,42723,1473,1224,82,204,8
+ DSN1,ENSG00000149636,79980,protein_coding,Human,20,36.751791,DSN1 component of MIS12 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:16165],44.84,10,22028,846,1761,105,994,10
+ FAM83D,ENSG00000101447,81610,protein_coding,Human,20,38.926312,family with sequence similarity 83 member D [Source:HGNC Symbol;Acc:HGNC:16122],46.5,2,26795,1803,2422,34,586,4
+ MYBL2,ENSG00000101057,4605,protein_coding,Human,20,43.667019,MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548],49.88,2,49477,2067,2686,218,402,14
+ HNF4A,ENSG00000101076,3172,protein_coding,Human,20,44.355699,hepatocyte nuclear factor 4 alpha [Source:HGNC Symbol;Acc:HGNC:5024],48.23,17,77147,805,1895,78,927,7
+ UBE2C,ENSG00000175063,11065,protein_coding,Human,20,45.812576,ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937],51.32,8,4382,385,679,80,175,5
+ EYA2,ENSG00000064655,2139,protein_coding,Human,20,46.894624,EYA transcriptional coactivator and phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3520],45.44,10,294221,1365,1325,105,569,9
+ AURKA,ENSG00000087586,6790,protein_coding,Human,20,56.369389,aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393],42.93,13,22949,916,1621,77,773,8
+ RAE1,ENSG00000101146,8480,protein_coding,Human,20,57.351223,ribonucleic acid export 1 [Source:HGNC Symbol;Acc:HGNC:9828],44.53,9,27989,797,1669,103,691,9
+ STX16,ENSG00000124222,8675,protein_coding,Human,20,58.651253,syntaxin 16 [Source:HGNC Symbol;Acc:HGNC:11431],41.01,20,28274,587,1874,202,1553,7
+ SLC17A9,ENSG00000101194,63910,protein_coding,Human,20,62.952707,solute carrier family 17 member 9 [Source:HGNC Symbol;Acc:HGNC:16192],61.28,7,16879,1020,2116,111,1591,8
+ PTK6,ENSG00000101213,5753,protein_coding,Human,20,63.528001,protein tyrosine kinase 6 [Source:HGNC Symbol;Acc:HGNC:9617],61.64,2,9376,880,2677,59,962,8
+ HUNK,ENSG00000142149,30811,protein_coding,Human,21,31.87302,hormonally up-regulated Neu-associated kinase [Source:HGNC Symbol;Acc:HGNC:13326],45.92,4,171614,990,2464,655,2700,6
+ MIS18A,ENSG00000159055,54069,protein_coding,Human,21,32.268228,MIS18 kinetochore protein A [Source:HGNC Symbol;Acc:HGNC:1286],40.71,2,10822,702,957,35,809,4
+ GART,ENSG00000159131,2618,protein_coding,Human,21,33.503931,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol;Acc:HGNC:4163]",41.63,18,39561,1400,1416,115,267,9
+ DONSON,ENSG00000159147,29980,protein_coding,Human,21,33.559542,DNA replication fork stabilization factor DONSON [Source:HGNC Symbol;Acc:HGNC:2993],37.85,13,29165,976,1499,29,305,7
+ CRYZL1,ENSG00000205758,9946,protein_coding,Human,21,33.589341,crystallin zeta like 1 [Source:HGNC Symbol;Acc:HGNC:2420],41.59,23,54586,514,1028,88,350,7
+ MRPS6,ENSG00000243927,64968,protein_coding,Human,21,34.073224,mitochondrial ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:14051],40.3,5,69811,378,1758,123,430,4
+ SETD4,ENSG00000185917,54093,protein_coding,Human,21,36.034541,SET domain containing 4 [Source:HGNC Symbol;Acc:HGNC:1258],44.84,17,44849,800,1580,210,594,7
+ CHAF1B,ENSG00000159259,8208,protein_coding,Human,21,36.385392,chromatin assembly factor 1 subunit B [Source:HGNC Symbol;Acc:HGNC:1911],46.71,3,33624,1680,2053,68,2649,8
+ RIPPLY3,ENSG00000183145,53820,protein_coding,Human,21,37.00615,ripply transcriptional repressor 3 [Source:HGNC Symbol;Acc:HGNC:3047],48.79,3,13513,573,1996,71,1455,4
+ HMGN1,ENSG00000205581,3150,protein_coding,Human,21,39.342315,high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984],42.26,21,7333,199,1131,139,326,6
+ SUMO3,ENSG00000184900,6612,protein_coding,Human,21,44.805617,small ubiquitin like modifier 3 [Source:HGNC Symbol;Acc:HGNC:11124],54.29,6,13163,398,1408,113,1008,4
+ C21orf58,ENSG00000160298,54058,protein_coding,Human,21,46.300181,chromosome 21 open reading frame 58 [Source:HGNC Symbol;Acc:HGNC:1300],52.19,10,23695,660,2020,412,489,7
+ CDC45,ENSG00000093009,8318,protein_coding,Human,22,19.479457,cell division cycle 45 [Source:HGNC Symbol;Acc:HGNC:1739],48.03,14,41156,1017,1197,80,69,12
+ MMP11,ENSG00000099953,4320,protein_coding,Human,22,23.768226,matrix metallopeptidase 11 [Source:HGNC Symbol;Acc:HGNC:7157],57.83,13,16091,1015,1163,22,530,4
+ DERL3,ENSG00000099958,91319,protein_coding,Human,22,23.834503,derlin 3 [Source:HGNC Symbol;Acc:HGNC:14236],61.13,10,4626,646,1417,20,1393,4
+ CRYBB1,ENSG00000100122,1414,protein_coding,Human,22,26.599278,crystallin beta B1 [Source:HGNC Symbol;Acc:HGNC:2397],48.38,2,18750,759,679,35,212,4
+ CHEK2,ENSG00000183765,11200,protein_coding,Human,22,28.687743,checkpoint kinase 2 [Source:HGNC Symbol;Acc:HGNC:16627],43.89,25,54680,930,1294,59,130,11
+ OSM,ENSG00000099985,5008,protein_coding,Human,22,30.262829,oncostatin M [Source:HGNC Symbol;Acc:HGNC:8506],60.33,3,4023,506,1110,79,477,3
+ HMOX1,ENSG00000100292,3162,protein_coding,Human,22,35.380361,heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013],51.11,7,13854,542,1192,99,561,4
+ MCM5,ENSG00000100297,4174,protein_coding,Human,22,35.400134,minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948],52.45,10,25298,1120,1436,35,506,7
+ H1-0,ENSG00000189060,3005,protein_coding,Human,22,37.805229,H1.0 linker histone [Source:HGNC Symbol;Acc:HGNC:4714],52.04,1,2204,585,2204,316,1303,1
+ GTSE1,ENSG00000075218,51512,protein_coding,Human,22,46.29687,G2 and S-phase expressed 1 [Source:HGNC Symbol;Acc:HGNC:13698],50.08,4,33941,2220,1544,42,680,5
+ PLCXD1,ENSG00000182378,55344,protein_coding,Human,X,0.276322,phosphatidylinositol specific phospholipase C X domain containing 1 [Source:HGNC Symbol;Acc:HGNC:23148],53.82,10,27035,508,1503,114,4020,5
+ TMSB4X,ENSG00000205542,7114,protein_coding,Human,X,12.97511,thymosin beta 4 X-linked [Source:HGNC Symbol;Acc:HGNC:11881],50.47,4,2118,135,896,336,378,3
+ RAB9A,ENSG00000123595,9367,protein_coding,Human,X,13.689128,"RAB9A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9792]",41.6,3,21377,428,1055,88,577,3
+ GEMIN8,ENSG00000046647,54960,protein_coding,Human,X,14.006726,gem nuclear organelle associated protein 8 [Source:HGNC Symbol;Acc:HGNC:26044],41.07,6,23168,689,1804,93,1306,4
+ FANCB,ENSG00000181544,2187,protein_coding,Human,X,14.690388,FA complementation group B [Source:HGNC Symbol;Acc:HGNC:3583],38.35,18,182868,2077,3188,98,657,10
+ CDY2A,ENSG00000182415,9426,protein_coding,Human,Y,18.025787,chromodomain Y-linked 2A [Source:HGNC Symbol;Acc:HGNC:1810],44.23,1,1960,1626,1960,328,6,1
+ EIF1AY,ENSG00000198692,9086,protein_coding,Human,Y,20.575776,eukaryotic translation initiation factor 1A Y-linked [Source:HGNC Symbol;Acc:HGNC:3252],35.59,5,17379,410,1346,87,546,5
+ CFAP47,ENSG00000165164,286464,protein_coding,Human,X,35.919734,cilia and flagella associated protein 47 [Source:HGNC Symbol;Acc:HGNC:26708],35.12,7,465584,3308,3132,48,439,18
+ RRAGB,ENSG00000083750,10325,protein_coding,Human,X,55.717749,Ras related GTP binding B [Source:HGNC Symbol;Acc:HGNC:19901],40.86,6,41026,916,977,351,218,6
+ ERCC6L,ENSG00000186871,54821,protein_coding,Human,X,72.204657,"ERCC excision repair 6 like, spindle assembly checkpoint helicase [Source:HGNC Symbol;Acc:HGNC:20794]",43.96,2,34371,3568,4281,158,353,2
+ FAM236D,ENSG00000225396,105373251,protein_coding,Human,X,72.807425,family with sequence similarity 236 member D [Source:HGNC Symbol;Acc:HGNC:52642],59.29,2,786,234,457,100,123,3
+ NAP1L2,ENSG00000186462,4674,protein_coding,Human,X,73.212299,nucleosome assembly protein 1 like 2 [Source:HGNC Symbol;Acc:HGNC:7638],40.34,1,2553,1383,2553,359,811,1
+ CYSLTR1,ENSG00000173198,10800,protein_coding,Human,X,78.271468,cysteinyl leukotriene receptor 1 [Source:HGNC Symbol;Acc:HGNC:17451],38.17,3,56224,1014,2805,174,1259,2
+ CENPI,ENSG00000102384,2491,protein_coding,Human,X,101.098188,centromere protein I [Source:HGNC Symbol;Acc:HGNC:3968],40.6,8,67939,1382,2380,97,1140,14
+ ,ENSG00000284800,NA,protein_coding,Human,X,102.360395,novel transcript,42.23,4,111418,278,3250,26,142,24
+ TCEAL9,ENSG00000185222,51186,protein_coding,Human,X,103.356489,transcription elongation factor A like 9 [Source:HGNC Symbol;Acc:HGNC:30084],43.77,3,1974,315,1222,448,372,2
+ UBE2A,ENSG00000077721,7319,protein_coding,Human,X,119.474802,ubiquitin conjugating enzyme E2 A [Source:HGNC Symbol;Acc:HGNC:12472],44.64,14,116282,425,1408,153,814,5
+ HMGB3,ENSG00000029993,3149,protein_coding,Human,X,150.980509,high mobility group box 3 [Source:HGNC Symbol;Acc:HGNC:5004],51.17,5,10263,563,1270,73,1438,5
+ RNA5SP163,ENSG00000222236,NA,rRNA_pseudogene,Human,4,71.759518,"RNA, 5S ribosomal pseudogene 163 [Source:HGNC Symbol;Acc:HGNC:43063]",47.47,1,99,NA,99,NA,NA,1
+ RNA5SP39,ENSG00000223177,NA,rRNA_pseudogene,Human,13,108.301212,"RNA, 5S ribosomal pseudogene 39 [Source:HGNC Symbol;Acc:HGNC:42615]",45,1,120,NA,120,NA,NA,1
+ RNA5SP498,ENSG00000223274,NA,rRNA_pseudogene,Human,X,1.300256,"RNA, 5S ribosomal pseudogene 498 [Source:HGNC Symbol;Acc:HGNC:43398]",44.17,1,120,NA,120,NA,NA,1
+ SNORD72,ENSG00000212296,619564,snoRNA,Human,5,40.832656,"small nucleolar RNA, C/D box 72 [Source:HGNC Symbol;Acc:HGNC:32733]",31.25,1,80,NA,80,NA,NA,1
+ U3,ENSG00000200492,NA,snoRNA,Human,6,92.119423,Small nucleolar RNA U3 [Source:RFAM;Acc:RF00012],42.65,1,211,NA,211,NA,NA,1
+ SNORD18,ENSG00000200677,NA,snoRNA,Human,15,90.755243,Small nucleolar RNA SNORD18 [Source:RFAM;Acc:RF00093],40,1,70,NA,70,NA,NA,1
+ SNORD83A,ENSG00000209482,116937,snoRNA,Human,22,39.315213,"small nucleolar RNA, C/D box 83A [Source:HGNC Symbol;Acc:HGNC:17131]",54.74,1,95,NA,95,NA,NA,1
+ RNU6-1199P,ENSG00000223181,NA,snRNA,Human,1,0.758233,"RNA, U6 small nuclear 1199, pseudogene [Source:HGNC Symbol;Acc:HGNC:48162]",39.42,1,104,NA,104,NA,NA,1
+ RNU6-776P,ENSG00000201273,NA,snRNA,Human,1,22.010985,"RNA, U6 small nuclear 776, pseudogene [Source:HGNC Symbol;Acc:HGNC:47739]",43.27,1,104,NA,104,NA,NA,1
+ RNVU1-3,ENSG00000201183,101954272,snRNA,Human,1,148.402715,"RNA, variant U1 small nuclear 3 [Source:HGNC Symbol;Acc:HGNC:48311]",44.1,1,161,NA,161,NA,NA,1
+ RNU6-1042P,ENSG00000206931,NA,snRNA,Human,1,150.701866,"RNA, U6 small nuclear 1042, pseudogene [Source:HGNC Symbol;Acc:HGNC:48005]",37.38,1,107,NA,107,NA,NA,1
+ RNU7-9P,ENSG00000238782,NA,snRNA,Human,2,229.606238,"RNA, U7 small nuclear 9 pseudogene [Source:HGNC Symbol;Acc:HGNC:34105]",46.77,1,62,NA,62,NA,NA,1
+ RNU6-882P,ENSG00000212327,NA,snRNA,Human,3,9.919051,"RNA, U6 small nuclear 882, pseudogene [Source:HGNC Symbol;Acc:HGNC:47845]",41.75,1,103,NA,103,NA,NA,1
+ RNU6-774P,ENSG00000200108,NA,snRNA,Human,4,84.233657,"RNA, U6 small nuclear 774, pseudogene [Source:HGNC Symbol;Acc:HGNC:47737]",39.25,1,107,NA,107,NA,NA,1
+ RNU6-280P,ENSG00000201015,NA,snRNA,Human,6,67.546651,"RNA, U6 small nuclear 280, pseudogene [Source:HGNC Symbol;Acc:HGNC:47243]",39.42,1,104,NA,104,NA,NA,1
+ RNU7-48P,ENSG00000238386,NA,snRNA,Human,6,70.513294,"RNA, U7 small nuclear 48 pseudogene [Source:HGNC Symbol;Acc:HGNC:34144]",33.33,1,63,NA,63,NA,NA,1
+ RNU7-35P,ENSG00000252983,NA,snRNA,Human,7,43.194421,"RNA, U7 small nuclear 35 pseudogene [Source:HGNC Symbol;Acc:HGNC:34131]",38.71,1,62,NA,62,NA,NA,1
+ RNU4ATAC15P,ENSG00000252224,NA,snRNA,Human,9,33.17417,"RNA, U4atac small nuclear 15, pseudogene [Source:HGNC Symbol;Acc:HGNC:46901]",44.44,1,126,NA,126,NA,NA,1
+ RNU6-535P,ENSG00000207453,NA,snRNA,Human,10,7.486703,"RNA, U6 small nuclear 535, pseudogene [Source:HGNC Symbol;Acc:HGNC:47498]",42.99,1,107,NA,107,NA,NA,1
+ U6,ENSG00000275174,NA,snRNA,Human,15,21.428879,U6 spliceosomal RNA [Source:RFAM;Acc:RF00026],43.93,1,107,NA,107,NA,NA,1
+ RNU6-944P,ENSG00000200893,NA,snRNA,Human,16,20.784509,"RNA, U6 small nuclear 944, pseudogene [Source:HGNC Symbol;Acc:HGNC:47907]",41.12,1,107,NA,107,NA,NA,1
+ RNU6-450P,ENSG00000201524,NA,snRNA,Human,17,59.847438,"RNA, U6 small nuclear 450, pseudogene [Source:HGNC Symbol;Acc:HGNC:47413]",37.38,1,107,NA,107,NA,NA,1
+ RNU6-563P,ENSG00000201742,NA,snRNA,Human,20,47.492978,"RNA, U6 small nuclear 563, pseudogene [Source:HGNC Symbol;Acc:HGNC:47526]",41.67,1,108,NA,108,NA,NA,1
+ ,ENSG00000283618,NA,sRNA,Human,7,30.115845,,43.33,1,150,NA,150,NA,NA,1
+ ,ENSG00000278924,NA,TEC,Human,2,172.423807,TEC,37.33,1,367,NA,367,NA,NA,1
+ ,ENSG00000279737,NA,TEC,Human,5,35.895689,TEC,34.34,1,332,NA,332,NA,NA,1
+ ,ENSG00000279716,NA,TEC,Human,19,15.398696,TEC,64.96,1,1661,NA,1661,NA,NA,1
+ TRDJ4,ENSG00000211826,NA,TR_J_gene,Human,14,22.455249,T cell receptor delta joining 4 [Source:HGNC Symbol;Acc:HGNC:12260],50,1,48,48,48,NA,NA,1
+ HSPD1P6,ENSG00000230067,NA,transcribed_processed_pseudogene,Human,3,36.767117,heat shock protein family D (Hsp60) member 1 pseudogene 6 [Source:HGNC Symbol;Acc:HGNC:5267],37.94,2,17051,NA,1127,NA,NA,2
+ RPSAP69,ENSG00000233487,NA,transcribed_processed_pseudogene,Human,3,196.986676,ribosomal protein SA pseudogene 69 [Source:HGNC Symbol;Acc:HGNC:51922],53.68,1,883,NA,883,NA,NA,1
+ ,ENSG00000257635,NA,transcribed_processed_pseudogene,Human,14,18.698639,NIMA (never in mitosis gene a)-related kinase 2 (NEK2) pseudogene,43.21,1,1340,NA,1340,NA,NA,1
+ ,ENSG00000257224,NA,transcribed_processed_pseudogene,Human,14,18.702281,"nitric oxide synthase 2, inducible (NOS2) pseudogene",63.93,1,183,NA,183,NA,NA,1
+ MED15P6,ENSG00000257162,NA,transcribed_processed_pseudogene,Human,14,19.485336,mediator complex subunit 15 pseudogene 6 [Source:HGNC Symbol;Acc:HGNC:48655],61.42,2,3813,NA,682,NA,NA,6
+ ,ENSG00000257884,NA,transcribed_processed_pseudogene,Human,14,19.677837,ubiquitin specific peptidase 10 (USP10) pseudogene,49.56,1,2268,NA,2268,NA,NA,1
+ PPIAP48,ENSG00000260187,NA,transcribed_processed_pseudogene,Human,16,64.735925,peptidylprolyl isomerase A pseudogene 48 [Source:HGNC Symbol;Acc:HGNC:53672],40.91,2,1359,NA,473,NA,NA,2
+ CRYZL2P,ENSG00000242193,730102,transcribed_unitary_pseudogene,Human,1,178.006136,"crystallin zeta like 2, pseudogene [Source:HGNC Symbol;Acc:HGNC:52164]",40.62,4,31815,NA,1824,NA,NA,7
+ CPHL1P,ENSG00000240216,NA,transcribed_unitary_pseudogene,Human,3,149.229356,"ceruloplasmin and hephaestin like 1, pseudogene [Source:HGNC Symbol;Acc:HGNC:31714]",39.96,4,62445,NA,1209,NA,NA,8
+ LINC00643,ENSG00000186369,NA,transcribed_unitary_pseudogene,Human,14,62.117346,long intergenic non-protein coding RNA 643 [Source:HGNC Symbol;Acc:HGNC:44296],36.89,6,13617,NA,1257,NA,NA,3
+ PRKY,ENSG00000099725,5616,transcribed_unitary_pseudogene,Human,Y,7.273972,protein kinase Y-linked (pseudogene) [Source:HGNC Symbol;Acc:HGNC:9444],44.3,4,107577,NA,2251,NA,NA,5
+ TUBA5P,ENSG00000214796,NA,transcribed_unprocessed_pseudogene,Human,1,202.851828,"tubulin alpha 5, pseudogene [Source:HGNC Symbol;Acc:HGNC:54799]",52.09,5,9928,NA,1117,NA,NA,3
+ ALG1L,ENSG00000189366,NA,transcribed_unprocessed_pseudogene,Human,3,125.928689,ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase like [Source:HGNC Symbol;Acc:HGNC:33721],45.08,23,61892,NA,936,NA,NA,5
+ ,ENSG00000170089,NA,transcribed_unprocessed_pseudogene,Human,5,177.809407,THO complex 3 (THOC3) pseudogene,44.8,16,141326,NA,950,NA,NA,5
+ STAG3L1,ENSG00000205583,NA,transcribed_unprocessed_pseudogene,Human,7,75.359194,stromal antigen 3-like 1 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:33852],50.41,6,36190,NA,994,NA,NA,6
+ CLCN3P1,ENSG00000232000,NA,transcribed_unprocessed_pseudogene,Human,9,14.921013,chloride voltage-gated channel 3 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:49775],39.37,6,225389,NA,2444,NA,NA,6
+ OR7E104P,ENSG00000219926,102723968,transcribed_unprocessed_pseudogene,Human,13,63.82884,olfactory receptor family 7 subfamily E member 104 pseudogene [Source:HGNC Symbol;Acc:HGNC:15343],48.29,6,15286,NA,1108,NA,NA,4
+ NF1P10,ENSG00000277529,NA,transcribed_unprocessed_pseudogene,Human,14,18.709478,neurofibromin 1 pseudogene 10 [Source:HGNC Symbol;Acc:HGNC:51737],35.06,2,3166,NA,613,NA,NA,4
+ NF1P4,ENSG00000258027,NA,transcribed_unprocessed_pseudogene,Human,14,19.492281,neurofibromin 1 pseudogene 4 [Source:HGNC Symbol;Acc:HGNC:7769],35.55,1,9460,NA,1681,NA,NA,11
+ NF1P11,ENSG00000278184,NA,transcribed_unprocessed_pseudogene,Human,14,19.612191,neurofibromin 1 pseudogene 11 [Source:HGNC Symbol;Acc:HGNC:51738],35.89,1,7300,NA,1282,NA,NA,8
+ KRT16P6,ENSG00000226145,NA,transcribed_unprocessed_pseudogene,Human,17,16.817983,keratin 16 pseudogene 6 [Source:HGNC Symbol;Acc:HGNC:50719],55.17,4,4597,NA,1146,NA,NA,5
+ ANKRD20A5P,ENSG00000186481,NA,transcribed_unprocessed_pseudogene,Human,18,14.179097,"ankyrin repeat domain 20 family member A5, pseudogene [Source:HGNC Symbol;Acc:HGNC:33833]",37.77,8,73044,NA,1138,NA,NA,6
+ ZNF887P,ENSG00000267500,NA,transcribed_unprocessed_pseudogene,Human,19,11.648364,"zinc finger protein 887, pseudogene [Source:HGNC Symbol;Acc:HGNC:38700]",43.51,1,4514,NA,1407,NA,NA,3
+ GYG2P1,ENSG00000206159,NA,transcribed_unprocessed_pseudogene,Human,Y,12.08801,glycogenin 2 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:4701],42.59,11,333578,NA,834,NA,NA,5
+ NXF5,ENSG00000126952,55998,transcribed_unprocessed_pseudogene,Human,X,101.832112,nuclear RNA export factor 5 [Source:HGNC Symbol;Acc:HGNC:8075],42.23,6,25466,NA,1924,NA,NA,18
+ EVA1CP6,ENSG00000251610,NA,unprocessed_pseudogene,Human,3,130.048143,EVA1C pseudogene 6 [Source:HGNC Symbol;Acc:HGNC:55740],44.65,1,7778,NA,328,NA,NA,3
+ ,ENSG00000250376,NA,unprocessed_pseudogene,Human,4,68.784618,pseudogene similar to part of UDP glucuronosyltransferase 2 family protein,32.38,1,2857,NA,714,NA,NA,4
+ ANKRD18CP,ENSG00000159712,NA,unprocessed_pseudogene,Human,9,97.15657,"ankyrin repeat domain 18C, pseudogene [Source:HGNC Symbol;Acc:HGNC:43601]",38.17,1,64666,NA,2980,NA,NA,16
+ ,ENSG00000215409,NA,unprocessed_pseudogene,Human,10,27.331357,pseudogene similar to part of breast cancer antigen NY-BR-1 (NY-BR-1),34.6,1,9896,NA,808,NA,NA,6
+ ,ENSG00000273497,NA,unprocessed_pseudogene,Human,10,91.896704,"DnaJ (Hsp40) homolog, subfamily C, member 12 (DNAJC12) pseudogene",46.91,1,194,NA,194,NA,NA,1
+ ,ENSG00000257493,NA,unprocessed_pseudogene,Human,14,19.664098,fatty acyl CoA reductase 2 (FAR2) pseudogene,42.01,1,19580,NA,411,NA,NA,3
+ ,ENSG00000257142,NA,unprocessed_pseudogene,Human,14,19.700479,fatty acyl CoA reductase 2 (FAR2) pseudogene,48.84,1,172,NA,172,NA,NA,1
+ ,ENSG00000260375,NA,unprocessed_pseudogene,Human,15,62.255686,golgin subfamily A pseudogene,51.63,1,736,NA,234,NA,NA,3
+ FGF7P1,ENSG00000264061,NA,unprocessed_pseudogene,Human,18,14.888709,fibroblast growth factor 7 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:21455],33.24,1,1378,NA,288,NA,NA,2
+ ,ENSG00000226474,NA,unprocessed_pseudogene,Human,22,15.615402,"nitric oxide synthase 2A (inducible, hepatocytes) (NOS2A) pseudogene.",64.41,1,177,NA,177,NA,NA,1
+ GOLGA6L11P,ENSG00000223698,NA,unprocessed_pseudogene,Human,Y,24.168187,"golgin A6 family like 11, pseudogene [Source:HGNC Symbol;Acc:HGNC:23958]",52.47,1,6308,NA,1298,NA,NA,9
